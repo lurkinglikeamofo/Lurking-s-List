@@ -273,7 +273,7 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "pawn",
@@ -284,6 +284,11 @@
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "trait",
+		"price": 3500,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "removetrait",
@@ -320,6 +325,6 @@
 		"price": 600,
 		"karmatype": "Neutral"
 	}
-	],
-	"total": 64
+	]
+	"total": 65
 }
