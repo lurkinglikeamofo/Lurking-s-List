@@ -14,6 +14,7 @@
     <script type="text/javascript">
         const itemListURL = "https://raw.githubusercontent.com/snackcastermaid/Snack-s-List/master/StoreItems.json";
         const eventListURL = "https://raw.githubusercontent.com/snackcastermaid/Snack-s-List/master/StoreEvents.json";
+	    const traitListURL = "https://raw.githubusercontent.com/snackcastermaid/Snack-s-List/master/Traitlist";
     </script>
 </head>
 
@@ -274,7 +275,23 @@
                 }
                 return allow;
             });
-        }
+        let traitList = null;
+        $.getJSON(traitListURL, function(data) {
+            var options = {
+                valueNames: ['abr', 'price', 'category'],
+                item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="category"></td></tr>'
+            };
+
+            var itemData = [];
+            $.each(data.items, function(index, value) {
+                if (value["price"] > 0) {
+                    itemData.push(value);
+                }
+            });
+
+            itemList = new List('items', options, itemData);
+        });
+	}
     </script>
     <script type="text/javascript">
         var tabs = angular.module('tabs', [])
