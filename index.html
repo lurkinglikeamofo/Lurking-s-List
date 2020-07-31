@@ -14,7 +14,7 @@
     <script type="text/javascript">
         const itemListURL = "https://raw.githubusercontent.com/snackcastermaid/Snack-s-List/master/StoreItems.json";
         const eventListURL = "https://raw.githubusercontent.com/snackcastermaid/Snack-s-List/master/StoreEvents.json";
-	    const traitListURL = "https://raw.githubusercontent.com/snackcastermaid/Snack-s-List/master/Traitlist.json";
+	const traitListURL = "https://raw.githubusercontent.com/snackcastermaid/Snack-s-List/master/Traitlist.json";
     </script>
 </head>
 
@@ -159,7 +159,7 @@
                                 <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
                             </div>
                             <p>
-                                <button type="button" class="btn btn-primary sort" data-sort="defName">
+                                <button type="button" class="btn btn-primary sort" data-sort="name">
                                     Sort
                                 </button>
                                 <button type="button" class="btn btn-primary sort" data-sort="description">
@@ -174,7 +174,7 @@
                             </p>
                             <table class="table events">
                                 <tr>
-                                    <th scope="col" class="sort" data-sort="defName">Name</th>
+                                    <th scope="col" class="sort" data-sort="name">Name</th>
                                     <th scope="col" class="sort" data-sort="description">Description</th>
                                     <th scope="col" class="sort" data-sort="addPrice">Add</th>
 				    <th scope="col" class="sort" data-sort="removePrice">Remove</th>
@@ -321,8 +321,8 @@
         let traitList = null;
         $.getJSON(traitListURL, function(data) {
             var options = {
-                valueNames: ['defName', 'description', 'addPrice', 'removePrice'],
-		item: '<tr><td class="defName" scope="row"></td><td class="description"></td><td class="addPrice"></td></tr><td class="removePrice"></td></tr>'
+                valueNames: ['name', 'description', 'addPrice', 'removePrice'],
+		item: '<tr><td class="name" scope="row"></td><td class="description"></td><td class="addPrice"></td></tr><td class="removePrice"></td></tr>'
             };
 
             var traitData = [];
