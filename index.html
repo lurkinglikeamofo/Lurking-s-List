@@ -559,7 +559,41 @@
         });
 
 
+	 
+	let traitList = null;
 
+        $.getJSON(traitListURL, function(data) {
+
+            var options = {
+
+                valueNames: ['name', 'addprice', 'removeprice'],
+
+                item: '<tr><td class="name" scope="row"></td><td class="addprice"></td><td class="removeprice"></td></tr>'
+
+            };
+
+
+
+            var eventData = [];
+
+            $.each(data.incitems, function(index, value) {
+
+                if (value["addprice"] > 0) {
+
+                    traitData.push(value);
+
+                }
+
+            });
+
+
+            traitList = new List('traits', options, eventData);
+
+        });
+	    
+	    
+	    
+	    
         $("#item-price-min").keyup(function() {
 
             updateItemFilter();
