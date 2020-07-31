@@ -342,9 +342,9 @@
 
                                     <th scope="col" class="sort" data-sort="name">Name</th>
 
-                                    <th scope="col" class="sort" data-sort="addPrice">Purchase</th>
+                                    <th scope="col" class="sort" data-sort="addPrice">Purchase Price</th>
 
-                                    <th scope="col" class="sort" data-sort="removePrice">Removal</th>
+                                    <th scope="col" class="sort" data-sort="removePrice">Removal Price</th>
 
                                 </tr>
 
@@ -566,19 +566,19 @@
 
             var options = {
 
-                valueNames: ['name', 'addprice', 'removeprice'],
+                valueNames: ['name', 'addPrice', 'removePrice'],
 
-                item: '<tr><td class="name" scope="row"></td><td class="addprice"></td><td class="removeprice"></td></tr>'
+                item: '<tr><td class="name" scope="row"></td><td class="addPrice"></td><td class="removePrice"></td></tr>'
 
             };
 
 
 
-            var eventData = [];
+            var traitData = [];
 
-            $.each(data.incitems, function(index, value) {
+            $.each(data.traits, function(index, value) {
 
-                if (value["addprice"] > 0) {
+                if (value["addPrice"] > 0) {
 
                     traitData.push(value);
 
@@ -637,6 +637,25 @@
             });
 
 	    eventList.filter(function(item) {
+
+                var allow = true;
+
+                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
+
+                    allow = false;
+
+                }
+
+                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
+
+                    allow = false;
+
+                }
+
+                return allow;
+
+            });
+		traitList.filter(function(item) {
 
                 var allow = true;
 
