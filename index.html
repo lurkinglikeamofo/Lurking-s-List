@@ -321,17 +321,17 @@
         $.getJSON(traitListURL, function(data) {
             var options = {
                 valueNames: ['defName', 'description', 'addPrice', 'removePrice'],
-                item: '<tr><td class="defName" scope="description"></td><td class="adPrice"></td><td class="removePrice"></td></tr>'
+                item: '<tr><td class="defName" scope="description"></td><td class="addPrice"></td><td class="removePrice"></td></tr>'
             };
 
-            var itemData = [];
-            $.each(data.items, function(index, value) {
+            var traitData = [];
+            $.each(data.trait, function(index, value) {
                 if (value["price"] > 0) {
-                    itemData.push(value);
+                    traitData.push(value);
                 }
             });
 
-            traitList = new List('Traits', options, itemData);
+            traitList = new List('Traits', options, traitData);
         });
 	}
     </script>
