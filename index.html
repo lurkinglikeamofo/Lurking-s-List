@@ -285,22 +285,7 @@
 
             eventList = new List('events', options, eventData);
         });
-	    let traitList = null;
-        $.getJSON(traitListURL, function(data) {
-            var options = {
-                valueNames: ['name', 'description', 'addPrice', 'removePrice'],
-		item: '<tr><td class="name" scope="row"></td><td class="description"></td><td class="addPrice"></td></tr><td class="removePrice"></td></tr>'
-            };
-
-            var traitData = [];
-            $.each(data.trait, function(index, value) {
-                if (value["price"] > 0) {
-                    traitData.push(value);
-                }
-            });
-
-            traitList = new List('Traits', options, traitData);
-        });
+	    
 	}
 
         $("#item-price-min").keyup(function() {
@@ -334,16 +319,8 @@
                 }
                 return allow;
             });
-		traitList.filter(function(item) {
-                var allow = true;
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-                    allow = false;
-                }
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-                    allow = false;
-                }
-                return allow;
-            });
+		
+
     </script>
     <script type="text/javascript">
         var tabs = angular.module('tabs', [])
