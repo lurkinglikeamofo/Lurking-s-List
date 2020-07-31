@@ -296,7 +296,71 @@
 
                 </div>
 
-            </div>
+            <div class="row" ng-show='selected == 3'>
+
+                    <div class="col-md-12">
+
+                        <div id="events">
+
+                            <div class="input-group input-group-sm mb-3">
+
+                                <div class="input-group-prepend">
+
+                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
+
+                                </div>
+
+                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
+
+                            </div>
+
+                            <p>
+
+                                <button type="button" class="btn btn-primary sort" data-sort="name">
+
+                                    Sort
+
+                                </button>
+
+                                <button type="button" class="btn btn-primary sort" data-sort="addPrice">
+
+                                    Sort by Price
+
+                                </button>
+
+                                <button type="button" class="btn btn-primary sort" data-sort="removePrice">
+
+                                    Sort by Karma
+
+                                </button>
+
+                            </p>
+
+                            <table class="table events">
+
+                                <tr>
+
+                                    <th scope="col" class="sort" data-sort="abr">Name</th>
+
+                                    <th scope="col" class="sort" data-sort="price">Purchase Price</th>
+
+                                    <th scope="col" class="sort" data-sort="karmatype">Removal Price</th>
+
+                                </tr>
+
+                                <tbody class="list">
+
+                                </tbody>
+
+                            </table>
+
+                        </div>
+
+                    </div>
+
+                </div>
+		    
+	    </div>
 
         </div>
 
