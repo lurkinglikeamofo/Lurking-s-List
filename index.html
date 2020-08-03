@@ -740,7 +740,7 @@
 
                     <div class="col-md-12">
 
-                        <div id="traits">
+                        <div id="races">
 
 
                             <div class="input-group input-group-sm mb-3">
@@ -774,7 +774,7 @@
 
 
 
-                            <table class="table traits">
+                            <table class="table races">
 
 
 
@@ -1212,11 +1212,6 @@
         });
 
 
-
-
-
-	 
-
 	let traitList = null;
 
 
@@ -1238,11 +1233,6 @@
 
 
             };
-
-
-
-
-
 
 
             var traitData = [];
@@ -1269,19 +1259,60 @@
 
 
 
-
-
             traitList = new List('traits', options, traitData);
 
 
 
         });
 
-	    
+	 $.getJSON(traitListURL, function(data) {
+
+
+
+            var options = {
+
+
+
+                valueNames: ['name', 'price'],
+
+
+
+                item: '<tr><td class="name" scope="row"></td><td class="name"></td><td class="price"></td></tr>'
+
+
+
+            };
+
+
+            var traitData = [];
+
+
+
+            $.each(data.races, function(index, value) {
+
+
+
+                if (value["addPrice"] > 0) {
+
+
+
+                    racesData.push(value);
+
+
+
+                }
+
+
+
+            });
+
+
+
+            traitList = new List('races', options, traitData);    
 
 	    
 
-	    
+	      });
 
 	    
 
