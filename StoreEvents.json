@@ -324,12 +324,7 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 500,
-		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 65
 }
