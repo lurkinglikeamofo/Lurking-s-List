@@ -1828,10 +1828,10 @@
 	var raceData = [];
 	 $.each(data.traits, function(index, value) {
 	if (value["addPrice"] > 0) {
-	traitData.push(value);
+	raceData.push(value);
 	}
 	 });
-	raceList = new List('races', options, traitData);
+	raceList = new List('races', options, raceData);
 	});
 	    
 	    
