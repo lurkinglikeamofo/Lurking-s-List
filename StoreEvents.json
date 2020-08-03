@@ -276,8 +276,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn",
-		"price": 1500,
+		"abr": "pawn (Human, Droid, Android, Battledroid, ",
+		"price": 1500 1000 2500 3000,
 		"karmatype": "Good"
 	},
 	{
@@ -324,7 +324,12 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "maninblack",
+		"price": 500,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 65
+	"total": 66
 }
