@@ -459,7 +459,6 @@
   <div class="row" ng-show='selected == 4'>
 
 
-
                     <div class="col-md-12">
 
                         <div id="races">
@@ -1148,225 +1147,43 @@
 
         });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         let eventList = null;
-
-
-
-
-
-
-
         $.getJSON(eventListURL, function(data) {
-
-
-
-
-
-
-
             var options = {
-
-
-
-
-
-
-
                 valueNames: ['abr', 'price', 'karmatype'],
 
-
-
-
-
-
-
                 item: '<tr><td class="abr" scope="row"></td><td class="price"></td><td class="karmatype"></td></tr>'
-
-
-
-
-
-
-
             };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             var eventData = [];
 
-
-
-
-
-
-
             $.each(data.incitems, function(index, value) {
-
-
-
-
-
-
-
                 if (value["price"] > 0) {
-
-
-
-
-
-
-
                     eventData.push(value);
-
-
-
-
-
-
-
                 }
-
-
-
-
-
-
 
             });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             eventList = new List('events', options, eventData);
-
-
-
-
-
-
 
         });
 
 
-
-
-
-
-
-
-
-
-
-	 
-
-
-
 	let traitList = null;
-
-
-
-
-
-
 
         $.getJSON(traitListURL, function(data) {
 
-
-
-
-
-
-
             var options = {
-
-
-
-
-
-
 
                 valueNames: ['name', 'description', 'addPrice', 'removePrice'],
 
-
-
-
-
-
-
                 item: '<tr><td class="name" scope="row"></td><td class="description"></td><td class="addPrice"></td><td class="removePrice"></td></tr>'
 
-
-
-
-
-
-
             };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
             var traitData = [];
 
 
-
-
-
-
-
             $.each(data.traits, function(index, value) {
-
-
-
-
 
 
 
@@ -1374,433 +1191,157 @@
 
 
 
+                    traitData.push(value);
 
+                }
+
+
+            });
+
+            traitList = new List('traits', options, traitData);
+        });
+
+        $("#item-price-min").keyup(function() {
+
+
+            updateItemFilter();
+
+        });
+
+        $("#item-price-max").keyup(function() {
+
+            updateItemFilter();
+
+        });
+
+        function updateItemFilter() {
+
+            var minPrice = $("#item-price-min").val();
+
+            var maxPrice = $("#item-price-max").val();
+
+            itemList.filter(function(item) {
+
+
+                var allow = true;
+
+                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
+
+                    allow = false;
+                }
+
+                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
+
+                    allow = false;
+
+
+
+
+
+
+
+                }
+
+
+
+
+
+
+
+                return allow;
+
+
+
+
+
+
+
+            });
+
+	    let raceList = null;
+
+        $.getJSON(traitListURL, function(data) {
+
+            var options = {
+
+                valueNames: ['name', 'description', 'addPrice', 'removePrice'],
+
+                item: '<tr><td class="name" scope="row"></td></td><td class="Price"></td></tr>'
+
+            };
+
+            var traitData = [];
+
+
+            $.each(data.race, function(index, value) {
+
+
+
+                if (value["addPrice"] > 0) {
 
 
 
                     traitData.push(value);
 
-
-
-
-
-
-
                 }
-
-
-
-
-
 
 
             });
 
-
-
-
-
-
-
-
-
-
-
-            traitList = new List('traits', options, traitData);
-
-
-
-
-
-
-
+            racesList = new List('races', options, traitData);
         });
-
-
-
-	    
-
-
-
-	    
-
-
-
-	    
-
-
-
-	    
-
-
 
         $("#item-price-min").keyup(function() {
 
 
-
-
-
-
-
             updateItemFilter();
 
-
-
-
-
-
-
         });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         $("#item-price-max").keyup(function() {
 
-
-
-
-
-
-
             updateItemFilter();
-
-
-
-
-
-
 
         });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         function updateItemFilter() {
-
-
-
-
-
-
 
             var minPrice = $("#item-price-min").val();
 
-
-
-
-
-
-
             var maxPrice = $("#item-price-max").val();
-
-
-
-
-
-
 
             itemList.filter(function(item) {
 
 
-
-
-
-
-
                 var allow = true;
-
-
-
-
-
-
 
                 if (minPrice != "" && parseInt(item.values().price) < minPrice) {
 
-
-
-
-
-
-
                     allow = false;
-
-
-
-
-
-
-
                 }
-
-
-
-
-
-
 
                 if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
 
-
-
-
-
-
-
                     allow = false;
 
-
-
-
-
-
-
                 }
-
-
-
-
-
-
 
                 return allow;
 
 
-
-
-
-
-
             });
-
-
-
-
-
-
-
-	    eventList.filter(function(item) {
-
-
-
-
-
-
-
-                var allow = true;
-
-
-
-
-
-
-
-                if (minPrice != "" && parseInt(item.values().price) < minPrice) {
-
-
-
-
-
-
-
-                    allow = false;
-
-
-
-
-
-
-
-                }
-
-
-
-
-
-
-
-                if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
-
-
-
-
-
-
-
-                    allow = false;
-
-
-
-
-
-
-
-                }
-
-
-
-
-
-
-
-                return allow;
-
-
-
-
-
-
-
-            });
-
-
-
-		
-
-
-
-		traitList.filter(function(item) {
-
-
-
-
-
-
-
-                var allow = true;
-
-
-
-
-
-
-
-                if (minPrice != "" && parseInt(item.values().addPrice) < minPrice) {
-
-
-
-
-
-
-
-                    allow = false;
-
-
-
-
-
-
-
-                }
-
-
-
-
-
-
-
-                if (maxPrice != "" && parseInt(item.values().addPrice) > maxPrice) {
-
-
-
-
-
-
-
-                    allow = false;
-
-
-
-
-
-
-
-                }
-
-
-
-
-
-
-
-                return allow;
-
-
-
-
-
-
-
-            });
-
-
-
-
-
 
 
         }
 
-
-
-
-
-
-
     </script>
 
-
-
-
-
-
-
     <script type="text/javascript">
-
-
-
-
-
-
 
         var tabs = angular.module('tabs', [])
 
 
-
-
-
-
-
             .controller('tabCtrl', function($scope) {
-
-
-
-
-
-
 
                 $scope.selected = "1";
 
