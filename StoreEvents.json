@@ -276,8 +276,8 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "pawn human droid android battledroid",
-		"price": 1500 1000 2500 3000,
+		"abr": "pawn",
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
