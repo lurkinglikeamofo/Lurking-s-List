@@ -291,15 +291,6 @@
 
 
                                     </button>
-				 <button class="btn btn-success" ng-class="{'active': (selected == '3')}" ng-click='selected=4'>
-
-
-
-                                        Races for !buy pawn
-
-
-
-                                    </button>
 
 
 
@@ -736,94 +727,7 @@
 
         </div>
 
-  <div class="row" ng-show='selected == 4'>
 
-                    <div class="col-md-12">
-
-                        <div id="races">
-
-
-                            <div class="input-group input-group-sm mb-3">
-
-                                <div class="input-group-prepend">
-
-
-
-                                    <span class="input-group-text" id="inputGroup-sizing-sm">Search</span>
-
-                                </div>
-
-                                <input type="text" class="form-control search" aria-label="Search" aria-describedby="inputGroup-sizing-sm">
-
-                            </div>
-
-                            <p>
-
-                                <button type="button" class="btn btn-primary sort" data-sort="name">
-
-                                    Sort
-
-                                </button>
-
-                                <button type="button" class="btn btn-primary sort" data-sort="price">
-
-                                    Sort by Price
-
-                                </button>
-                                    </p>
-
-
-
-                            <table class="table races">
-
-
-
-                                <tr>
-
-
-
-                                    <th scope="col" class="sort" data-sort="name">Name</th>
-
- 					<th scope="col" class="sort" data-sort="name">Name</th>
-                                    <th scope="col" class="sort" data-sort="price">Price</th>
-
-
-
-                               
-
-                                </tr>
-
-
-
-                                <tbody class="list">
-
-
-
-                                </tbody>
-
-
-
-                            </table>
-
-
-
-                        </div>
-
-
-
-                    </div>
-
-
-
-                </div>
-
-		    
-
-	    </div>
-
-
-
-        </div>
 
         <div class="container">
 
@@ -1212,6 +1116,11 @@
         });
 
 
+
+
+
+	 
+
 	let traitList = null;
 
 
@@ -1233,6 +1142,11 @@
 
 
             };
+
+
+
+
+
 
 
             var traitData = [];
@@ -1259,60 +1173,19 @@
 
 
 
+
+
             traitList = new List('traits', options, traitData);
 
 
 
         });
 
-	 $.getJSON(traitListURL, function(data) {
-
-
-
-            var options = {
-
-
-
-                valueNames: ['name', 'price'],
-
-
-
-                item: '<tr><td class="name" scope="row"></td><td class="name"></td><td class="price"></td></tr>'
-
-
-
-            };
-
-
-            var traitData = [];
-
-
-
-            $.each(data.races, function(index, value) {
-
-
-
-                if (value["addPrice"] > 0) {
-
-
-
-                    racesData.push(value);
-
-
-
-                }
-
-
-
-            });
-
-
-
-            traitList = new List('races', options, traitData);    
+	    
 
 	    
 
-	      });
+	    
 
 	    
 
@@ -1478,39 +1351,7 @@
 
             });
 
-traitList.filter(function(item) {
 
-
-
-                var allow = true;
-
-
-
-                if (minPrice != "" && parseInt(item.values().addPrice) < minPrice) {
-
-
-
-                    allow = false;
-
-
-
-                }
-
-
-
-                if (maxPrice != "" && parseInt(item.values().addPrice) > maxPrice) {
-
-
-
-                    allow = false;
-
-
-
-                }
-
-
-
-                return allow;
 
         }
 
