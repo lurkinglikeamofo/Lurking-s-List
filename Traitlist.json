@@ -4728,31 +4728,5 @@
       "removePrice": 5500,
       "stats": []
     }
-  ],
-  "races": [
-    {
-      "defName": "ChjAndroid",
-      "enabled": true,
-      "name": "android",
-      "price": 2500
-    },
-    {
-      "defName": "ChjBattleDroid",
-      "enabled": true,
-      "name": "battledroid",
-      "price": 3000
-    },
-    {
-      "defName": "ChjDroid",
-      "enabled": true,
-      "name": "droid",
-      "price": 1000
-    },
-    {
-      "defName": "Human",
-      "enabled": true,
-      "name": "human",
-      "price": 1500
-    }
   ]
 }
