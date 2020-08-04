@@ -129,6 +129,7 @@
 	const traitListURL = "https://raw.githubusercontent.com/snackcastermaid/Snack-s-List/master/Traitlist.json";
 
 
+	const raceListURL = "https://raw.githubusercontent.com/snackcastermaid/Snack-s-List/master/races.json";
 
 
 
@@ -1819,7 +1820,7 @@
 	});
 	    
 	 let raceList = null;
-        $.getJSON(traitListURL, function(data) {
+        $.getJSON(raceListURL, function(data) {
 	var options = {
 	valueNames: ['name', 'price'],
 	item: '<tr><td class="name" scope="row"></td><td class="price"></td></tr>'
