@@ -400,6 +400,9 @@
         function updateItemFilter() {
             var minPrice = $("#item-price-min").val();
             var maxPrice = $("#item-price-max").val();
+		
+		
+		
             itemList.filter(function(item) {
                 var allow = true;
                 if (minPrice != "" && parseInt(item.values().price) < minPrice) {
@@ -408,8 +411,9 @@
                 if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
                     allow = false;
                 }
-                return allow;
+                return allow;	    
             });
+		
 	    eventList.filter(function(item) {
                 var allow = true;
                 if (minPrice != "" && parseInt(item.values().price) < minPrice) {
@@ -418,7 +422,7 @@
                 if (maxPrice != "" && parseInt(item.values().price) > maxPrice) {
                     allow = false;
                 }
-                return allow;
+                return allow;    
             });
 
 		traitList.filter(function(item) {
@@ -432,7 +436,7 @@
                 return allow;
             });
 
-	raceList.filter(function(item) {
+		raceList.filter(function(item) {
                 var allow = true;
                 if (minPrice != "" && parseInt(item.values().addPrice) < minPrice) {
                     allow = false;
