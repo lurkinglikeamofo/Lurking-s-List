@@ -675,7 +675,7 @@
 	{
 		"abr": "elephanttusk",
 		"price": 133,
-		"category": "Horns/Antlers",
+		"category": "Items",
 		"defname": "ElephantTusk"
 	},
 	{
@@ -2115,7 +2115,7 @@
 	{
 		"abr": "thrumbohorn",
 		"price": 1333,
-		"category": "Horns/Antlers",
+		"category": "Items",
 		"defname": "ThrumboHorn"
 	},
 	{
@@ -2987,7 +2987,6991 @@
 		"price": 83,
 		"category": "Animal",
 		"defname": "AlolaRattata"
+	},
+	{
+		"abr": "alolarattataegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggAlolaRattataFertilized"
+	},
+	{
+		"abr": "alolansandshrew",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_SandshrewAlolan"
+	},
+	{
+		"abr": "alolansandshrewleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_SandshrewAlolan"
+	},
+	{
+		"abr": "alolansandshrewmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_SandshrewAlolan"
+	},
+	{
+		"abr": "alolansandslash",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_SandslashAlolan"
+	},
+	{
+		"abr": "alolansandslashleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_SandslashAlolan"
+	},
+	{
+		"abr": "alolansandslashmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_SandslashAlolan"
+	},
+	{
+		"abr": "alolanvulpix",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_VulpixAlolan"
+	},
+	{
+		"abr": "alolanvulpixleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_VulpixAlolan"
+	},
+	{
+		"abr": "alolanvulpixmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_VulpixAlolan"
+	},
+	{
+		"abr": "android",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ChjAndroid"
+	},
+	{
+		"abr": "androidleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_ChJAndroid"
+	},
+	{
+		"abr": "androidmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ChjAndroid"
+	},
+	{
+		"abr": "androidprinter",
+		"price": 7183,
+		"category": "Production",
+		"defname": "ChJAndroidPrinter"
+	},
+	{
+		"abr": "antenna",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_Antenna"
+	},
+	{
+		"abr": "anti-materialrifle",
+		"price": 1717,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_AntiMaterialRifle"
+	},
+	{
+		"abr": "aqualeather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Aqua"
+	},
+	{
+		"abr": "aqueousmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Totodile"
+	},
+	{
+		"abr": "arbok",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Arbok"
+	},
+	{
+		"abr": "arbokleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Arbok"
+	},
+	{
+		"abr": "arbokmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Arbok"
+	},
+	{
+		"abr": "archotecheraser",
+		"price": 3333,
+		"category": "Artifacts",
+		"defname": "VFEI_Artifacts_ArchotechEraser"
+	},
+	{
+		"abr": "archotechshieldbelt",
+		"price": 2183,
+		"category": "Artifacts",
+		"defname": "VFEI_Apparel_ArchotechShieldBelt"
+	},
+	{
+		"abr": "archotechteleporter",
+		"price": 1333,
+		"category": "Artifacts",
+		"defname": "VFEI_Artifacts_ArchotechTeleporter"
+	},
+	{
+		"abr": "aron",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Aron"
+	},
+	{
+		"abr": "aronegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggAronFertilized"
+	},
+	{
+		"abr": "balaclava",
+		"price": 80,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Balaclava"
+	},
+	{
+		"abr": "ballisticgoggles",
+		"price": 134,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_BallisticGoggles"
+	},
+	{
+		"abr": "banette",
+		"price": 458,
+		"category": "Animal",
+		"defname": "Banette"
+	},
+	{
+		"abr": "banetteegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggBanetteFertilized"
+	},
+	{
+		"abr": "baton",
+		"price": 206,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Baton"
+	},
+	{
+		"abr": "battleaxe",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_BattleAxe"
+	},
+	{
+		"abr": "battledress",
+		"price": 1458,
+		"category": "Apparel",
+		"defname": "ChjAndroidMaidBattleDress"
+	},
+	{
+		"abr": "battledroid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ChjBattleDroid"
+	},
+	{
+		"abr": "battledroidassemblykit",
+		"price": 3958,
+		"category": "Items",
+		"defname": "ChjAndroidBattleDroidAssemblyKit"
+	},
+	{
+		"abr": "battlemaidhat",
+		"price": 450,
+		"category": "Headgear",
+		"defname": "ChjAndroidBattleMaidHat"
+	},
+	{
+		"abr": "battlerifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_BattleRifle"
+	},
+	{
+		"abr": "bayleef",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Bayleef"
+	},
+	{
+		"abr": "bayleefegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggBayleefFertilized"
+	},
+	{
+		"abr": "beedrill",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Beedrill"
+	},
+	{
+		"abr": "beedrillleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Beedrill"
+	},
+	{
+		"abr": "beedrillmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Beedrill"
+	},
+	{
+		"abr": "bellossom",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Bellossom"
+	},
+	{
+		"abr": "bellossomleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Bellossom"
+	},
+	{
+		"abr": "bellossommeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Bellossom"
+	},
+	{
+		"abr": "bellsprout",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Bellsprout"
+	},
+	{
+		"abr": "bellsproutegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggBellsproutFertilized"
+	},
+	{
+		"abr": "bergmite",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Bergmite"
+	},
+	{
+		"abr": "bergmiteegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggBergmiteFertilized"
+	},
+	{
+		"abr": "bio-engineeringincubator",
+		"price": 1067,
+		"category": "Furniture",
+		"defname": "VFEI_BioengineeringIncubator"
+	},
+	{
+		"abr": "blastoise",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Blastoise"
+	},
+	{
+		"abr": "blastoise",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "Blastoise"
+	},
+	{
+		"abr": "blastoiseegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggBlastoiseFertilized"
+	},
+	{
+		"abr": "blastoiseleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Blastoise"
+	},
+	{
+		"abr": "blastoisemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Blastoise"
+	},
+	{
+		"abr": "blukberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawBluk"
+	},
+	{
+		"abr": "budew",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Budew"
+	},
+	{
+		"abr": "budewegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggBudewFertilized"
+	},
+	{
+		"abr": "bugmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wurmple"
+	},
+	{
+		"abr": "bugmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Weedle"
+	},
+	{
+		"abr": "bulbasaur",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Bulbasaur"
+	},
+	{
+		"abr": "bulbasaur",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Bulbasaur"
+	},
+	{
+		"abr": "bulbasauregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggBulbasaurFertilized"
+	},
+	{
+		"abr": "bulbasaurleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Bulbasaur"
+	},
+	{
+		"abr": "bulbasaurmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Bulbasaur"
+	},
+	{
+		"abr": "bulletproofvest",
+		"price": 1100,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_BulletproofVest"
+	},
+	{
+		"abr": "buneary",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Buneary"
+	},
+	{
+		"abr": "bunearyegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggBunearyFertilized"
+	},
+	{
+		"abr": "butterfree",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Butterfree"
+	},
+	{
+		"abr": "butterfreeleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Butterfree"
+	},
+	{
+		"abr": "butterfreemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Butterfree"
+	},
+	{
+		"abr": "camerupt",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Camerupt"
+	},
+	{
+		"abr": "cameruptegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCameruptFertilized"
+	},
+	{
+		"abr": "cannon",
+		"price": 692,
+		"category": "Security",
+		"defname": "Turret_WDCannon"
+	},
+	{
+		"abr": "cannonantigrainwarhead",
+		"price": 1500,
+		"category": "Cannon shells",
+		"defname": "Shell_WDCannonAntigrainWarhead"
+	},
+	{
+		"abr": "cannonempshell",
+		"price": 83,
+		"category": "Cannon shells",
+		"defname": "Shell_WDCannonEMP"
+	},
+	{
+		"abr": "cannonfirefoamshell",
+		"price": 83,
+		"category": "Cannon shells",
+		"defname": "Shell_WDCannonFirefoam"
+	},
+	{
+		"abr": "cannonhigh-explosiveshell",
+		"price": 83,
+		"category": "Cannon shells",
+		"defname": "Shell_WDCannonHighExplosive"
+	},
+	{
+		"abr": "cannonincendiaryshell",
+		"price": 83,
+		"category": "Cannon shells",
+		"defname": "Shell_WDCannonIncendiary"
+	},
+	{
+		"abr": "carbine",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Carbine"
+	},
+	{
+		"abr": "caterpie",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Caterpie"
+	},
+	{
+		"abr": "caterpie",
+		"price": 100,
+		"category": "Animal",
+		"defname": "Caterpie"
+	},
+	{
+		"abr": "caterpieegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCaterpieFertilized"
+	},
+	{
+		"abr": "caterpieleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Caterpie"
+	},
+	{
+		"abr": "caterpiemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Caterpie"
+	},
+	{
+		"abr": "chainmail",
+		"price": 417,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Chainmail"
+	},
+	{
+		"abr": "chargelmg",
+		"price": 2833,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeLMG"
+	},
+	{
+		"abr": "chargeminigun",
+		"price": 5458,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeMinigun"
+	},
+	{
+		"abr": "chargepistol",
+		"price": 1008,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargePistol"
+	},
+	{
+		"abr": "chargerocketlauncher",
+		"price": 11667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeRocketLauncher"
+	},
+	{
+		"abr": "chargeshotgun",
+		"price": 1683,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeShotgun"
+	},
+	{
+		"abr": "chargesmg",
+		"price": 1508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeSMG"
+	},
+	{
+		"abr": "chargesniperrifle",
+		"price": 2050,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ChargeSniperRifle"
+	},
+	{
+		"abr": "chargedmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Jolteon"
+	},
+	{
+		"abr": "charizard",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Charizard"
+	},
+	{
+		"abr": "charizard",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "Charizard"
+	},
+	{
+		"abr": "charizardegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCharizardFertilized"
+	},
+	{
+		"abr": "charizardleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Charizard"
+	},
+	{
+		"abr": "charizardmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Charizard"
+	},
+	{
+		"abr": "charmander",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Charmander"
+	},
+	{
+		"abr": "charmander",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Charmander"
+	},
+	{
+		"abr": "charmanderegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCharmanderFertilized"
+	},
+	{
+		"abr": "charmanderleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Charmander"
+	},
+	{
+		"abr": "charmandermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Charmander"
+	},
+	{
+		"abr": "charmeleon",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Charmeleon"
+	},
+	{
+		"abr": "charmeleon",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Charmeleon"
+	},
+	{
+		"abr": "charmeleonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCharmeleonFertilized"
+	},
+	{
+		"abr": "charmeleonleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Charmeleon"
+	},
+	{
+		"abr": "charmeleonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Charmeleon"
+	},
+	{
+		"abr": "cherubi",
+		"price": 208,
+		"category": "Animal",
+		"defname": "Cherubi"
+	},
+	{
+		"abr": "cherubiegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCherubiFertilized"
+	},
+	{
+		"abr": "chestoberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawChesto"
+	},
+	{
+		"abr": "chestplate",
+		"price": 383,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Chestplate"
+	},
+	{
+		"abr": "chikorita",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Chikorita"
+	},
+	{
+		"abr": "chikoritaegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggChikoritaFertilized"
+	},
+	{
+		"abr": "chinchou",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Chinchou"
+	},
+	{
+		"abr": "chinchouegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggChinchouFertilized"
+	},
+	{
+		"abr": "chitin",
+		"price": 10,
+		"category": "Raw resources",
+		"defname": "VFEI_Chitin"
+	},
+	{
+		"abr": "cleaver",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Cleaver"
+	},
+	{
+		"abr": "clefable",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Clefable"
+	},
+	{
+		"abr": "clefableleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Clefable"
+	},
+	{
+		"abr": "clefablemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Clefable"
+	},
+	{
+		"abr": "clefairy",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Clefairy"
+	},
+	{
+		"abr": "clefairyleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Clefairy"
+	},
+	{
+		"abr": "clefairymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Clefairy"
+	},
+	{
+		"abr": "cleffa",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Cleffa"
+	},
+	{
+		"abr": "cleffaleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Cleffa"
+	},
+	{
+		"abr": "cleffameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Cleffa"
+	},
+	{
+		"abr": "clothingrack",
+		"price": 170,
+		"category": "Furniture",
+		"defname": "LWM_Clothing_Rack"
+	},
+	{
+		"abr": "combathandgun",
+		"price": 291,
+		"category": "Ranged weapons",
+		"defname": "VWE_CombatHandgun"
+	},
+	{
+		"abr": "combatknife",
+		"price": 205,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_CombatKnife"
+	},
+	{
+		"abr": "combee",
+		"price": 292,
+		"category": "Animal",
+		"defname": "Combee"
+	},
+	{
+		"abr": "combeeegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCombeeFertilized"
+	},
+	{
+		"abr": "compoundbow",
+		"price": 240,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Compound"
+	},
+	{
+		"abr": "compoundeye",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_CompoundEye"
+	},
+	{
+		"abr": "corelauncher",
+		"price": 2283,
+		"category": "Ranged weapons",
+		"defname": "Gun_ChjCoreLauncher"
+	},
+	{
+		"abr": "cracklingleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Crackling"
+	},
+	{
+		"abr": "crispymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Sandshrew"
+	},
+	{
+		"abr": "crobat",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Crobat"
+	},
+	{
+		"abr": "crobatleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Crobat"
+	},
+	{
+		"abr": "crobatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Crobat"
+	},
+	{
+		"abr": "croconaw",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Croconaw"
+	},
+	{
+		"abr": "croconawegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCroconawFertilized"
+	},
+	{
+		"abr": "crossbow",
+		"price": 358,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Crossbow"
+	},
+	{
+		"abr": "crumblymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Onyx"
+	},
+	{
+		"abr": "cubone",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Cubone"
+	},
+	{
+		"abr": "cuboneleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Cubone"
+	},
+	{
+		"abr": "cubonemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Cubone"
+	},
+	{
+		"abr": "cyndaquil",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Cyndaquil"
+	},
+	{
+		"abr": "darkleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Dark"
+	},
+	{
+		"abr": "doduo",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Doduo"
+	},
+	{
+		"abr": "doduoegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggDoduoFertilized"
+	},
+	{
+		"abr": "doubleshelf",
+		"price": 224,
+		"category": "Furniture",
+		"defname": "LWM_BigShelf"
+	},
+	{
+		"abr": "dragonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dratini"
+	},
+	{
+		"abr": "dragonair",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Dragonair"
+	},
+	{
+		"abr": "dragonairegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggDragonairFertilized"
+	},
+	{
+		"abr": "dragonite",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "Dragonite"
+	},
+	{
+		"abr": "dragoniteegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggDragoniteFertilized"
+	},
+	{
+		"abr": "dratini",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Dratini"
+	},
+	{
+		"abr": "dratiniegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggDratiniFertilized"
+	},
+	{
+		"abr": "dreammeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Espeon"
+	},
+	{
+		"abr": "drifloon",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Drifloon"
+	},
+	{
+		"abr": "drifloonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggDrifloonFertilized"
+	},
+	{
+		"abr": "droid",
+		"price": -10,
+		"category": "Animal",
+		"defname": "ChjDroid"
+	},
+	{
+		"abr": "droidassemblykit",
+		"price": 1775,
+		"category": "Items",
+		"defname": "ChjAndroidDroidAssemblyKit"
+	},
+	{
+		"abr": "droidbattery",
+		"price": 17,
+		"category": "Manufactured",
+		"defname": "ChjAndroidBattery"
+	},
+	{
+		"abr": "droidchemfuelgeneratorbelt",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "ChjAndroid_ChemfuelGenerator"
+	},
+	{
+		"abr": "droidfabricator",
+		"price": 1825,
+		"category": "Misc",
+		"defname": "ChJDroidPrinter"
+	},
+	{
+		"abr": "droidrepairkit",
+		"price": 367,
+		"category": "Manufactured",
+		"defname": "ChjDroidRepairKit"
+	},
+	{
+		"abr": "droidrepairparts",
+		"price": 28,
+		"category": "Manufactured",
+		"defname": "ChjDroidRepairParts"
+	},
+	{
+		"abr": "droidsolarpanelduster",
+		"price": 650,
+		"category": "Apparel",
+		"defname": "ChjAndroid_SolarDuster"
+	},
+	{
+		"abr": "dronegeneticmaterial",
+		"price": 167,
+		"category": "Manufactured",
+		"defname": "VFEI_DroneGenome"
+	},
+	{
+		"abr": "eastseagastrodon",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "GastrodonEastSea"
+	},
+	{
+		"abr": "eastseagastrodonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggGastrodonEastSeaFertilized"
+	},
+	{
+		"abr": "eastseashellos",
+		"price": 333,
+		"category": "Animal",
+		"defname": "ShellosEastSea"
+	},
+	{
+		"abr": "eastseashellosegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggShellosEastSeaFertilized"
+	},
+	{
+		"abr": "eevee",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Eevee"
+	},
+	{
+		"abr": "eevee",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Eevee"
+	},
+	{
+		"abr": "eeveeegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggEeveeFertilized"
+	},
+	{
+		"abr": "eeveeleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Eevee"
+	},
+	{
+		"abr": "eeveemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Eevee"
+	},
+	{
+		"abr": "ekans",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Ekans"
+	},
+	{
+		"abr": "ekansleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Ekans"
+	},
+	{
+		"abr": "ekansmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Ekans"
+	},
+	{
+		"abr": "electricwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "ElectricWool"
+	},
+	{
+		"abr": "electrode",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Electrode"
+	},
+	{
+		"abr": "empoleon",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "Empoleon"
+	},
+	{
+		"abr": "empoleonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggEmpoleonFertilized"
+	},
+	{
+		"abr": "espeon",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Espeon"
+	},
+	{
+		"abr": "espeon",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Espeon"
+	},
+	{
+		"abr": "espeonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggEspeonFertilized"
+	},
+	{
+		"abr": "espeonleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Espeon"
+	},
+	{
+		"abr": "espeonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Espeon"
+	},
+	{
+		"abr": "evolutionstone(fire)",
+		"price": 1667,
+		"category": "Artifacts",
+		"defname": "O21_PokemonStone_Fire"
+	},
+	{
+		"abr": "evolutionstone(ice)",
+		"price": 1667,
+		"category": "Artifacts",
+		"defname": "O21_PokemonStone_Ice"
+	},
+	{
+		"abr": "evolutionstone(leaf)",
+		"price": 1667,
+		"category": "Artifacts",
+		"defname": "O21_PokemonStone_Leaf"
+	},
+	{
+		"abr": "evolutionstone(moon)",
+		"price": 1667,
+		"category": "Artifacts",
+		"defname": "O21_PokemonStone_Moon"
+	},
+	{
+		"abr": "evolutionstone(special)",
+		"price": 1667,
+		"category": "Artifacts",
+		"defname": "O21_PokemonStone_Special"
+	},
+	{
+		"abr": "evolutionstone(sun)",
+		"price": 1667,
+		"category": "Artifacts",
+		"defname": "O21_PokemonStone_Sun"
+	},
+	{
+		"abr": "evolutionstone(thunder)",
+		"price": 1667,
+		"category": "Artifacts",
+		"defname": "O21_PokemonStone_Thunder"
+	},
+	{
+		"abr": "evolutionstone(water)",
+		"price": 1667,
+		"category": "Artifacts",
+		"defname": "O21_PokemonStone_Water"
+	},
+	{
+		"abr": "fearow",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Fearow"
+	},
+	{
+		"abr": "fearow",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "Fearow"
+	},
+	{
+		"abr": "fearowegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggFearowFertilized"
+	},
+	{
+		"abr": "fearowleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Fearow"
+	},
+	{
+		"abr": "fearowmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Fearow"
+	},
+	{
+		"abr": "feraligatr",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "Feraligatr"
+	},
+	{
+		"abr": "feraligatregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggFeraligatrFertilized"
+	},
+	{
+		"abr": "fierymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cyndaquil"
+	},
+	{
+		"abr": "fierymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Ponyta"
+	},
+	{
+		"abr": "fireextinguisher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_FireExtinguisher"
+	},
+	{
+		"abr": "flamethrower",
+		"price": 667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Flamethrower"
+	},
+	{
+		"abr": "flareon",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Flareon"
+	},
+	{
+		"abr": "flareon",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Flareon"
+	},
+	{
+		"abr": "flareonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggFlareonFertilized"
+	},
+	{
+		"abr": "flareonleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Flareon"
+	},
+	{
+		"abr": "flareonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Flareon"
+	},
+	{
+		"abr": "flashgrenades",
+		"price": 525,
+		"category": "Grenades",
+		"defname": "VWE_FlashGrenade"
+	},
+	{
+		"abr": "fletchinder",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Fletchinder"
+	},
+	{
+		"abr": "fletchinderegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggFletchinderFertilized"
+	},
+	{
+		"abr": "fletchling",
+		"price": 158,
+		"category": "Animal",
+		"defname": "Fletchling"
+	},
+	{
+		"abr": "fletchlingegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggFletchlingFertilized"
+	},
+	{
+		"abr": "flintlock",
+		"price": 275,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Flintlock"
+	},
+	{
+		"abr": "foodbasket",
+		"price": 270,
+		"category": "Furniture",
+		"defname": "LWM_Food_Basket"
+	},
+	{
+		"abr": "frozenleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Frozen"
+	},
+	{
+		"abr": "frozenmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Spheal"
+	},
+	{
+		"abr": "furret",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Furret"
+	},
+	{
+		"abr": "furretegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggFurretFertilized"
+	},
+	{
+		"abr": "gambeson",
+		"price": 280,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Gambeson"
+	},
+	{
+		"abr": "gardevoir/gallade",
+		"price": 917,
+		"category": "Animal",
+		"defname": "GardevoirGallade"
+	},
+	{
+		"abr": "gardevoir/galladeegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggGardevoirGalladeFertilized"
+	},
+	{
+		"abr": "gastly",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Gastly"
+	},
+	{
+		"abr": "gastlyegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggGastlyFertilized"
+	},
+	{
+		"abr": "geodude",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Geodude"
+	},
+	{
+		"abr": "ghilliehood",
+		"price": 168,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_GhillieHood"
+	},
+	{
+		"abr": "ghilliesuit",
+		"price": 475,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_GhillieSuit"
+	},
+	{
+		"abr": "gigalocust",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "VFEI_Insectoid_Gigalocust"
+	},
+	{
+		"abr": "glaceon",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Glaceon"
+	},
+	{
+		"abr": "glaceon",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Glaceon"
+	},
+	{
+		"abr": "glaceonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggGlaceonFertilized"
+	},
+	{
+		"abr": "glaceonleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Glaceon"
+	},
+	{
+		"abr": "glaceonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Glaceon"
+	},
+	{
+		"abr": "glalie/froslass",
+		"price": 792,
+		"category": "Animal",
+		"defname": "GlalieFroslass"
+	},
+	{
+		"abr": "glalie/froslassegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggGlalieFroslassFertilized"
+	},
+	{
+		"abr": "gloom",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Gloom"
+	},
+	{
+		"abr": "gloomleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Gloom"
+	},
+	{
+		"abr": "gloommeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Gloom"
+	},
+	{
+		"abr": "golbat",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Golbat"
+	},
+	{
+		"abr": "golbatleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Golbat"
+	},
+	{
+		"abr": "golbatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Golbat"
+	},
+	{
+		"abr": "golem",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Golem"
+	},
+	{
+		"abr": "graveler",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Graveler"
+	},
+	{
+		"abr": "greatballbed",
+		"price": 28,
+		"category": "Furniture",
+		"defname": "GreatBallBed"
+	},
+	{
+		"abr": "grenadelauncher",
+		"price": 508,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_GrenadeLauncher"
+	},
+	{
+		"abr": "growthstimulator",
+		"price": 83,
+		"category": "Torture",
+		"defname": "WCE2_GrowthStimulator"
+	},
+	{
+		"abr": "habanberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawHaban"
+	},
+	{
+		"abr": "halberd",
+		"price": 483,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Halberd"
+	},
+	{
+		"abr": "hammer",
+		"price": 281,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Hammer"
+	},
+	{
+		"abr": "hampers",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "LWM_FabricHamper"
+	},
+	{
+		"abr": "handcannon",
+		"price": 232,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_HandCannon"
+	},
+	{
+		"abr": "hatchet",
+		"price": 147,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Axe"
+	},
+	{
+		"abr": "haulerbasestation",
+		"price": 2917,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler"
+	},
+	{
+		"abr": "haulingbot",
+		"price": 17,
+		"category": "Animal",
+		"defname": "AIRobot_Hauler"
+	},
+	{
+		"abr": "haulingbot(disabled)",
+		"price": 42,
+		"category": "Robots",
+		"defname": "AIRobot_Hauler_disabled"
+	},
+	{
+		"abr": "haunter",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Haunter"
+	},
+	{
+		"abr": "haunteregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggHaunterFertilized"
+	},
+	{
+		"abr": "hayloft",
+		"price": 287,
+		"category": "Furniture",
+		"defname": "LWM_Hayloft"
+	},
+	{
+		"abr": "hazmatmask",
+		"price": 308,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_HAZMATMask"
+	},
+	{
+		"abr": "hazmatsuit",
+		"price": 933,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_HAZMATSuit"
+	},
+	{
+		"abr": "heatedleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Heated"
+	},
+	{
+		"abr": "heavyantigrainwarhead",
+		"price": 2500,
+		"category": "Heavy shells",
+		"defname": "Shell_WDHeavyAntigrainWarhead"
+	},
+	{
+		"abr": "heavyballbed",
+		"price": 28,
+		"category": "Furniture",
+		"defname": "HeavyBallBed"
+	},
+	{
+		"abr": "heavyempshell",
+		"price": 150,
+		"category": "Heavy shells",
+		"defname": "Shell_WDHeavyEMP"
+	},
+	{
+		"abr": "heavyfirefoamshell",
+		"price": 150,
+		"category": "Heavy shells",
+		"defname": "Shell_WDHeavyFirefoam"
+	},
+	{
+		"abr": "heavyhigh-explosiveshell",
+		"price": 150,
+		"category": "Heavy shells",
+		"defname": "Shell_WDHeavyHighExplosive"
+	},
+	{
+		"abr": "heavyincendiaryshell",
+		"price": 150,
+		"category": "Heavy shells",
+		"defname": "Shell_WDHeavyIncendiary"
+	},
+	{
+		"abr": "heavymarinearmor",
+		"price": 5250,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_HeavyMarineArmor"
+	},
+	{
+		"abr": "heavymarinehelmet",
+		"price": 1575,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_HeavyMarineHelmet"
+	},
+	{
+		"abr": "herbalmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Chikorita"
+	},
+	{
+		"abr": "hibernationpad",
+		"price": 104,
+		"category": "Production",
+		"defname": "ChjDroidHibernationPad"
+	},
+	{
+		"abr": "hmg",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_HMG"
+	},
+	{
+		"abr": "hondewberries",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "RawHondew"
+	},
+	{
+		"abr": "honey",
+		"price": 7,
+		"category": "Animal products",
+		"defname": "Honey"
+	},
+	{
+		"abr": "hoothoot",
+		"price": 158,
+		"category": "Animal",
+		"defname": "Hoothoot"
+	},
+	{
+		"abr": "hoothootegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggHoothootFertilized"
+	},
+	{
+		"abr": "hoppip",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Hoppip"
+	},
+	{
+		"abr": "hoppipegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggHoppipFertilized"
+	},
+	{
+		"abr": "houndour",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Houndour"
+	},
+	{
+		"abr": "houndouregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggHoundourFertilized"
+	},
+	{
+		"abr": "igglybuff",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Igglybuff"
+	},
+	{
+		"abr": "igglybuffleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Igglybuff"
+	},
+	{
+		"abr": "igglybuffmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Igglybuff"
+	},
+	{
+		"abr": "insectmilk",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "VFEI_InsectMilk"
+	},
+	{
+		"abr": "insectoidarm",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_InsectoidArm"
+	},
+	{
+		"abr": "insectoidegg(unfert.)",
+		"price": 5,
+		"category": "Eggs (unfert.)",
+		"defname": "VFEI_EggInsectoidUnfertilized"
+	},
+	{
+		"abr": "insectoidleg",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_InsectoidLeg"
+	},
+	{
+		"abr": "insectoidqueen",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "VFEI_Insectoid_Queen"
+	},
+	{
+		"abr": "ironmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Aron"
+	},
+	{
+		"abr": "ivysaur",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Ivysaur"
+	},
+	{
+		"abr": "ivysaur",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Ivysaur"
+	},
+	{
+		"abr": "ivysauregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggIvysaurFertilized"
+	},
+	{
+		"abr": "ivysaurleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Ivysaur"
+	},
+	{
+		"abr": "ivysaurmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Ivysaur"
+	},
+	{
+		"abr": "jellysac",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_JellySac"
+	},
+	{
+		"abr": "jigglypuff",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Jigglypuff"
+	},
+	{
+		"abr": "jigglypuffleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Jigglypuff"
+	},
+	{
+		"abr": "jigglypuffmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Jigglypuff"
+	},
+	{
+		"abr": "jolteon",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Jolteon"
+	},
+	{
+		"abr": "jolteon",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Jolteon"
+	},
+	{
+		"abr": "jolteonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggJolteonFertilized"
+	},
+	{
+		"abr": "jolteonleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Jolteon"
+	},
+	{
+		"abr": "jolteonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Jolteon"
+	},
+	{
+		"abr": "kakuna",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Kakuna"
+	},
+	{
+		"abr": "kakunaleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Kakuna"
+	},
+	{
+		"abr": "kakunameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Kakuna"
+	},
+	{
+		"abr": "kasibberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawKasib"
+	},
+	{
+		"abr": "kelpsyberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawKelpsy"
+	},
+	{
+		"abr": "kirlia",
+		"price": 375,
+		"category": "Animal",
+		"defname": "Kirlia"
+	},
+	{
+		"abr": "kirliaegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggKirliaFertilized"
+	},
+	{
+		"abr": "lapras",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "Lapras"
+	},
+	{
+		"abr": "laprasegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggLaprasFertilized"
+	},
+	{
+		"abr": "larvae",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "VFEI_Insectoid_Larvae"
+	},
+	{
+		"abr": "laserminigun",
+		"price": 7500,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserMinigun"
+	},
+	{
+		"abr": "laserpistol",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserPistol"
+	},
+	{
+		"abr": "laserrifle",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserRifle"
+	},
+	{
+		"abr": "lasershotgun",
+		"price": 5333,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserShotgun"
+	},
+	{
+		"abr": "lasersmg",
+		"price": 4000,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserSMG"
+	},
+	{
+		"abr": "lasersniperrifle",
+		"price": 6000,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_LaserSniperRifle"
+	},
+	{
+		"abr": "lasersword",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "VWEL_LaserSword"
+	},
+	{
+		"abr": "leafeon",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Leafeon"
+	},
+	{
+		"abr": "leafeonleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Leafeon"
+	},
+	{
+		"abr": "leafeonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Leafeon"
+	},
+	{
+		"abr": "lever-actionrifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_LeverActionRifle"
+	},
+	{
+		"abr": "levitatingmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gastly"
+	},
+	{
+		"abr": "lightmarinearmor",
+		"price": 2183,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_LightMarineArmor"
+	},
+	{
+		"abr": "lightmarinehelmet",
+		"price": 733,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_LightMarineHelmet"
+	},
+	{
+		"abr": "lightplatearmor",
+		"price": 542,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_LightPlateArmor"
+	},
+	{
+		"abr": "lightsmg",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_LightSMG"
+	},
+	{
+		"abr": "lilipup",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Lilipup"
+	},
+	{
+		"abr": "lilipupegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggLilipupFertilized"
+	},
+	{
+		"abr": "linoone",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Linoone"
+	},
+	{
+		"abr": "linooneegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggLinooneFertilized"
+	},
+	{
+		"abr": "litwick",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Litwick"
+	},
+	{
+		"abr": "litwickegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggLitwickFertilized"
+	},
+	{
+		"abr": "longbow",
+		"price": 197,
+		"category": "Ranged weapons",
+		"defname": "VWE_Bow_Long"
+	},
+	{
+		"abr": "long-rangecannon",
+		"price": 1225,
+		"category": "Security",
+		"defname": "Turret_WDLongRangeCannon"
+	},
+	{
+		"abr": "lopunny",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Lopunny"
+	},
+	{
+		"abr": "lopunnyegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggLopunnyFertilized"
+	},
+	{
+		"abr": "loveballbed",
+		"price": 28,
+		"category": "Furniture",
+		"defname": "LoveBallBed"
+	},
+	{
+		"abr": "maiddress",
+		"price": 517,
+		"category": "Apparel",
+		"defname": "ChjAndroidMaidOutfit"
+	},
+	{
+		"abr": "mandibles",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_Mandibles"
+	},
+	{
+		"abr": "mareep",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Mareep"
+	},
+	{
+		"abr": "mareepegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggMareepFertilized"
+	},
+	{
+		"abr": "marineboots",
+		"price": 808,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Footwear_MarineBoots"
+	},
+	{
+		"abr": "marinegloves",
+		"price": 733,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Handwear_MarineGloves"
+	},
+	{
+		"abr": "marksmanrifle",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_MarksmanRifle"
+	},
+	{
+		"abr": "masterballbed",
+		"price": 28,
+		"category": "Furniture",
+		"defname": "MasterBallBed"
+	},
+	{
+		"abr": "mealtrayrack",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "LWM_MealRack"
+	},
+	{
+		"abr": "meathook",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_Meat_Hook"
+	},
+	{
+		"abr": "medicaltorturetools",
+		"price": 83,
+		"category": "Torture",
+		"defname": "WCE2_MedicalTortureTools"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 203,
+		"category": "Furniture",
+		"defname": "LWM_Medicine_Cabinet"
+	},
+	{
+		"abr": "megabanette",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "MegaBanette"
+	},
+	{
+		"abr": "megabanetteegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggMegaBanetteFertilized"
+	},
+	{
+		"abr": "megacharizardx",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "MegaCharizardX"
+	},
+	{
+		"abr": "megacharizardxegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggMegaCharizardXFertilized"
+	},
+	{
+		"abr": "megamouth",
+		"price": 9533,
+		"category": "Buildings",
+		"defname": "RCMegamouth"
+	},
+	{
+		"abr": "meganium",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "Meganium"
+	},
+	{
+		"abr": "meganiumegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggMeganiumFertilized"
+	},
+	{
+		"abr": "megapede",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "VFEI_Insectoid_Megapede"
+	},
+	{
+		"abr": "metapod",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Metapod"
+	},
+	{
+		"abr": "metapodleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Metapod"
+	},
+	{
+		"abr": "metapodmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Metapod"
+	},
+	{
+		"abr": "miltank",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Miltank"
+	},
+	{
+		"abr": "miltankegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggMiltankFertilized"
+	},
+	{
+		"abr": "mossyleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Mossy"
+	},
+	{
+		"abr": "murkrow",
+		"price": 300,
+		"category": "Animal",
+		"defname": "Murkrow"
+	},
+	{
+		"abr": "murkrowegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggMurkrowFertilized"
+	},
+	{
+		"abr": "musket",
+		"price": 383,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_Musket"
+	},
+	{
+		"abr": "netballbed",
+		"price": 28,
+		"category": "Furniture",
+		"defname": "NetBallBed"
+	},
+	{
+		"abr": "neutroamineincubator",
+		"price": 333,
+		"category": "Torture",
+		"defname": "WCE2_NeutroamineIncubator"
+	},
+	{
+		"abr": "nidoking",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Nidoking"
+	},
+	{
+		"abr": "nidokingleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Nidoking"
+	},
+	{
+		"abr": "nidokingmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Nidoking"
+	},
+	{
+		"abr": "nidoking/nidoqueen",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "NidokingNidoqueen"
+	},
+	{
+		"abr": "nidoking/nidoqueenegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggNidokingNidoqueenFertilized"
+	},
+	{
+		"abr": "nidoqueen",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Nidoqueen"
+	},
+	{
+		"abr": "nidoqueenleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Nidoqueen"
+	},
+	{
+		"abr": "nidoqueenmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Nidoqueen"
+	},
+	{
+		"abr": "nidoran",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Nidoran"
+	},
+	{
+		"abr": "nidoran",
+		"price": 292,
+		"category": "Animal",
+		"defname": "Nidoran"
+	},
+	{
+		"abr": "nidoranegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggNidoranFertilized"
+	},
+	{
+		"abr": "nidoranegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggCyndaquilFertilized"
+	},
+	{
+		"abr": "nidoranleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Nidoran"
+	},
+	{
+		"abr": "nidoranmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Nidoran"
+	},
+	{
+		"abr": "nidorina",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Nidorina"
+	},
+	{
+		"abr": "nidorinaleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Nidorina"
+	},
+	{
+		"abr": "nidorinameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Nidorina"
+	},
+	{
+		"abr": "nidorina/nidorino",
+		"price": 583,
+		"category": "Animal",
+		"defname": "NidorinaNidorino"
+	},
+	{
+		"abr": "nidorina/nidorinoegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggNidorinaNidorinoFertilized"
+	},
+	{
+		"abr": "nidorino",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Nidorino"
+	},
+	{
+		"abr": "nidorinoleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Nidorino"
+	},
+	{
+		"abr": "nidorinomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Nidorino"
+	},
+	{
+		"abr": "nightvisiongoggles",
+		"price": 458,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_NightVisionGoggles"
+	},
+	{
+		"abr": "nomelberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawNomel"
+	},
+	{
+		"abr": "normalmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Eevee"
+	},
+	{
+		"abr": "numel",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Numel"
+	},
+	{
+		"abr": "numeltegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggNumelFertilized"
+	},
+	{
+		"abr": "nurse",
+		"price": 5525,
+		"category": "Buildings",
+		"defname": "RCHip"
+	},
+	{
+		"abr": "oddish",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Oddish"
+	},
+	{
+		"abr": "oddish",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Oddish"
+	},
+	{
+		"abr": "oddishegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggOddishFertilized"
+	},
+	{
+		"abr": "oddishleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Oddish"
+	},
+	{
+		"abr": "oddishmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Oddish"
+	},
+	{
+		"abr": "onyx",
+		"price": 458,
+		"category": "Animal",
+		"defname": "Onyx"
+	},
+	{
+		"abr": "onyxegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggOnyxFertilized"
+	},
+	{
+		"abr": "organmodificationkit",
+		"price": 25,
+		"category": "Torture",
+		"defname": "WCE2_OrganModificationKit"
+	},
+	{
+		"abr": "pallet",
+		"price": 220,
+		"category": "Furniture",
+		"defname": "LWM_Pallet"
+	},
+	{
+		"abr": "palletwithwrapping",
+		"price": 321,
+		"category": "Furniture",
+		"defname": "LWM_Pallet_Covered"
+	},
+	{
+		"abr": "paras",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Paras"
+	},
+	{
+		"abr": "parasleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Paras"
+	},
+	{
+		"abr": "parasmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Paras"
+	},
+	{
+		"abr": "parasect",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Parasect"
+	},
+	{
+		"abr": "parasectleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Parasect"
+	},
+	{
+		"abr": "parasectmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Parasect"
+	},
+	{
+		"abr": "passhoberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawPassho"
+	},
+	{
+		"abr": "peltcoat",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_PeltCoat"
+	},
+	{
+		"abr": "persimberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawPersim"
+	},
+	{
+		"abr": "pheromonesecretor",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_PheromoneSecretor"
+	},
+	{
+		"abr": "pichu",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Pichu"
+	},
+	{
+		"abr": "pichu",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Pichu"
+	},
+	{
+		"abr": "pichuegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPichuFertilized"
+	},
+	{
+		"abr": "pichuleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Pichu"
+	},
+	{
+		"abr": "pichumeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Pichu"
+	},
+	{
+		"abr": "pickaxe",
+		"price": 248,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Pickaxe"
+	},
+	{
+		"abr": "pidgeot",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Pidgeot"
+	},
+	{
+		"abr": "pidgeot",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "Pidgeot"
+	},
+	{
+		"abr": "pidgeotegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPidgeotFertilized"
+	},
+	{
+		"abr": "pidgeotleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Pidgeot"
+	},
+	{
+		"abr": "pidgeotmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Pidgeot"
+	},
+	{
+		"abr": "pidgeotto",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Pidgeotto"
+	},
+	{
+		"abr": "pidgeotto",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Pidgeotto"
+	},
+	{
+		"abr": "pidgeottoegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPidgeottoFertilized"
+	},
+	{
+		"abr": "pidgeottoleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Pidgeotto"
+	},
+	{
+		"abr": "pidgeottomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Pidgeotto"
+	},
+	{
+		"abr": "pidgey",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Pidgey"
+	},
+	{
+		"abr": "pidgey",
+		"price": 158,
+		"category": "Animal",
+		"defname": "Pidgey"
+	},
+	{
+		"abr": "pidgeyegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPidgeyFertilized"
+	},
+	{
+		"abr": "pidgeyleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Pidgey"
+	},
+	{
+		"abr": "pidgeymeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Pidgey"
+	},
+	{
+		"abr": "pidove",
+		"price": 158,
+		"category": "Animal",
+		"defname": "Pidove"
+	},
+	{
+		"abr": "pidoveegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPidoveFertilized"
+	},
+	{
+		"abr": "pikachu",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Pikachu"
+	},
+	{
+		"abr": "pikachu",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Pikachu"
+	},
+	{
+		"abr": "pikachuegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPikachuFertilized"
+	},
+	{
+		"abr": "pikachuleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Pikachu"
+	},
+	{
+		"abr": "pikachumeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Pikachu"
+	},
+	{
+		"abr": "piplup",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Piplup"
+	},
+	{
+		"abr": "piplupegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPiplupFertilized"
+	},
+	{
+		"abr": "plasmascattergun",
+		"price": 3833,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_PlasmaScattergun"
+	},
+	{
+		"abr": "plasmabeamrifle",
+		"price": 4167,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_PlasmabeamRifle"
+	},
+	{
+		"abr": "plasmacutter",
+		"price": 3333,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_Plasmacutter"
+	},
+	{
+		"abr": "plasmapiercer",
+		"price": 3833,
+		"category": "Ranged weapons",
+		"defname": "VFE_Gun_Plasmapiercer"
+	},
+	{
+		"abr": "plasmasaw",
+		"price": 3333,
+		"category": "Melee weapons",
+		"defname": "VFE_Plasmasaw"
+	},
+	{
+		"abr": "plateboots",
+		"price": 207,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Footwear_PlateBoots"
+	},
+	{
+		"abr": "plategloves",
+		"price": 173,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Handwear_PlateGloves"
+	},
+	{
+		"abr": "platehelmet",
+		"price": 207,
+		"category": "Headgear",
+		"defname": "VAE_Apparel_PlateHelmet"
+	},
+	{
+		"abr": "plateshoulderpads",
+		"price": 181,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_PlateShoulderpads"
+	},
+	{
+		"abr": "pneumaticclaw",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_PneumaticClaw"
+	},
+	{
+		"abr": "poisonpunjisticks",
+		"price": 88,
+		"category": "Security",
+		"defname": "PoisonTrapPunji"
+	},
+	{
+		"abr": "pokéballbed",
+		"price": 28,
+		"category": "Furniture",
+		"defname": "PokeBallBed"
+	},
+	{
+		"abr": "poképuff",
+		"price": 17,
+		"category": "Foods",
+		"defname": "PokePuffs"
+	},
+	{
+		"abr": "poképuffbed",
+		"price": 130,
+		"category": "Furniture",
+		"defname": "PokePuffBed"
+	},
+	{
+		"abr": "pokemonegg(alolansandshrew)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_SandshrewAlolan"
+	},
+	{
+		"abr": "pokemonegg(alolanvulpix)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_VulpixAlolan"
+	},
+	{
+		"abr": "pokemonegg(bulbasaur)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Bulbasaur"
+	},
+	{
+		"abr": "pokemonegg(caterpie)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Caterpie"
+	},
+	{
+		"abr": "pokemonegg(charmander)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Charmander"
+	},
+	{
+		"abr": "pokemonegg(cleffa)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Cleffa"
+	},
+	{
+		"abr": "pokemonegg(cubone)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Cubone"
+	},
+	{
+		"abr": "pokemonegg(eevee)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Eevee"
+	},
+	{
+		"abr": "pokemonegg(ekans)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Ekans"
+	},
+	{
+		"abr": "pokemonegg(geodude)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Geodude"
+	},
+	{
+		"abr": "pokemonegg(igglybuff)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Igglybuff"
+	},
+	{
+		"abr": "pokemonegg(nidoran)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Nidoran"
+	},
+	{
+		"abr": "pokemonegg(oddish)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Oddish"
+	},
+	{
+		"abr": "pokemonegg(paras)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Paras"
+	},
+	{
+		"abr": "pokemonegg(pichu)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Pichu"
+	},
+	{
+		"abr": "pokemonegg(pidgey)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Pidgey"
+	},
+	{
+		"abr": "pokemonegg(rattata)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Rattata"
+	},
+	{
+		"abr": "pokemonegg(sandshrew)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Sandshrew"
+	},
+	{
+		"abr": "pokemonegg(snorlax)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Snorlax"
+	},
+	{
+		"abr": "pokemonegg(spearow)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Spearow"
+	},
+	{
+		"abr": "pokemonegg(squirtle)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Squirtle"
+	},
+	{
+		"abr": "pokemonegg(venonat)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Venonat"
+	},
+	{
+		"abr": "pokemonegg(voltorb)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Voltorb"
+	},
+	{
+		"abr": "pokemonegg(vulpix)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Vulpix"
+	},
+	{
+		"abr": "pokemonegg(weedle)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Weedle"
+	},
+	{
+		"abr": "pokemonegg(zubat)",
+		"price": 83,
+		"category": "Pokemon eggs",
+		"defname": "O21_Egg_Zubat"
+	},
+	{
+		"abr": "pokemontrainercap",
+		"price": 91,
+		"category": "Headgear",
+		"defname": "O21_PokemonTrainerCap"
+	},
+	{
+		"abr": "pokemontraineroutfit",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "O21_PokemonTrainerOutfit"
+	},
+	{
+		"abr": "ponyta",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Ponyta"
+	},
+	{
+		"abr": "ponytaegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPonytaFertilized"
+	},
+	{
+		"abr": "poochyena",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Poochyena"
+	},
+	{
+		"abr": "poochyenaegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPoochyenaFertilized"
+	},
+	{
+		"abr": "predatorstomach",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_PredatorStomach"
+	},
+	{
+		"abr": "premierballbed",
+		"price": 28,
+		"category": "Furniture",
+		"defname": "PremierBallBed"
+	},
+	{
+		"abr": "prinplup",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Prinplup"
+	},
+	{
+		"abr": "prinplupegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPrinplupFertilized"
+	},
+	{
+		"abr": "psychicanimaltamer",
+		"price": 2500,
+		"category": "Artifacts",
+		"defname": "VFEI_Artifacts_PsychicAnimalTamer"
+	},
+	{
+		"abr": "psychicpacifier",
+		"price": 2500,
+		"category": "Artifacts",
+		"defname": "VFEI_Artifacts_PsychicPacifier"
+	},
+	{
+		"abr": "psychicwarhead",
+		"price": 1667,
+		"category": "Mortar shells",
+		"defname": "VFEI_Shell_PsychicWarhead"
+	},
+	{
+		"abr": "pumpkaboo",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Pumpkaboo"
+	},
+	{
+		"abr": "pumpkabooegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggPumpkabooFertilized"
+	},
+	{
+		"abr": "purplemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Nidoran"
+	},
+	{
+		"abr": "quadrefrigerator",
+		"price": 307,
+		"category": "Furniture",
+		"defname": "RimFridge_QuadRefrigerator"
+	},
+	{
+		"abr": "qualotberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawQualot"
+	},
+	{
+		"abr": "quilava",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Quilava"
+	},
+	{
+		"abr": "quilavaegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggQuilavaFertilized"
+	},
+	{
+		"abr": "quiltedvest",
+		"price": 210,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_QuiltedVest"
+	},
+	{
+		"abr": "rabutaberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawRabuta"
+	},
+	{
+		"abr": "raichu",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Raichu"
+	},
+	{
+		"abr": "raichuleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Raichu"
+	},
+	{
+		"abr": "raichumeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Raichu"
+	},
+	{
+		"abr": "ralts",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Ralts"
+	},
+	{
+		"abr": "raltsegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggRaltsFertilized"
+	},
+	{
+		"abr": "rapidash",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Rapidash"
+	},
+	{
+		"abr": "rapidashegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggRapidashFertilized"
+	},
+	{
+		"abr": "raticate",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Raticate"
+	},
+	{
+		"abr": "raticateleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Raticate"
+	},
+	{
+		"abr": "raticatemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Raticate"
+	},
+	{
+		"abr": "rattata",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Rattata"
+	},
+	{
+		"abr": "rattata",
+		"price": 83,
+		"category": "Animal",
+		"defname": "Rattata"
+	},
+	{
+		"abr": "rattataegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggRattataFertilized"
+	},
+	{
+		"abr": "rattataleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Rattata"
+	},
+	{
+		"abr": "rattatameat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Rattata"
+	},
+	{
+		"abr": "rebelpistol",
+		"price": 323,
+		"category": "Ranged weapons",
+		"defname": "ChjAndroidGun_Rebelpistol"
+	},
+	{
+		"abr": "rebelrifle",
+		"price": 925,
+		"category": "Ranged weapons",
+		"defname": "ChjAndroidGun_RebelRifle"
+	},
+	{
+		"abr": "repeatballbed",
+		"price": 28,
+		"category": "Furniture",
+		"defname": "RepeatBallBed"
+	},
+	{
+		"abr": "requiem",
+		"price": 4483,
+		"category": "Buildings",
+		"defname": "RCRequiem"
+	},
+	{
+		"abr": "resourcescrateadvancedcomponent",
+		"price": 54167,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateSpacer"
+	},
+	{
+		"abr": "resourcescratechemfuel",
+		"price": 1083,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateChemfuel"
+	},
+	{
+		"abr": "resourcescratecloth",
+		"price": 408,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateCloth"
+	},
+	{
+		"abr": "resourcescratecomponents",
+		"price": 8667,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateIndustrial"
+	},
+	{
+		"abr": "resourcescratedevilstrand",
+		"price": 1492,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateDevilstrandCloth"
+	},
+	{
+		"abr": "resourcescrateglitterworldmedicine",
+		"price": 27083,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateMedicineUltratech"
+	},
+	{
+		"abr": "resourcescrategold",
+		"price": 2708,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateGold"
+	},
+	{
+		"abr": "resourcescrateheavyfur",
+		"price": 892,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateLeatherHeavy"
+	},
+	{
+		"abr": "resourcescratehumanleather",
+		"price": 1133,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateLeatherHuman"
+	},
+	{
+		"abr": "resourcescratehyperweave",
+		"price": 2433,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateHyperweave"
+	},
+	{
+		"abr": "resourcescratejade",
+		"price": 1350,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateJade"
+	},
+	{
+		"abr": "resourcescratelightleather",
+		"price": 517,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateLeatherLight"
+	},
+	{
+		"abr": "resourcescratemedicine",
+		"price": 4875,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateMedicineIndustrial"
+	},
+	{
+		"abr": "resourcescratemedicineherbal",
+		"price": 3250,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateMedicineHerbal"
+	},
+	{
+		"abr": "resourcescrateplainleather",
+		"price": 567,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateLeatherPlain"
+	},
+	{
+		"abr": "resourcescrateplasteel",
+		"price": 2433,
+		"category": "Resource Crate",
+		"defname": "ResourcesCratePlasteel"
+	},
+	{
+		"abr": "resourcescratesilver",
+		"price": 2167,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateSilver"
+	},
+	{
+		"abr": "resourcescratesteel",
+		"price": 517,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateSteel"
+	},
+	{
+		"abr": "resourcescratesynthread",
+		"price": 1083,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateSynthread"
+	},
+	{
+		"abr": "resourcescrateuranium",
+		"price": 1625,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateUranium"
+	},
+	{
+		"abr": "resourcescratewoodlog",
+		"price": 270,
+		"category": "Resource Crate",
+		"defname": "ResourcesCrateWoodLog"
+	},
+	{
+		"abr": "riotarmor",
+		"price": 667,
+		"category": "Armor",
+		"defname": "VFE_Apparel_RiotArmor"
+	},
+	{
+		"abr": "riothelmet",
+		"price": 315,
+		"category": "Headgear",
+		"defname": "VFE_Apparel_RiotHelmet"
+	},
+	{
+		"abr": "riotshield",
+		"price": 274,
+		"category": "Shields",
+		"defname": "VFEI_Shield_Riot"
+	},
+	{
+		"abr": "rocketlauncher",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_RocketLauncher"
+	},
+	{
+		"abr": "roselia",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Roselia"
+	},
+	{
+		"abr": "roseliaegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggRoseliaFertilized"
+	},
+	{
+		"abr": "royalgeneticmaterial",
+		"price": 333,
+		"category": "Manufactured",
+		"defname": "VFEI_RoyalGenome"
+	},
+	{
+		"abr": "royalinsectjelly",
+		"price": 17,
+		"category": "Animal products",
+		"defname": "VFEI_RoyalInsectJelly"
+	},
+	{
+		"abr": "royalmegaspider",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "VFEI_Insectoid_RoyalMegaspider"
+	},
+	{
+		"abr": "salacberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawSalac"
+	},
+	{
+		"abr": "salvagedlaserpistol",
+		"price": 2500,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_SalvagedLaserPistol"
+	},
+	{
+		"abr": "salvagedlaserrifle",
+		"price": 3250,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_SalvagedLaserRifle"
+	},
+	{
+		"abr": "salvagedlasershotgun",
+		"price": 3417,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_SalvagedLaserShotgun"
+	},
+	{
+		"abr": "salvagedlasersniperrifle",
+		"price": 3667,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_SalvagedLaserSniperRifle"
+	},
+	{
+		"abr": "sandbar",
+		"price": 5525,
+		"category": "Buildings",
+		"defname": "RCSandbar"
+	},
+	{
+		"abr": "sandshrew",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Sandshrew"
+	},
+	{
+		"abr": "sandshrew",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Sandshrew"
+	},
+	{
+		"abr": "sandshrewegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSandshrewFertilized"
+	},
+	{
+		"abr": "sandshrewleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Sandshrew"
+	},
+	{
+		"abr": "sandshrewmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Sandshrew"
+	},
+	{
+		"abr": "sandslash",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Sandslash"
+	},
+	{
+		"abr": "sandslash",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Sandslash"
+	},
+	{
+		"abr": "sandslashegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSandslashFertilized"
+	},
+	{
+		"abr": "sandslashleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Sandslash"
+	},
+	{
+		"abr": "sandslashmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Sandslash"
+	},
+	{
+		"abr": "sawed-offshotgun",
+		"price": 297,
+		"category": "Ranged weapons",
+		"defname": "VWE_SawedOffShotgun"
+	},
+	{
+		"abr": "scalpel",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Scalpel"
+	},
+	{
+		"abr": "scarf",
+		"price": 91,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Scarf"
+	},
+	{
+		"abr": "scarredleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Scarred"
+	},
+	{
+		"abr": "scolipede",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "Scolipede"
+	},
+	{
+		"abr": "scolipedeegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggScolipedeFertilized"
+	},
+	{
+		"abr": "semi-automaticrifle",
+		"price": 408,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_SemiAutomaticRifle"
+	},
+	{
+		"abr": "sentret",
+		"price": 208,
+		"category": "Animal",
+		"defname": "Sentret"
+	},
+	{
+		"abr": "sentretegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSentretFertilized"
+	},
+	{
+		"abr": "servicerifle",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_ServiceRifle"
+	},
+	{
+		"abr": "shadowmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Poochyena"
+	},
+	{
+		"abr": "shedinja",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Shedinja"
+	},
+	{
+		"abr": "shedinjaegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggShedinjaFertilized"
+	},
+	{
+		"abr": "sheriffshirt",
+		"price": 213,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_SheriffShirt"
+	},
+	{
+		"abr": "shirtandtie",
+		"price": 151,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_ShirtandTie"
+	},
+	{
+		"abr": "shoes",
+		"price": 114,
+		"category": "Handwear and footwear",
+		"defname": "VAE_Footwear_Shoes"
+	},
+	{
+		"abr": "shootingtarget",
+		"price": 176,
+		"category": "Recreation",
+		"defname": "ShootingRangeTarget"
+	},
+	{
+		"abr": "shorts",
+		"price": 141,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Shorts"
+	},
+	{
+		"abr": "shovel",
+		"price": 327,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Shovel"
+	},
+	{
+		"abr": "shuckle",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Shuckle"
+	},
+	{
+		"abr": "shuckleegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggShuckleFertilized"
+	},
+	{
+		"abr": "shuppet",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Shuppet"
+	},
+	{
+		"abr": "shuppetegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggShuppetFertilized"
+	},
+	{
+		"abr": "silk",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "SilkWurmple"
+	},
+	{
+		"abr": "singlerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleRefrigerator"
+	},
+	{
+		"abr": "skarmory",
+		"price": 158,
+		"category": "Animal",
+		"defname": "Skarmory"
+	},
+	{
+		"abr": "skarmoryegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSkarmoryFertilized"
+	},
+	{
+		"abr": "skip",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "LWM_DeepStorage_Skip"
+	},
+	{
+		"abr": "skirt",
+		"price": 142,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Skirt"
+	},
+	{
+		"abr": "slavebrand",
+		"price": 8,
+		"category": "Torture",
+		"defname": "WCE2_SlaveBrand"
+	},
+	{
+		"abr": "smallwallmountedairvent",
+		"price": 112,
+		"category": "Climate",
+		"defname": "WallAirVentSmall"
+	},
+	{
+		"abr": "smg",
+		"price": 558,
+		"category": "Ranged weapons",
+		"defname": "VWE_Gun_SMG"
+	},
+	{
+		"abr": "smokegrenades",
+		"price": 400,
+		"category": "Grenades",
+		"defname": "VWE_SmokeGrenade"
+	},
+	{
+		"abr": "sneasel",
+		"price": 750,
+		"category": "Animal",
+		"defname": "Sneasel"
+	},
+	{
+		"abr": "sneaselegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSneaselFertilized"
+	},
+	{
+		"abr": "snorlax",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Snorlax"
+	},
+	{
+		"abr": "snorlaxleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Snorlax"
+	},
+	{
+		"abr": "snorlaxmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Snorlax"
+	},
+	{
+		"abr": "snorunt",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Snorunt"
+	},
+	{
+		"abr": "snoruntegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSnoruntFertilized"
+	},
+	{
+		"abr": "sonicinfestationrepeller",
+		"price": 3217,
+		"category": "Furniture",
+		"defname": "VFEI_SonicInfestationRepeller"
+	},
+	{
+		"abr": "spearow",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Spearow"
+	},
+	{
+		"abr": "spearow",
+		"price": 158,
+		"category": "Animal",
+		"defname": "Spearow"
+	},
+	{
+		"abr": "spearowegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSpearowFertilized"
+	},
+	{
+		"abr": "spearowleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Spearow"
+	},
+	{
+		"abr": "spearowmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Spearow"
+	},
+	{
+		"abr": "spelonberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawSpelon"
+	},
+	{
+		"abr": "spheal",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Spheal"
+	},
+	{
+		"abr": "sphealegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSphealFertilized"
+	},
+	{
+		"abr": "spidersilk",
+		"price": 17,
+		"category": "Textiles",
+		"defname": "VFEI_Spidersilk"
+	},
+	{
+		"abr": "spinda",
+		"price": 375,
+		"category": "Animal",
+		"defname": "Spinda"
+	},
+	{
+		"abr": "spindaegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSpindaFertilized"
+	},
+	{
+		"abr": "squirtle",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Squirtle"
+	},
+	{
+		"abr": "squirtle",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Squirtle"
+	},
+	{
+		"abr": "squirtleegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSquirtleFertilized"
+	},
+	{
+		"abr": "squirtleleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Squirtle"
+	},
+	{
+		"abr": "squirtlemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Squirtle"
+	},
+	{
+		"abr": "sraf:canary",
+		"price": 20258,
+		"category": "Buildings",
+		"defname": "SRAF"
+	},
+	{
+		"abr": "sraf:tek-7",
+		"price": 31292,
+		"category": "Buildings",
+		"defname": "SRAFTek"
+	},
+	{
+		"abr": "srtsmk.i:skip",
+		"price": 9150,
+		"category": "Buildings",
+		"defname": "SRTSSkip"
+	},
+	{
+		"abr": "srtsmk.ii:albatross",
+		"price": 29875,
+		"category": "Buildings",
+		"defname": "SRTSMkII"
+	},
+	{
+		"abr": "srtsmk.iii:phoenix",
+		"price": 52792,
+		"category": "Buildings",
+		"defname": "SRTSMkIII"
+	},
+	{
+		"abr": "srtsmk.iiip:pelican",
+		"price": 61100,
+		"category": "Buildings",
+		"defname": "SRTSMkIIIp"
+	},
+	{
+		"abr": "srtsmk.iv:genesis",
+		"price": 218617,
+		"category": "Buildings",
+		"defname": "SRTSMkIV"
+	},
+	{
+		"abr": "starly",
+		"price": 158,
+		"category": "Animal",
+		"defname": "Starly"
+	},
+	{
+		"abr": "starlyegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggStarlyFertilized"
+	},
+	{
+		"abr": "stonespiketrap",
+		"price": 53,
+		"category": "Security",
+		"defname": "FSFStoneTrapSpike"
+	},
+	{
+		"abr": "stonewarmask",
+		"price": 127,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_StoneWarMask"
+	},
+	{
+		"abr": "stoneyleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Stoney"
+	},
+	{
+		"abr": "suitjacket",
+		"price": 327,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_SuitJacket"
+	},
+	{
+		"abr": "summerhat",
+		"price": 94,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_SummerHat"
+	},
+	{
+		"abr": "sunglasses",
+		"price": 156,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_Sunglasses"
+	},
+	{
+		"abr": "superpod",
+		"price": 6958,
+		"category": "Buildings",
+		"defname": "SRTSSuperpod"
+	},
+	{
+		"abr": "surgicalmask",
+		"price": 121,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_SurgicalMask"
+	},
+	{
+		"abr": "surroundairvent",
+		"price": 675,
+		"category": "Climate",
+		"defname": "SurroundAirVent"
+	},
+	{
+		"abr": "swellow",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Swellow"
+	},
+	{
+		"abr": "swellowegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggSwellowFertilized"
+	},
+	{
+		"abr": "sylveon",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Sylveon"
+	},
+	{
+		"abr": "sylveonleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Sylveon"
+	},
+	{
+		"abr": "sylveonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Sylveon"
+	},
+	{
+		"abr": "synapticcerebellum",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_SynapticCerebellum"
+	},
+	{
+		"abr": "taillow",
+		"price": 158,
+		"category": "Animal",
+		"defname": "Taillow"
+	},
+	{
+		"abr": "taillowegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggTaillowFertilized"
+	},
+	{
+		"abr": "tallshelves",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "LWM_VeryBigShelf"
+	},
+	{
+		"abr": "talonflame",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "Talonflame"
+	},
+	{
+		"abr": "talonflameegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggTalonflameFertilized"
+	},
+	{
+		"abr": "tanktop",
+		"price": 107,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TankTop"
+	},
+	{
+		"abr": "tauros",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Tauros"
+	},
+	{
+		"abr": "taurosegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggTaurosFertilized"
+	},
+	{
+		"abr": "teslagun",
+		"price": 5000,
+		"category": "Ranged weapons",
+		"defname": "VWEL_Gun_TeslaGun"
+	},
+	{
+		"abr": "thermalwrapping",
+		"price": 62,
+		"category": "Apparel",
+		"defname": "ChJAndroidThermalBandages"
+	},
+	{
+		"abr": "thrasher",
+		"price": 2867,
+		"category": "Buildings",
+		"defname": "RCThrasher"
+	},
+	{
+		"abr": "throwingknives",
+		"price": 161,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Knives"
+	},
+	{
+		"abr": "throwingrocks",
+		"price": 11,
+		"category": "Ranged weapons",
+		"defname": "VWE_Throwing_Rocks"
+	},
+	{
+		"abr": "tiger",
+		"price": 6450,
+		"category": "Buildings",
+		"defname": "RCTiger"
+	},
+	{
+		"abr": "timerballbed",
+		"price": 28,
+		"category": "Furniture",
+		"defname": "TimerBallBed"
+	},
+	{
+		"abr": "tissueprinter",
+		"price": 3900,
+		"category": "Production",
+		"defname": "TableOrgans"
+	},
+	{
+		"abr": "totodile",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Totodile"
+	},
+	{
+		"abr": "totodileegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggTotodileFertilized"
+	},
+	{
+		"abr": "toxicgrenades",
+		"price": 1417,
+		"category": "Grenades",
+		"defname": "VWE_ToxicGrenade"
+	},
+	{
+		"abr": "trapperhat",
+		"price": 130,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_TrapperHat"
+	},
+	{
+		"abr": "tribalkilt",
+		"price": 144,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TribalKilt"
+	},
+	{
+		"abr": "tribalponcho",
+		"price": 144,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TribalPoncho"
+	},
+	{
+		"abr": "tropius",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "Tropius"
+	},
+	{
+		"abr": "tropiusegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggTropiusFertilized"
+	},
+	{
+		"abr": "tropiusfruit",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "TropiusFruit"
+	},
+	{
+		"abr": "trousers",
+		"price": 164,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Trousers"
+	},
+	{
+		"abr": "tunic",
+		"price": 143,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Tunic"
+	},
+	{
+		"abr": "turtwig",
+		"price": 417,
+		"category": "Animal",
+		"defname": "Turtwig"
+	},
+	{
+		"abr": "turtwigegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggTurtwigFertilized"
+	},
+	{
+		"abr": "typhlosion",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "Typhlosion"
+	},
+	{
+		"abr": "typhlosionegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggTyphlosionFertilized"
+	},
+	{
+		"abr": "ultraballbed",
+		"price": 28,
+		"category": "Furniture",
+		"defname": "UltraBallBed"
+	},
+	{
+		"abr": "umbreon",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Umbreon"
+	},
+	{
+		"abr": "umbreon",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Umbreon"
+	},
+	{
+		"abr": "umbreonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggUmbreonFertilized"
+	},
+	{
+		"abr": "umbreonleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Umbreon"
+	},
+	{
+		"abr": "umbreonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Umbreon"
+	},
+	{
+		"abr": "vaporeon",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Vaporeon"
+	},
+	{
+		"abr": "vaporeon",
+		"price": 667,
+		"category": "Animal",
+		"defname": "Vaporeon"
+	},
+	{
+		"abr": "vaporeonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggVaporeonFertilized"
+	},
+	{
+		"abr": "vaporeonleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Vaporeon"
+	},
+	{
+		"abr": "vaporeonmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Vaporeon"
+	},
+	{
+		"abr": "vat-grownboomtick",
+		"price": 167,
+		"category": "Animal",
+		"defname": "VFEI_VatgrownBoomtick"
+	},
+	{
+		"abr": "vat-growncuterpillar",
+		"price": 750,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownCuterpillar"
+	},
+	{
+		"abr": "vat-growngigalocust",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownGigalocust"
+	},
+	{
+		"abr": "vat-growngigascorpion",
+		"price": 833,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownGigascorpion"
+	},
+	{
+		"abr": "vat-growngigawig",
+		"price": 750,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownGigawig"
+	},
+	{
+		"abr": "vat-grownmegacricket",
+		"price": 292,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMegacricket"
+	},
+	{
+		"abr": "vat-grownmegapede",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMegapede"
+	},
+	{
+		"abr": "vat-grownmegascarab",
+		"price": 167,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMegascarab"
+	},
+	{
+		"abr": "vat-grownmegaspider",
+		"price": 833,
+		"category": "Animal",
+		"defname": "VFEI_VatgrownMegaspider"
+	},
+	{
+		"abr": "vat-grownmilkbeetle",
+		"price": 583,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMilkbeetle"
+	},
+	{
+		"abr": "vat-grownmonstrosity",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownMonstrosity"
+	},
+	{
+		"abr": "vat-grownprincess",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownPrincess"
+	},
+	{
+		"abr": "vat-grownroyallarva",
+		"price": 83,
+		"category": "Animal",
+		"defname": "VFEI_VatgrownRoyalLarva"
+	},
+	{
+		"abr": "vat-grownroyalmaggot",
+		"price": 333,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownRoyalMaggot"
+	},
+	{
+		"abr": "vat-grownspelopede",
+		"price": 333,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownSpelopede"
+	},
+	{
+		"abr": "vat-grownspiderweaver",
+		"price": 333,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownSpiderweaver"
+	},
+	{
+		"abr": "vat-growntitanbeetle",
+		"price": 917,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownTitanbeetle"
+	},
+	{
+		"abr": "vat-grownwargling",
+		"price": 833,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownWargling"
+	},
+	{
+		"abr": "vat-grownworkerant",
+		"price": 333,
+		"category": "Animal",
+		"defname": "VFEI_VatGrownWorkerAnt"
+	},
+	{
+		"abr": "venomgland",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_VenomGland"
+	},
+	{
+		"abr": "venomoth",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Venomoth"
+	},
+	{
+		"abr": "venomothleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Venomoth"
+	},
+	{
+		"abr": "venomothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Venomoth"
+	},
+	{
+		"abr": "venonat",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Venonat"
+	},
+	{
+		"abr": "venonatleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Venonat"
+	},
+	{
+		"abr": "venonatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Venonat"
+	},
+	{
+		"abr": "ventricularsleeve",
+		"price": 2000,
+		"category": "Insect",
+		"defname": "VFEI_VentricularSleeve"
+	},
+	{
+		"abr": "venusaur",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Venusaur"
+	},
+	{
+		"abr": "venusaur",
+		"price": 1333,
+		"category": "Animal",
+		"defname": "Venusaur"
+	},
+	{
+		"abr": "venusauregg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggVenusaurFertilized"
+	},
+	{
+		"abr": "venusaurleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Venusaur"
+	},
+	{
+		"abr": "venusaurmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Venusaur"
+	},
+	{
+		"abr": "vespiquen",
+		"price": 500,
+		"category": "Animal",
+		"defname": "Vespiquen"
+	},
+	{
+		"abr": "vespiquenegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggVespiquenFertilized"
+	},
+	{
+		"abr": "vileplume",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Vileplume"
+	},
+	{
+		"abr": "vileplumeleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Vileplume"
+	},
+	{
+		"abr": "vileplumemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Vileplume"
+	},
+	{
+		"abr": "voltorb",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Voltorb"
+	},
+	{
+		"abr": "vulpix",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Vulpix"
+	},
+	{
+		"abr": "vulpixleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Vulpix"
+	},
+	{
+		"abr": "vulpixmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Vulpix"
+	},
+	{
+		"abr": "walldualrefrigerator",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "RimFridge_WallRefrigerator"
+	},
+	{
+		"abr": "wallmountedairvent",
+		"price": 224,
+		"category": "Climate",
+		"defname": "WallAirVent"
+	},
+	{
+		"abr": "wallsinglerefrigerator",
+		"price": 121,
+		"category": "Furniture",
+		"defname": "RimFridge_SingleWallRefrigerator"
+	},
+	{
+		"abr": "warriorgeneticmaterial",
+		"price": 250,
+		"category": "Manufactured",
+		"defname": "VFEI_WarriorGenome"
+	},
+	{
+		"abr": "wartortle",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Wartortle"
+	},
+	{
+		"abr": "wartortle",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Wartortle"
+	},
+	{
+		"abr": "wartortleegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggWartortleFertilized"
+	},
+	{
+		"abr": "wartortleleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Wartortle"
+	},
+	{
+		"abr": "wartortlemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Wartortle"
+	},
+	{
+		"abr": "weaponscabinet",
+		"price": 254,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsCabinet"
+	},
+	{
+		"abr": "weaponslocker",
+		"price": 237,
+		"category": "Furniture",
+		"defname": "LWM_WeaponsLocker"
+	},
+	{
+		"abr": "weedle",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Weedle"
+	},
+	{
+		"abr": "weedle",
+		"price": 100,
+		"category": "Animal",
+		"defname": "Weedle"
+	},
+	{
+		"abr": "weedleegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggWeedleFertilized"
+	},
+	{
+		"abr": "weedleleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Weedle"
+	},
+	{
+		"abr": "weedlemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Weedle"
+	},
+	{
+		"abr": "westseagastrodon",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "GastrodonWestSea"
+	},
+	{
+		"abr": "westseagastrodonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggGastrodonWestSeaFertilized"
+	},
+	{
+		"abr": "westseashellos",
+		"price": 333,
+		"category": "Animal",
+		"defname": "ShellosWestSea"
+	},
+	{
+		"abr": "westseashellosegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggShellosWestSeaFertilized"
+	},
+	{
+		"abr": "whip",
+		"price": 203,
+		"category": "Ranged weapons",
+		"defname": "VWE_Tool_Whip"
+	},
+	{
+		"abr": "widesurroundairvent",
+		"price": 1342,
+		"category": "Climate",
+		"defname": "SurroundAirVentWide"
+	},
+	{
+		"abr": "wigglytuff",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Wigglytuff"
+	},
+	{
+		"abr": "wigglytuffleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Wigglytuff"
+	},
+	{
+		"abr": "wigglytuffmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Wigglytuff"
+	},
+	{
+		"abr": "wisperingleather",
+		"price": 5,
+		"category": "Leathers",
+		"defname": "Leather_Wispering"
+	},
+	{
+		"abr": "woodenarmor",
+		"price": 220,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_WoodenArmor"
+	},
+	{
+		"abr": "woodenfoot",
+		"price": 65,
+		"category": "Simple parts",
+		"defname": "WoodenFoot"
+	},
+	{
+		"abr": "wrench",
+		"price": 277,
+		"category": "Melee weapons",
+		"defname": "VWE_MeleeWeapon_Wrench"
+	},
+	{
+		"abr": "wurmple",
+		"price": 100,
+		"category": "Animal",
+		"defname": "Wurmple"
+	},
+	{
+		"abr": "wurmpleegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggWurmpleFertilized"
+	},
+	{
+		"abr": "yacheberries",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "RawYache"
+	},
+	{
+		"abr": "zigzagoon",
+		"price": 208,
+		"category": "Animal",
+		"defname": "Zigzagoon"
+	},
+	{
+		"abr": "zigzagoonegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggZigzagoonFertilized"
+	},
+	{
+		"abr": "zoroark",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "Zoroark"
+	},
+	{
+		"abr": "zoroarkegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggZoroarkFertilized"
+	},
+	{
+		"abr": "zorua",
+		"price": 583,
+		"category": "Animal",
+		"defname": "Zorua"
+	},
+	{
+		"abr": "zoruaegg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggZoruaFertilized"
+	},
+	{
+		"abr": "zubat",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "O21_Pokemon_Zubat"
+	},
+	{
+		"abr": "zubat",
+		"price": 300,
+		"category": "Animal",
+		"defname": "Zubat"
+	},
+	{
+		"abr": "zubategg(fert.)",
+		"price": 50,
+		"category": "Eggs (fert.)",
+		"defname": "EggZubatFertilized"
+	},
+	{
+		"abr": "zubatleather",
+		"price": 9,
+		"category": "Leathers",
+		"defname": "Leather_Zubat"
+	},
+	{
+		"abr": "zubatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_O21_Pokemon_Zubat"
+	},
+	{
+		"abr": "abra",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Abra"
+	},
+	{
+		"abr": "aerodactyl",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Aerodactyl"
+	},
+	{
+		"abr": "alakazam",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Alakazam"
+	},
+	{
+		"abr": "arbok",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Arbok"
+	},
+	{
+		"abr": "arcanine",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Arcanine"
+	},
+	{
+		"abr": "articuno",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Articuno"
+	},
+	{
+		"abr": "beedrill",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Beedrill"
+	},
+	{
+		"abr": "butterfree",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Butterfree"
+	},
+	{
+		"abr": "chansey",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Chansey"
+	},
+	{
+		"abr": "clefable",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Clefable"
+	},
+	{
+		"abr": "clefairy",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Clefairy"
+	},
+	{
+		"abr": "cloyster",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Cloyster"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bulbasaur"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Ivysaur"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Venusaur"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Charmander"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Charmeleon"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Charizard"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Squirtle"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wartortle"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Blastoise"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Caterpie"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Metapod"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Butterfree"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Kakuna"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Beedrill"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Pidgey"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Pidgeotto"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Pidgeot"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rattata"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Raticate"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Spearow"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Fearow"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Ekans"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Arbok"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Pikachu"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Raichu"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Sandslash"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NidoranF"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Nidorina"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Nidoqueen"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_NidoranM"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Nidorino"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Nidoking"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Clefairy"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Clefable"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Vulpix"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Ninetales"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Jigglypuff"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Wigglytuff"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Zubat"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Golbat"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Oddish"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gloom"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Vileplume"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Paras"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Parasect"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Venonat"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Venomoth"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Diglett"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dugtrio"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Meowth"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Persian"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Psyduck"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Golduck"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mankey"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Primeape"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Growlithe"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Arcanine"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Poliwag"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Poliwhirl"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Poliwrath"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Abra"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Kadabra"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Alakazam"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Machop"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Machoke"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Machamp"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bellsprout"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Weepinbell"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Victreebel"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tentacool"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tentacruel"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Geodude"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Graveler"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Golem"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rapidash"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Slowpoke"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Slowbro"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Magnemite"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Magneton"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Farfetch_d"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Doduo"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dodrio"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Seel"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dewgong"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Grimer"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Muk"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Shellder"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cloyster"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Haunter"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gengar"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Onix"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Drowzee"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Hypno"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Krabby"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Kingler"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Voltorb"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Electrode"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Exeggcute"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Exeggutor"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Cubone"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Marowak"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Hitmonlee"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Hitmonchan"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Lickitung"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Koffing"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Weezing"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rhyhorn"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Rhydon"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Chansey"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tangela"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Kangaskhan"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Horsea"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Seadra"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Goldeen"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Seaking"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Staryu"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Starmie"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mr__Mime"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Scyther"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Jynx"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Electabuzz"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Magmar"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Pinsir"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Tauros"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Magikarp"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Gyarados"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Lapras"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Ditto"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Vaporeon"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Flareon"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Porygon"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Omanyte"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Omastar"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Kabuto"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Kabutops"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Aerodactyl"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Snorlax"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Articuno"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Zapdos"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Moltres"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dragonair"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Dragonite"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mewtwo"
+	},
+	{
+		"abr": "cobraflesh",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mew"
+	},
+	{
+		"abr": "cubone",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Cubone"
+	},
+	{
+		"abr": "dewgong",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Dewgong"
+	},
+	{
+		"abr": "diglett",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Diglett"
+	},
+	{
+		"abr": "ditto",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Ditto"
+	},
+	{
+		"abr": "dodrio",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Dodrio"
+	},
+	{
+		"abr": "drowzee",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Drowzee"
+	},
+	{
+		"abr": "dugtrio",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Dugtrio"
+	},
+	{
+		"abr": "ekans",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Ekans"
+	},
+	{
+		"abr": "electabuzz",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Electabuzz"
+	},
+	{
+		"abr": "electrode",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Electrode"
+	},
+	{
+		"abr": "exeggcute",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Exeggcute"
+	},
+	{
+		"abr": "exeggutor",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Exeggutor"
+	},
+	{
+		"abr": "farfetch'd",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Farfetch_d"
+	},
+	{
+		"abr": "gengar",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Gengar"
+	},
+	{
+		"abr": "geodude",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Geodude"
+	},
+	{
+		"abr": "gloom",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Gloom"
+	},
+	{
+		"abr": "golbat",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Golbat"
+	},
+	{
+		"abr": "goldeen",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Goldeen"
+	},
+	{
+		"abr": "golduck",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Golduck"
+	},
+	{
+		"abr": "golem",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Golem"
+	},
+	{
+		"abr": "graveler",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Graveler"
+	},
+	{
+		"abr": "grimer",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Grimer"
+	},
+	{
+		"abr": "growlithe",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Growlithe"
+	},
+	{
+		"abr": "gyarados",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Gyarados"
+	},
+	{
+		"abr": "hitmonchan",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Hitmonchan"
+	},
+	{
+		"abr": "hitmonlee",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Hitmonlee"
+	},
+	{
+		"abr": "horsea",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Horsea"
+	},
+	{
+		"abr": "hypno",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Hypno"
+	},
+	{
+		"abr": "jigglypuff",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Jigglypuff"
+	},
+	{
+		"abr": "jynx",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Jynx"
+	},
+	{
+		"abr": "kabuto",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Kabuto"
+	},
+	{
+		"abr": "kabutops",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Kabutops"
+	},
+	{
+		"abr": "kadabra",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Kadabra"
+	},
+	{
+		"abr": "kakuna",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Kakuna"
+	},
+	{
+		"abr": "kangaskhan",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Kangaskhan"
+	},
+	{
+		"abr": "kingler",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Kingler"
+	},
+	{
+		"abr": "koffing",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Koffing"
+	},
+	{
+		"abr": "krabby",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Krabby"
+	},
+	{
+		"abr": "lickitung",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Lickitung"
+	},
+	{
+		"abr": "machamp",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Machamp"
+	},
+	{
+		"abr": "machoke",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Machoke"
+	},
+	{
+		"abr": "machop",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Machop"
+	},
+	{
+		"abr": "magikarp",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Magikarp"
+	},
+	{
+		"abr": "magmar",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Magmar"
+	},
+	{
+		"abr": "magnemite",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Magnemite"
+	},
+	{
+		"abr": "magneton",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Magneton"
+	},
+	{
+		"abr": "mankey",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Mankey"
+	},
+	{
+		"abr": "marowak",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Marowak"
+	},
+	{
+		"abr": "meowth",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Meowth"
+	},
+	{
+		"abr": "metapod",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Metapod"
+	},
+	{
+		"abr": "mew",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Mew"
+	},
+	{
+		"abr": "mewtwo",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Mewtwo"
+	},
+	{
+		"abr": "moltres",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Moltres"
+	},
+	{
+		"abr": "mr.mime",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Mr__Mime"
+	},
+	{
+		"abr": "muk",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Muk"
+	},
+	{
+		"abr": "nidoking",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Nidoking"
+	},
+	{
+		"abr": "nidoqueen",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Nidoqueen"
+	},
+	{
+		"abr": "nidoranf",
+		"price": 250,
+		"category": "Animal",
+		"defname": "NidoranF"
+	},
+	{
+		"abr": "nidoranm",
+		"price": 250,
+		"category": "Animal",
+		"defname": "NidoranM"
+	},
+	{
+		"abr": "nidorina",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Nidorina"
+	},
+	{
+		"abr": "nidorino",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Nidorino"
+	},
+	{
+		"abr": "ninetales",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Ninetales"
+	},
+	{
+		"abr": "omanyte",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Omanyte"
+	},
+	{
+		"abr": "omastar",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Omastar"
+	},
+	{
+		"abr": "onix",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Onix"
+	},
+	{
+		"abr": "paras",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Paras"
+	},
+	{
+		"abr": "parasect",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Parasect"
+	},
+	{
+		"abr": "persian",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Persian"
+	},
+	{
+		"abr": "pinsir",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Pinsir"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMetapodFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggButterfreeFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggKakunaFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggBeedrillFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggRaticateFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggEkansFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggArbokFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggRaichuFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggNidoranFFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggNidorinaFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggNidoqueenFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggNidoranMFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggNidorinoFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggNidokingFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggClefairyFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggClefableFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggVulpixFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggNinetalesFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggJigglypuffFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggWigglytuffFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGolbatFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGloomFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggVileplumeFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggParasFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggParasectFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggVenonatFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggVenomothFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggDiglettFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggDugtrioFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMeowthFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggPersianFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggPsyduckFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGolduckFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMankeyFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggPrimeapeFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGrowlitheFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggArcanineFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggPoliwagFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggPoliwhirlFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggPoliwrathFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggAbraFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggKadabraFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggAlakazamFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMachopFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMachokeFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMachampFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggWeepinbellFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggVictreebelFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggTentacoolFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggTentacruelFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGeodudeFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGravelerFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGolemFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggSlowpokeFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggSlowbroFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMagnemiteFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMagnetonFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggFarfetch_dFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggDodrioFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggSeelFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggDewgongFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGrimerFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMukFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggShellderFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggCloysterFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGengarFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggOnixFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggDrowzeeFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggHypnoFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggKrabbyFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggKinglerFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggVoltorbFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggElectrodeFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggExeggcuteFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggExeggutorFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggCuboneFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMarowakFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggHitmonleeFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggHitmonchanFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggLickitungFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggKoffingFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggWeezingFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggRhyhornFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggRhydonFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggChanseyFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggTangelaFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggKangaskhanFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggHorseaFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggSeadraFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGoldeenFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggSeakingFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggStaryuFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggStarmieFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMr__MimeFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggScytherFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggJynxFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggElectabuzzFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMagmarFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggPinsirFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMagikarpFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggGyaradosFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggDittoFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggPorygonFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggOmanyteFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggOmastarFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggKabutoFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggKabutopsFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggAerodactylFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggSnorlaxFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggArticunoFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggZapdosFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMoltresFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMewtwoFertilized"
+	},
+	{
+		"abr": "pokemonnameegg(fert.)",
+		"price": 67,
+		"category": "Eggs (fert.)",
+		"defname": "EggMewFertilized"
+	},
+	{
+		"abr": "poliwag",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Poliwag"
+	},
+	{
+		"abr": "poliwhirl",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Poliwhirl"
+	},
+	{
+		"abr": "poliwrath",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Poliwrath"
+	},
+	{
+		"abr": "porygon",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Porygon"
+	},
+	{
+		"abr": "primeape",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Primeape"
+	},
+	{
+		"abr": "psyduck",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Psyduck"
+	},
+	{
+		"abr": "raichu",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Raichu"
+	},
+	{
+		"abr": "raticate",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Raticate"
+	},
+	{
+		"abr": "rhydon",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Rhydon"
+	},
+	{
+		"abr": "rhyhorn",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Rhyhorn"
+	},
+	{
+		"abr": "scyther",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Scyther"
+	},
+	{
+		"abr": "seadra",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Seadra"
+	},
+	{
+		"abr": "seaking",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Seaking"
+	},
+	{
+		"abr": "seel",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Seel"
+	},
+	{
+		"abr": "shellder",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Shellder"
+	},
+	{
+		"abr": "slowbro",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Slowbro"
+	},
+	{
+		"abr": "slowpoke",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Slowpoke"
+	},
+	{
+		"abr": "snorlax",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Snorlax"
+	},
+	{
+		"abr": "starmie",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Starmie"
+	},
+	{
+		"abr": "staryu",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Staryu"
+	},
+	{
+		"abr": "tangela",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Tangela"
+	},
+	{
+		"abr": "tentacool",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Tentacool"
+	},
+	{
+		"abr": "tentacruel",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Tentacruel"
+	},
+	{
+		"abr": "venomoth",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Venomoth"
+	},
+	{
+		"abr": "venonat",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Venonat"
+	},
+	{
+		"abr": "victreebel",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Victreebel"
+	},
+	{
+		"abr": "vileplume",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Vileplume"
+	},
+	{
+		"abr": "voltorb",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Voltorb"
+	},
+	{
+		"abr": "vulpix",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Vulpix"
+	},
+	{
+		"abr": "weepinbell",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Weepinbell"
+	},
+	{
+		"abr": "weezing",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Weezing"
+	},
+	{
+		"abr": "wigglytuff",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Wigglytuff"
+	},
+	{
+		"abr": "zapdos",
+		"price": 250,
+		"category": "Animal",
+		"defname": "Zapdos"
 	}
 	],
-	"total": 1304
+	"total": 1662
 }
