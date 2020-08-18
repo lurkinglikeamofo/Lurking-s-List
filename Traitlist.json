@@ -1,7 +1,7 @@
 {
   "traits": [
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -10,11 +10,24 @@
       "degree": 0,
       "description": "{PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way.",
       "name": "abrasive",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GMT_Animal_Friend",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is a friend to animals of all kinds. {PAWN_pronoun} would never harm them, and they would never harm {PAWN_objective}.",
+      "name": "animalempathy",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -23,11 +36,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}.",
       "name": "annoyingvoice",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -40,11 +53,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance.",
       "name": "ascetic",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -53,11 +66,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has no sexual attraction to anyone at all.",
       "name": "asexual",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -66,13 +79,26 @@
       "degree": 2,
       "description": "[PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth.",
       "name": "beautiful",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+2.0 Beauty"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
+      "bypassLimit": false,
+      "canAdd": false,
+      "canRemove": false,
+      "conflicts": [],
+      "defName": "GMT_Berserker",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a fury simmering deep within {PAWN_objective}. In combat, {PAWN_pronoun} may fly into a berserker rage, becoming an uncontrollable whirlwind of destruction.",
+      "name": "berserker",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 6000,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -81,11 +107,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to both men and women.",
       "name": "bisexual",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -94,11 +120,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others.",
       "name": "bloodlust",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -109,11 +135,24 @@
       "degree": 0,
       "description": "{PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting.",
       "name": "bodypurist",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GMT_Boring",
+      "degree": 0,
+      "description": "{PAWN_nameDef} justs keeps talking in one long incredibly unbroken sentence moving from topic to topic so that no-one has a chance to interrupt; it is really quite hypnotic.",
+      "name": "boring",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -126,13 +165,13 @@
       "degree": 0,
       "description": "{PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon.",
       "name": "brawler",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+4.0 Melee hit chance"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -141,11 +180,24 @@
       "degree": 0,
       "description": "{PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it.",
       "name": "cannibal",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
+      "bypassLimit": false,
+      "canAdd": false,
+      "canRemove": false,
+      "conflicts": [],
+      "defName": "GMT_Caravaneer",
+      "degree": 0,
+      "description": "{PAWN_nameDef} has a natural talent for logistics. {PAWN_possessive} leadership allows caravans to move 15% faster.",
+      "name": "caravaneer",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -156,14 +208,14 @@
       "degree": 1,
       "description": "[PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy.",
       "name": "carefulshooter",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+25% Aiming time",
         "+5.0 Shooting accuracy (people)"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -172,11 +224,11 @@
       "degree": 2,
       "description": "[PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "name": "chemicalfascination",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -185,11 +237,11 @@
       "degree": 1,
       "description": "[PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "name": "chemicalinterest",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -198,11 +250,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy.",
       "name": "creepybreathing",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -211,11 +263,28 @@
       "degree": -2,
       "description": "[PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine.",
       "name": "depressive",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
+      "bypassLimit": false,
+      "canAdd": false,
+      "canRemove": false,
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler"
+      ],
+      "defName": "GMT_Drunken_Master",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is a master of Zuì Quán: drunken boxing. Or at least, it seems that way when {PAWN_pronoun}'s wasted. The more {PAWN_pronoun} drinks, the better {PAWN_pronoun} fights.",
+      "name": "drunkenmaster",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -224,13 +293,13 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others.",
       "name": "fastlearner",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+75% Global learning factor"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -239,13 +308,13 @@
       "degree": 1,
       "description": "[PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people.",
       "name": "fastwalker",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+0.20 Move speed"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 100,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -254,11 +323,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.",
       "name": "gay",
-      "removePrice": 5500,
+      "removePrice": 100,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -269,11 +338,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "name": "gourmand",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -282,11 +351,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people.",
       "name": "greatmemory",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -298,11 +367,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants.",
       "name": "greedy",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -311,13 +380,13 @@
       "degree": 1,
       "description": "[PAWN_nameDef] is a natural hard worker and will finish tasks faster than most.",
       "name": "hardworker",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+20% Global work speed"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -326,13 +395,13 @@
       "degree": 2,
       "description": "[PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "name": "industrious",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+35% Global work speed"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -341,13 +410,13 @@
       "degree": 2,
       "description": "[PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before.",
       "name": "iron-willed",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-18% Mental break threshold"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -359,11 +428,11 @@
       "degree": 0,
       "description": "For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom.",
       "name": "jealous",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -372,13 +441,28 @@
       "degree": 2,
       "description": "[PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up.",
       "name": "jogger",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+0.40 Move speed"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [
+        "wimp"
+      ],
+      "defName": "GMT_Juggernaut",
+      "degree": 0,
+      "description": "Whether due to strength, agility, or stupidity, {PAWN_nameDef} cannot be stopped. {PAWN_pronoun} cannot be stunned, and will not be staggered by attacks.",
+      "name": "juggernaut",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -390,11 +474,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is exceptionally kind. {PAWN_pronoun} has a special way of using kind words to brighten someone's day. {PAWN_pronoun} never insults others, and never judges people by their appearance.",
       "name": "kind",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -403,13 +487,13 @@
       "degree": -1,
       "description": "[PAWN_nameDef] is a little bit lazy.",
       "name": "lazy",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-20% Global work speed"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -418,11 +502,11 @@
       "degree": 0,
       "description": "For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently.",
       "name": "masochist",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -431,11 +515,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} really dislikes and distrusts men.",
       "name": "misandrist",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -444,11 +528,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} really dislikes and distrusts women.",
       "name": "misogynist",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -457,13 +541,13 @@
       "degree": -1,
       "description": "[PAWN_nameDef] tends to crack under pressure.",
       "name": "nervous",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+8% Mental break threshold"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -472,14 +556,14 @@
       "degree": 1,
       "description": "[PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective].",
       "name": "neurotic",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+20% Global work speed",
         "+8% Mental break threshold"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -488,11 +572,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark.",
       "name": "nightowl",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -501,14 +585,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace.",
       "name": "nimble",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+15.0 Melee dodge chance",
         "x10% Trap spring chance"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -517,11 +601,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it.",
       "name": "nudist",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -530,11 +614,11 @@
       "degree": 1,
       "description": "[PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down.",
       "name": "optimist",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -543,11 +627,11 @@
       "degree": -1,
       "description": "[PAWN_nameDef] tends to look on the bad side of life.",
       "name": "pessimist",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -556,13 +640,13 @@
       "degree": 1,
       "description": "[PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective].",
       "name": "pretty",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+1.0 Beauty"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -571,13 +655,13 @@
       "degree": -2,
       "description": "[PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena.",
       "name": "psychicallydeaf",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-100% Psychic sensitivity"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -586,13 +670,13 @@
       "degree": -1,
       "description": "[PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena.",
       "name": "psychicallydull",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-50% Psychic sensitivity"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -601,13 +685,13 @@
       "degree": 2,
       "description": "[PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena.",
       "name": "psychicallyhypersensitive",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+80% Psychic sensitivity"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -616,13 +700,13 @@
       "degree": 1,
       "description": "[PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena.",
       "name": "psychicallysensitive",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+40% Psychic sensitivity"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -631,11 +715,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing.",
       "name": "psychopath",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -644,11 +728,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires. To relieve stress, {PAWN_pronoun} will occasionally go on random fire starting sprees. This happens more often if {PAWN_possessive} mood is low.",
       "name": "pyromaniac",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -657,22 +741,22 @@
       "degree": 0,
       "description": "{PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time.",
       "name": "quicksleeper",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+50% Rest rate multiplier"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [],
       "defName": "AIRobot_BaseTrait",
       "degree": 1,
       "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
       "name": "robot",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+0.10 Move speed",
         "+20% Global work speed",
@@ -682,7 +766,7 @@
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -691,11 +775,11 @@
       "degree": 2,
       "description": "[PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is.",
       "name": "sanguine",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -704,11 +788,24 @@
       "degree": -1,
       "description": "[PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "name": "sickly",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GMT_Slob",
+      "degree": 0,
+      "description": "{PAWN_nameDef} is a complete slob. {PAWN_pronoun} tracks in dirt, tosses trash everywhere, and refuses to clean up.",
+      "name": "slob",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -717,13 +814,13 @@
       "degree": -2,
       "description": "[PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task.",
       "name": "slothful",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-35% Global work speed"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -734,13 +831,13 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others.",
       "name": "slowlearner",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-75% Global learning factor"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -749,13 +846,26 @@
       "degree": -1,
       "description": "[PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere.",
       "name": "slowpoke",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-0.20 Move speed"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
+      "bypassLimit": false,
+      "canAdd": false,
+      "canRemove": false,
+      "conflicts": [],
+      "defName": "GMT_Satan_Spawn",
+      "degree": 0,
+      "description": "{PAWN_nameDef} bears the mark of the Prince of Darkness, the King of Hell, the Father of Lies: Lucifer himself. None know for what reason {PAWN_pronoun} has come to this world, or what dark plan {PAWN_pronoun} aims to enact, only that in {PAWN_possessive} wake, death and destruction follow. Be afraid.",
+      "name": "spawnofsatan",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -764,13 +874,13 @@
       "degree": -2,
       "description": "[PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing.",
       "name": "staggeringlyugly",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-2.0 Beauty"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -779,13 +889,13 @@
       "degree": 1,
       "description": "[PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people.",
       "name": "steadfast",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-9% Mental break threshold"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -794,13 +904,26 @@
       "degree": 1,
       "description": "[PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
       "name": "super-immune",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+30% Immunity gain speed"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
+      "bypassLimit": false,
+      "canAdd": true,
+      "canRemove": true,
+      "conflicts": [],
+      "defName": "GMT_Teacher",
+      "degree": 0,
+      "description": "{PAWN_nameDef} loves to help people learn. {PAWN_pronoun} will teach a little something to everybody {PAWN_pronoun} talks to.",
+      "name": "teacher",
+      "removePrice": 3000,
+      "stats": []
+    },
+    {
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -809,11 +932,11 @@
       "degree": -1,
       "description": "[PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs.",
       "name": "teetotaler",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -828,14 +951,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric.",
       "name": "toosmart",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+75% Global learning factor",
         "+12% Mental break threshold"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -844,11 +967,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "name": "torturedartist",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -857,13 +980,13 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill.",
       "name": "tough",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "x50% Incoming damage multiplier"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -874,11 +997,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts.",
       "name": "transhumanist",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -889,14 +1012,14 @@
       "degree": -1,
       "description": "Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately.",
       "name": "trigger-happy",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-50% Aiming time",
         "-5.0 Shooting accuracy (people)"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -905,13 +1028,13 @@
       "degree": -1,
       "description": "[PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions.",
       "name": "ugly",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-1.0 Beauty"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -920,11 +1043,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness.",
       "name": "undergrounder",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -933,14 +1056,14 @@
       "degree": 2,
       "description": "[PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective].",
       "name": "veryneurotic",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+40% Global work speed",
         "+14% Mental break threshold"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -949,13 +1072,13 @@
       "degree": -2,
       "description": "[PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation.",
       "name": "volatile",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "+15% Mental break threshold"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -966,13 +1089,13 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}.",
       "name": "wimp",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": [
         "-60% Pain shock threshold"
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -981,11 +1104,11 @@
       "degree": -1,
       "description": "[PAWN_nameDef] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "name": "xenophile",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
     },
     {
-      "addPrice": 3500,
+      "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -994,157 +1117,32 @@
       "degree": 1,
       "description": "[PAWN_nameDef] hates and distrusts xenos. They see them as little more than animals.",
       "name": "xenophobe",
-      "removePrice": 5500,
+      "removePrice": 3000,
       "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GMT_Animal_Friend",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is a friend to animals of all kinds. {PAWN_pronoun} would never harm them, and they would never harm {PAWN_objective}.",
-      "name": "animalempathy",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GMT_Slob",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is a complete slob. {PAWN_pronoun} tracks in dirt, tosses trash everywhere, and refuses to clean up.",
-      "name": "slob",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GMT_Caravaneer",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a natural talent for logistics. {PAWN_possessive} leadership allows caravans to move 15% faster.",
-      "name": "caravaneer",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GMT_Boring",
-      "degree": 0,
-      "description": "{PAWN_nameDef} justs keeps talking in one long incredibly unbroken sentence moving from topic to topic so that no-one has a chance to interrupt; it is really quite hypnotic.",
-      "name": "boring",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GMT_Teacher",
-      "degree": 0,
-      "description": "{PAWN_nameDef} loves to help people learn. {PAWN_pronoun} will teach a little something to everybody {PAWN_pronoun} talks to.",
-      "name": "teacher",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GMT_Satan_Spawn",
-      "degree": 0,
-      "description": "{PAWN_nameDef} bears the mark of the Prince of Darkness, the King of Hell, the Father of Lies: Lucifer himself. None know for what reason {PAWN_pronoun} has come to this world, or what dark plan {PAWN_pronoun} aims to enact, only that in {PAWN_possessive} wake, death and destruction follow. Be afraid.",
-      "name": "spawnofsatan",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "chemicalfascination",
-        "chemicalinterest",
-        "teetotaler"
-      ],
-      "defName": "GMT_Drunken_Master",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is a master of Zuì Quán: drunken boxing. Or at least, it seems that way when {PAWN_pronoun}'s wasted. The more {PAWN_pronoun} drinks, the better {PAWN_pronoun} fights.",
-      "name": "drunkenmaster",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "GMT_Berserker",
-      "degree": 0,
-      "description": "{PAWN_nameDef} has a fury simmering deep within {PAWN_objective}. In combat, {PAWN_pronoun} may fly into a berserker rage, becoming an uncontrollable whirlwind of destruction.",
-      "name": "berserker",
-      "removePrice": 5500,
-      "stats": []
-    },
-    {
-      "addPrice": 3500,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "wimp"
-      ],
-      "defName": "GMT_Juggernaut",
-      "degree": 0,
-      "description": "Whether due to strength, agility, or stupidity, {PAWN_nameDef} cannot be stopped. {PAWN_pronoun} cannot be stunned, and will not be staggered by attacks.",
-      "name": "juggernaut",
-      "removePrice": 5500,
-      "stats": []
-    }
-  ],
-  "races": [
-    {
-      "defName": "Human",
-      "enabled": true,
-      "name": "human",
-      "price": 1500
     },
     {
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "android",
-      "price": 2500
-    },
-    {
-      "defName": "ChjDroid",
-      "enabled": true,
-      "name": "droid",
-      "price": 1417
+      "price": 3500
     },
     {
       "defName": "ChjBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "battledroid",
-      "price": 3167
+      "price": 1000
+    },
+    {
+      "defName": "ChjDroid",
+      "enabled": false,
+      "name": "droid",
+      "price": 500
+    },
+    {
+      "defName": "Human",
+      "enabled": true,
+      "name": "human",
+      "price": 1500
     }
   ]
 }
