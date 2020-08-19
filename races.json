@@ -19,36 +19,6 @@
       "price": 2000
     },
     {
-      "defName": "Alien_Asari_Lightblue",
-      "enabled": true,
-      "name": "asari",
-      "price": 2000
-    },
-    {
-      "defName": "Alien_Asari_Blue",
-      "enabled": true,
-      "name": "asari",
-      "price": 2000
-    },
-    {
-      "defName": "Alien_Asari_Violet",
-      "enabled": true,
-      "name": "asari",
-      "price": 2000
-    },
-    {
-      "defName": "AstarteSpaceMarine",
-      "enabled": false,
-      "name": "astartespacemarine",
-      "price": 29167
-    },
-    {
-      "defName": "ChjBattleDroid",
-      "enabled": false,
-      "name": "battledroid",
-      "price": 1000
-    },
-    {
       "defName": "Alien_Beetle",
       "enabled": true,
       "name": "beetleperson",
@@ -59,12 +29,6 @@
       "enabled": true,
       "name": "bosmer",
       "price": 2500
-    },
-    {
-      "defName": "ChjDroid",
-      "enabled": false,
-      "name": "droid",
-      "price": 500
     },
     {
       "defName": "Alien_Drow_Otto",
@@ -133,5 +97,5 @@
       "price": 2500
     }
   ],
-  "total" : 22 
+  "total": 16 
 }
