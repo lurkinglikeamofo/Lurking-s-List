@@ -43,17 +43,17 @@
 	{
 		"abr": "snowgentle",
 		"price": 350,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "snowhard",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "fog",
 		"price": 300,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "heatwave",
@@ -72,7 +72,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 4500,
+		"price": 10000,
 		"karmatype": "Bad"
 	},
 	{
@@ -87,7 +87,7 @@
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 4000,
 		"karmatype": "Doom"
 	},
 	{
@@ -108,7 +108,7 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -122,7 +122,7 @@
 	},
 	{
 		"abr": "tradercaravan",
-		"price": 650,
+		"price": 850,
 		"karmatype": "Good"
 	},
 	{
@@ -163,7 +163,7 @@
 	{
 		"abr": "farmanimals",
 		"price": 600,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "wildman",
@@ -222,28 +222,28 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 1500,
+		"price": 2000,
 		"karmatype": "Doom"
 	},
 	{
+		"abr": "sapperraid",
+		"price": 2000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "siegeraid",
-		"price": 2500,
+		"price": 2000,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "mechanoidraid ",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 2000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "infestation",
@@ -257,7 +257,7 @@
 	},
 	{
 		"abr": "predators",
-		"price": 2500,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -267,7 +267,7 @@
 	},
 	{
 		"abr": "disease",
-		"price": 1000,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -302,7 +302,7 @@
 	},
 	{
 		"abr": "prisoner",
-		"price": 1000,
+		"price": 800,
 		"karmatype": "Good"
 	},
 	{
@@ -332,7 +332,7 @@
 	},
 	{
 		"abr": "reviveme",
-		"price": 8000,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
@@ -343,7 +343,7 @@
 	{
 		"abr": "surgery",
 		"price": 500,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passionshuffle",
