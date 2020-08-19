@@ -1,5 +1,5 @@
 {
-  "races": [
+  "races" : [
     {
       "defName": "MorrowRim_AltmerRace",
       "enabled": true,
@@ -131,6 +131,6 @@
       "enabled": true,
       "name": "treeperson",
       "price": 2500
-    },
-  ]
+    }
+  ],
 }
