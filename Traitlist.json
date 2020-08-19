@@ -5099,7 +5099,7 @@
       "removePrice": 3000,
       "stats": []
     }
-  ],
+  ]
   "races": [
     {
       "defName": "MorrowRim_AltmerRace",
@@ -5233,5 +5233,5 @@
       "name": "treeperson",
       "price": 2500
     }
-  ],
+  ]
 }
