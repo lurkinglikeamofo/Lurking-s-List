@@ -1,100 +1,88 @@
 {
-"races": [
+  "races": [
+    {
+      "defName": "MorrowRim_AltmerRace",
+      "enabled": true,
+      "name": "altmer",
+      "price": 2000
+    },
     {
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "android",
-      "price": 2500
+      "price": 2000
     },
     {
       "defName": "Alien_Asari_Green",
       "enabled": true,
       "name": "asari",
-      "price": 3333
+      "price": 2000
     },
     {
       "defName": "Alien_Asari_Lightblue",
       "enabled": true,
       "name": "asari",
-      "price": 3333
+      "price": 2000
     },
     {
       "defName": "Alien_Asari_Blue",
       "enabled": true,
       "name": "asari",
-      "price": 3333
+      "price": 2000
     },
     {
       "defName": "Alien_Asari_Violet",
       "enabled": true,
       "name": "asari",
-      "price": 3333
+      "price": 2000
+    },
+    {
+      "defName": "AstarteSpaceMarine",
+      "enabled": false,
+      "name": "astartespacemarine",
+      "price": 29167
     },
     {
       "defName": "ChjBattleDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "battledroid",
-      "price": 3000
+      "price": 1000
     },
     {
       "defName": "Alien_Beetle",
       "enabled": true,
       "name": "beetleperson",
-      "price": 5000
+      "price": 2500
+    },
+    {
+      "defName": "MorrowRim_BosmerRace",
+      "enabled": true,
+      "name": "bosmer",
+      "price": 2500
     },
     {
       "defName": "ChjDroid",
-      "enabled": true,
+      "enabled": false,
       "name": "droid",
-      "price": 1000
+      "price": 500
     },
     {
       "defName": "Alien_Drow_Otto",
       "enabled": true,
       "name": "drow",
-      "price": 3833
+      "price": 2500
     },
     {
-      "defName": "Kenshi_Fogman_Worker",
+      "defName": "Alien_Engi",
       "enabled": true,
-      "name": "fogman",
-      "price": 1667
-    },
-    {
-      "defName": "Kenshi_Fogman_Prince",
-      "enabled": true,
-      "name": "fogmanprince",
-      "price": 1667
-    },
-    {
-      "defName": "Kenshi_Fogman_Soldier",
-      "enabled": true,
-      "name": "fogmansoldier",
-      "price": 1667
+      "name": "engi",
+      "price": 2500
     },
     {
       "defName": "GerzeeRace",
       "enabled": true,
       "name": "gerzee",
-      "price": 8333
-    },
-    {
-      "defName": "Kenshi_Hiver_Prince",
-      "enabled": true,
-      "name": "hiveprince",
-      "price": 1667
-    },
-    {
-      "defName": "Kenshi_Hiver_Soldier",
-      "enabled": true,
-      "name": "hivesoldierdrone",
-      "price": 1667
-    },
-    {
-      "defName": "Kenshi_Hiver_Worker",
-      "enabled": true,
-      "name": "hiveworkerdrone",
-      "price": 1667
+      "price": 3000
     },
     {
       "defName": "Human",
@@ -103,58 +91,46 @@
       "price": 1500
     },
     {
+      "defName": "IkquanRace",
+      "enabled": true,
+      "name": "ikquan",
+      "price": 2000
+    },
+    {
       "defName": "KlickmalaRace",
       "enabled": true,
       "name": "klickmala",
-      "price": 2917
+      "price": 2000
     },
     {
-      "defName": "Pawnbold_bold",
+      "defName": "Alien_Mantis",
       "enabled": true,
-      "name": "kobold",
-      "price": 1500
+      "name": "mantis",
+      "price": 3000
     },
     {
       "defName": "FP_OgreRace",
       "enabled": true,
       "name": "ogre",
-      "price": 4083
-    },
-    {
-      "defName": "Kenshi_Shek",
-      "enabled": true,
-      "name": "shek",
-      "price": 1667
+      "price": 3000
     },
     {
       "defName": "SlitherRace",
       "enabled": true,
       "name": "slither",
-      "price": 2917
+      "price": 2000
     },
     {
-      "defName": "Kenshi_Hiver_Prince_Southern",
+      "defName": "Alien_Thrumboian",
       "enabled": true,
-      "name": "southernhiveprince",
-      "price": 1667
-    },
-    {
-      "defName": "Kenshi_Hiver_Soldier_Southern",
-      "enabled": true,
-      "name": "southernhivesoldierdrone",
-      "price": 1667
-    },
-    {
-      "defName": "Kenshi_Hiver_Worker_Southern",
-      "enabled": true,
-      "name": "southernhiveworkerdrone",
-      "price": 1667
+      "name": "thrumboian",
+      "price": 3000
     },
     {
       "defName": "Alien_Tree",
       "enabled": true,
       "name": "treeperson",
-      "price": 5000
+      "price": 2500
     },
   ]
 }
