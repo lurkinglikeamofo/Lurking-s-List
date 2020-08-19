@@ -383,7 +383,7 @@
 	 };
 	var raceData = [];
 	 $.each(data.races, function(index, value) {
-	if (value["addPrice"] > 0) {
+	if (value["Price"] > 0) {
 	raceData.push(value);
 	}
 	 });
@@ -439,10 +439,10 @@
 
 		raceList.filter(function(item) {
                 var allow = true;
-                if (minPrice != "" && parseInt(item.values().addPrice) < minPrice) {
+                if (minPrice != "" && parseInt(item.values().Price) < minPrice) {
                     allow = false;
                 }
-                if (maxPrice != "" && parseInt(item.values().addPrice) > maxPrice) {
+                if (maxPrice != "" && parseInt(item.values().Price) > maxPrice) {
                     allow = false;
                 }
                 return allow;
