@@ -1,5 +1,5 @@
 {
-  "traits": [
+  "traits" : [
     {
       "addPrice": 6000,
       "bypassLimit": false,
@@ -5099,7 +5099,8 @@
       "removePrice": 3000,
       "stats": []
     }
-  ]
+  ],
+    "total": 154
   "races": [
     {
       "defName": "MorrowRim_AltmerRace",
@@ -5233,5 +5234,6 @@
       "name": "treeperson",
       "price": 2500
     }
-  ]
+  ],
+"total": 22
 }
