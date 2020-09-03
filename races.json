@@ -1,7 +1,8 @@
 {
   "races" : [
     {
-           "defName": "MorrowRim_AltmerRace",
+      
+         "defName": "MorrowRim_AltmerRace",
       "enabled": true,
       "name": "altmer",
       "price": 1500
@@ -19,36 +20,6 @@
       "price": 1500
     },
     {
-      "defName": "Alien_Asari_Lightblue",
-      "enabled": true,
-      "name": "asari",
-      "price": 1500
-    },
-    {
-      "defName": "Alien_Asari_Blue",
-      "enabled": true,
-      "name": "asari",
-      "price": 1500
-    },
-    {
-      "defName": "Alien_Asari_Violet",
-      "enabled": true,
-      "name": "asari",
-      "price": 1500
-    },
-    {
-      "defName": "AstarteSpaceMarine",
-      "enabled": false,
-      "name": "astartespacemarine",
-      "price": 29167
-    },
-    {
-      "defName": "ChjBattleDroid",
-      "enabled": false,
-      "name": "battledroid",
-      "price": 1000
-    },
-    {
       "defName": "Alien_Beetle",
       "enabled": true,
       "name": "beetleperson",
@@ -61,22 +32,10 @@
       "price": 1500
     },
     {
-      "defName": "ChjDroid",
-      "enabled": false,
-      "name": "droid",
-      "price": 500
-    },
-    {
       "defName": "Alien_Drow_Otto",
       "enabled": true,
       "name": "drow",
       "price": 1500
-    },
-    {
-      "defName": "Alien_Engi",
-      "enabled": false,
-      "name": "engi",
-      "price": 2833
     },
     {
       "defName": "GerzeeRace",
@@ -131,6 +90,7 @@
       "enabled": true,
       "name": "treeperson",
       "price": 1500
+
     }
   ],
   "total": 22 
