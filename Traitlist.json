@@ -1,7 +1,7 @@
 {
   "traits" : [
     {
-      "addPrice": 6000,
+            "addPrice": 6000,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -10,19 +10,6 @@
       "degree": 0,
       "description": "{PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way.",
       "name": "abrasive",
-      "removePrice": 3000,
-      "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Devotion",
-      "degree": -1,
-      "description": "{PAWN_nameDef} holds that one cannot encompass the divine, therefore worshipping gods is a fallacy.",
-      "name": "agnostic",
       "removePrice": 3000,
       "stats": []
     },
@@ -174,19 +161,6 @@
     {
       "addPrice": 6000,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Devotion",
-      "degree": -2,
-      "description": "{PAWN_nameDef} does not believe in divinity. There are no gods among the stars, only cruel and powerful forces worthy of contempt.",
-      "name": "atheist",
-      "removePrice": 3000,
-      "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
       "conflicts": [
@@ -254,7 +228,7 @@
     {
       "addPrice": 6000,
       "bypassLimit": false,
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
@@ -806,56 +780,6 @@
     {
       "addPrice": 6000,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "KhorneChampion",
-      "degree": 0,
-      "description": "This individual was selected by Khorne to do battle in his name.",
-      "name": "championofkhorne",
-      "removePrice": 3000,
-      "stats": [
-        "x10 Market value",
-        "x312% Mental break threshold",
-        "x130% Move speed",
-        "x300% Melee hit chance",
-        "x300% Melee dodge chance",
-        "x200% Melee hit chance"
-      ]
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "NurgleChampion",
-      "degree": 0,
-      "description": "This individual was selected by Nurgle to spread pestilence.",
-      "name": "championofnurgle",
-      "removePrice": 3000,
-      "stats": [
-        "x10 Market value",
-        "x312% Mental break threshold",
-        "x50% Move speed"
-      ]
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Undivided_Fervor",
-      "degree": 0,
-      "description": "{PAWN_nameDef} will teach and convert in the name of chaos itself.",
-      "name": "chaosfollower",
-      "removePrice": 3000,
-      "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
       "conflicts": [
@@ -1102,19 +1026,6 @@
     {
       "addPrice": 6000,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "DE_Depravity",
-      "degree": 0,
-      "description": "{PAWN_nameDef} feeds on the pain on sentient beings. HE will go through unspeakable acts of depravity to still this hunger.",
-      "name": "darkeldardepravity",
-      "removePrice": 3000,
-      "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
       "conflicts": [
@@ -1191,21 +1102,6 @@
       "name": "depressive",
       "removePrice": 3000,
       "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Khaine_Fervor",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is on the Path of the Warrior, embodying aspects of Khaela Mensha Khaine.",
-      "name": "discipleofkhaine",
-      "removePrice": 3000,
-      "stats": [
-        "+80% Pain shock threshold"
-      ]
     },
     {
       "addPrice": 6000,
@@ -1293,32 +1189,6 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is a master of Zuì Quán: drunken boxing. Or at least, it seems that way when {PAWN_pronoun}'s wasted. The more {PAWN_pronoun} drinks, the better {PAWN_pronoun} fights.",
       "name": "drunkenmaster",
-      "removePrice": 3000,
-      "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Ynnead_Hope",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is a follower of Ynnead. The spiral towards death is the only way to free the Eldar.",
-      "name": "eldarfatalism",
-      "removePrice": 3000,
-      "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "ELDAR_mastery",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is an Eldar. They strive for perfection in everything they do.",
-      "name": "eldarmastery",
       "removePrice": 3000,
       "stats": []
     },
@@ -1542,19 +1412,6 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
-      "defName": "Devotion",
-      "degree": 2,
-      "description": "{PAWN_nameDef}'s life is dedicated to the divine and believes are worth to go to war for.",
-      "name": "fanatic",
-      "removePrice": 3000,
-      "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
       "defName": "FastLearner",
       "degree": 0,
       "description": "{PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others.",
@@ -1578,19 +1435,6 @@
       "stats": [
         "+0.20 Move speed"
       ]
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Devotion",
-      "degree": 1,
-      "description": "{PAWN_nameDef} strongly believes in the divine.",
-      "name": "ferventbeliever",
-      "removePrice": 3000,
-      "stats": []
     },
     {
       "addPrice": 6000,
@@ -1753,10 +1597,10 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 3500,
       "bypassLimit": false,
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [
         "wimp",
         "shoottokill"
@@ -1765,7 +1609,7 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has spent far too much time fighting to stay alive up close and personal. [PAWN_pronoun] knows how to make hits connect, and  how to avoid them.",
       "name": "gladiator",
-      "removePrice": 3000,
+      "removePrice": 5500,
       "stats": [
         "+2.0 Melee hit chance",
         "+10.0 Melee dodge chance"
@@ -1906,19 +1750,6 @@
       "stats": [
         "+20% Global work speed"
       ]
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "Cegorach_Laughter",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is a follower of Cegorach, the Laughing God.",
-      "name": "harlequin",
-      "removePrice": 3000,
-      "stats": []
     },
     {
       "addPrice": 6000,
@@ -2069,19 +1900,6 @@
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
-      "defName": "Emperor_Hope",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is a follower of the Imperial cult. Though life may seem arduous, complicated and finally with much suffering, NAME will carry on in the knowledge, that the Emperor has a plan. And however long it may take to unfold, the Imperium of Man will prevail until such time.",
-      "name": "imperialendurance",
-      "removePrice": 3000,
-      "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
       "defName": "Industriousness",
       "degree": 2,
       "description": "[PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person.",
@@ -2151,26 +1969,6 @@
       "name": "juggernaut",
       "removePrice": 3000,
       "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "bloodlust",
-        "nurglite",
-        "slaaneshi",
-        "tzeentchian"
-      ],
-      "defName": "Khorne_Fervor",
-      "degree": 0,
-      "description": "{PAWN_nameDef} will regularly start slaughtering bystanders if not allowed to kill anything.",
-      "name": "khornate",
-      "removePrice": 3000,
-      "stats": [
-        "+80% Pain shock threshold"
-      ]
     },
     {
       "addPrice": 6000,
@@ -2480,24 +2278,6 @@
         "+2.0 Melee dodge chance",
         "-40% Mining speed",
         "-20% Mining yield"
-      ]
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "HumanSaint",
-      "degree": 0,
-      "description": "This individual was selected by the Emperor to fulfill a purpose. What this purpose is, remains unclear.",
-      "name": "livingsaint",
-      "removePrice": 3000,
-      "stats": [
-        "x10 Market value",
-        "x212% Mental break threshold",
-        "x250% Social impact",
-        "x200% Tame animal chance"
       ]
     },
     {
@@ -2981,44 +2761,11 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [
-        "khornate",
-        "slaaneshi",
-        "tzeentchian"
-      ],
-      "defName": "Nurgle_Fervor",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is always in a good mood, for Papa Nurgle is looking after {PAWN_pronoun}.",
-      "name": "nurglite",
-      "removePrice": 3000,
-      "stats": [
-        "+50% Rest rate multiplier",
-        "+100% Pain shock threshold"
-      ]
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
       "conflicts": [],
       "defName": "NaturalMood",
       "degree": 1,
       "description": "[PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down.",
       "name": "optimist",
-      "removePrice": 3000,
-      "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "ORK_Brutality",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is an Orkoid, meaning HIS life evolves around seemingly mindless bloodshed.",
-      "name": "orkmindedness",
       "removePrice": 3000,
       "stats": []
     },
@@ -3244,7 +2991,7 @@
     {
       "addPrice": 6000,
       "bypassLimit": false,
-      "canAdd": true,
+      "canAdd": false,
       "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
@@ -3924,7 +3671,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 3500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3936,7 +3683,7 @@
       "degree": 0,
       "description": "[PAWN_nameDef] came from an especially dangerous world and is conditioned to kill before [PAWN_pronoun]'s killed. {PAWN_possessive} accuracy is increased.",
       "name": "shoottokill",
-      "removePrice": 3000,
+      "removePrice": 5500,
       "stats": [
         "+3.0 Shooting accuracy (people)"
       ]
@@ -3953,25 +3700,6 @@
       "name": "sickly",
       "removePrice": 3000,
       "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [
-        "nurglite",
-        "khornate",
-        "tzeentchian"
-      ],
-      "defName": "Slaanesh_Fervor",
-      "degree": 0,
-      "description": "{PAWN_nameDef} is always seeking new thrills.",
-      "name": "slaaneshi",
-      "removePrice": 3000,
-      "stats": [
-        "+100% Pain shock threshold"
-      ]
     },
     {
       "addPrice": 6000,
@@ -4599,25 +4327,6 @@
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
-      "conflicts": [
-        "nurglite",
-        "slaaneshi",
-        "khornate"
-      ],
-      "defName": "Tzeentch_Fervor",
-      "degree": 0,
-      "description": "{PAWN_nameDef} will experience mood swings, depending on how the schemes of Tzeentch unfold.",
-      "name": "tzeentchian",
-      "removePrice": 3000,
-      "stats": [
-        "+100% Research speed"
-      ]
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
       "degree": -1,
@@ -4718,19 +4427,6 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness.",
       "name": "undergrounder",
-      "removePrice": 3000,
-      "stats": []
-    },
-    {
-      "addPrice": 6000,
-      "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
-      "conflicts": [],
-      "defName": "TAU_Philosophy",
-      "degree": 0,
-      "description": "{PAWN_nameDef} follows the idea that all beings should strive to ensure the greatest good for the greatest number of beings in the galaxy.",
-      "name": "utalitarianphilosophy",
       "removePrice": 3000,
       "stats": []
     },
@@ -5100,5 +4796,5 @@
       "stats": []
     }
   ],
-  "total": 154 
+  "total": 134 
 }
