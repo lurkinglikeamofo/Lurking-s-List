@@ -1,52 +1,88 @@
 {
   "races" : [
     {
-      "defName": "MorrowRim_AltmerRace",
+           "defName": "MorrowRim_AltmerRace",
       "enabled": true,
       "name": "altmer",
-      "price": 2000
+      "price": 1500
     },
     {
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "android",
-      "price": 2000
+      "price": 1500
     },
     {
       "defName": "Alien_Asari_Green",
       "enabled": true,
       "name": "asari",
-      "price": 2000
+      "price": 1500
+    },
+    {
+      "defName": "Alien_Asari_Lightblue",
+      "enabled": true,
+      "name": "asari",
+      "price": 1500
+    },
+    {
+      "defName": "Alien_Asari_Blue",
+      "enabled": true,
+      "name": "asari",
+      "price": 1500
+    },
+    {
+      "defName": "Alien_Asari_Violet",
+      "enabled": true,
+      "name": "asari",
+      "price": 1500
+    },
+    {
+      "defName": "AstarteSpaceMarine",
+      "enabled": false,
+      "name": "astartespacemarine",
+      "price": 29167
+    },
+    {
+      "defName": "ChjBattleDroid",
+      "enabled": false,
+      "name": "battledroid",
+      "price": 1000
     },
     {
       "defName": "Alien_Beetle",
       "enabled": true,
       "name": "beetleperson",
-      "price": 2500
+      "price": 1500
     },
     {
       "defName": "MorrowRim_BosmerRace",
       "enabled": true,
       "name": "bosmer",
-      "price": 2500
+      "price": 1500
+    },
+    {
+      "defName": "ChjDroid",
+      "enabled": false,
+      "name": "droid",
+      "price": 500
     },
     {
       "defName": "Alien_Drow_Otto",
       "enabled": true,
       "name": "drow",
-      "price": 2500
+      "price": 1500
     },
     {
       "defName": "Alien_Engi",
-      "enabled": true,
+      "enabled": false,
       "name": "engi",
-      "price": 2500
+      "price": 2833
     },
     {
       "defName": "GerzeeRace",
       "enabled": true,
       "name": "gerzee",
-      "price": 3000
+      "price": 1500
     },
     {
       "defName": "Human",
@@ -58,44 +94,44 @@
       "defName": "IkquanRace",
       "enabled": true,
       "name": "ikquan",
-      "price": 2000
+      "price": 1500
     },
     {
       "defName": "KlickmalaRace",
       "enabled": true,
       "name": "klickmala",
-      "price": 2000
+      "price": 1500
     },
     {
       "defName": "Alien_Mantis",
       "enabled": true,
       "name": "mantis",
-      "price": 3000
+      "price": 1500
     },
     {
       "defName": "FP_OgreRace",
       "enabled": true,
       "name": "ogre",
-      "price": 3000
+      "price": 1500
     },
     {
       "defName": "SlitherRace",
       "enabled": true,
       "name": "slither",
-      "price": 2000
+      "price": 1500
     },
     {
       "defName": "Alien_Thrumboian",
       "enabled": true,
       "name": "thrumboian",
-      "price": 3000
+      "price": 1500
     },
     {
       "defName": "Alien_Tree",
       "enabled": true,
       "name": "treeperson",
-      "price": 2500
+      "price": 1500
     }
   ],
-  "total": 16 
+  "total": 22 
 }
