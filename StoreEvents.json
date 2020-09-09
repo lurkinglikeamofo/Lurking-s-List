@@ -151,11 +151,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "rarethrumbos",
-		"price": 500,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "shipchunkdrop",
 		"price": 300,
 		"karmatype": "Good"
@@ -241,11 +236,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "trait",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
@@ -261,5 +251,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 52
+	"total": 50
 }
