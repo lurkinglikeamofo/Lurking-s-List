@@ -1,7 +1,8 @@
 {
-  "traits" : [
+  
+  "traits": [
     {
-            "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -10,11 +11,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} always says exactly what's on {PAWN_possessive} mind, especially if it's bugging {PAWN_objective}. That tends to rub people the wrong way.",
       "name": "abrasive",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -23,11 +24,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is a friend to animals of all kinds. {PAWN_pronoun} would never harm them, and they would never harm {PAWN_objective}.",
       "name": "animalempathy",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -36,11 +37,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef}'s voice has a particularly grating, nasal quality to it, and {PAWN_pronoun} tends to talk in barked, garbled phrases. This predisposes others to dislike {PAWN_objective}.",
       "name": "annoyingvoice",
-      "removePrice": 3000,
-      "stats": []
+      "removePrice": 3500,
+      "stats": [
+        "x110% Move speed",
+        "x150% Recreation power"
+      ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -52,14 +56,14 @@
       "degree": 0,
       "description": "[PAWN_nameDef] is abnormally receptive to the ebb and flow of mana, [PAWN_pronoun] will gain mana 40% faster than normal but [PAWN_possessive] maximum mana capacity is reduced by 20.",
       "name": "arcaneconduit",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "firemage",
         "icemage",
@@ -115,7 +119,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is attuned with arcane forces, interacting directly with raw arcane power to move matter and energy at will.",
       "name": "arcanemage",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+10% Research speed",
         "+20% Global learning factor",
@@ -129,7 +133,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -142,11 +146,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has forsaken physical comforts and enjoyments in favor of a simple, pure lifestyle. {PAWN_pronoun} will become unhappy if if {PAWN_pronoun} has a bedroom that's too impressive. {PAWN_pronoun} also dislikes fancy food and prefers to eat raw. {PAWN_pronoun} never judges others by their appearance.",
       "name": "ascetic",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -155,11 +159,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has no sexual attraction to anyone at all.",
       "name": "asexual",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -215,7 +219,7 @@
       "degree": 3,
       "description": "[PAWN_nameDef] is a master entertainer. Sharp wit, deft hands, and dry humor are [PAWN_possessive] weapons, and [PAWN_pronoun] is a master of all [PAWN_possessive] weapons.",
       "name": "bard",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+35.00% Social impact",
         "+40.00% Negotiation ability",
@@ -226,22 +230,22 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
       "degree": 2,
       "description": "[PAWN_nameDef] is exceptionally beautiful, with an exotic-yet-familiar facial structure and an arresting gaze. People are attracted to [PAWN_objective] before [PAWN_pronoun] even opens [PAWN_possessive] mouth.",
       "name": "beautiful",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+2.0 Beauty"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -250,11 +254,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has a fury simmering deep within {PAWN_objective}. In combat, {PAWN_pronoun} may fly into a berserker rage, becoming an uncontrollable whirlwind of destruction.",
       "name": "berserker",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -263,11 +267,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to both men and women.",
       "name": "bisexual",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -323,7 +327,7 @@
       "degree": 2,
       "description": "[PAWN_nameDef] is a blade dancer, highly skilled in melee combat.  Watching [PAWN_objective] fight is like watching a dance, every action precise and flawless as it flows from one form into another.",
       "name": "bladedancer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.30 Move speed",
         "-8% Mental break threshold",
@@ -335,7 +339,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -391,7 +395,7 @@
       "degree": 1,
       "description": "[PAWN_nameDef] has trained to become a sword master, dangerously skilled in melee combat.",
       "name": "blademaster",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed",
         "-5% Mental break threshold",
@@ -402,7 +406,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -458,7 +462,7 @@
       "degree": 0,
       "description": "[PAWN_nameDef] is training to become a master of the blade and excels at fighting in melee combat.",
       "name": "bladesman",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.15 Move speed",
         "-3% Mental break threshold",
@@ -469,7 +473,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -528,7 +532,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a blood mage and has consigned to the dark art of manipulating the life blood of living things as a means of increasing [PAWN_possessive] power.\n\nAs a blood mage, [PAWN_nameDef] has learned to control the life force within and command it to [PAWN_possessive] will. [PAWN_possessive] connection to life makes it easier to associate with other living things, but doesn't appreciate effort without immediate results.",
       "name": "bloodmage",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+20.00% Social impact",
         "+15.00% Negotiation ability",
@@ -541,7 +545,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -550,11 +554,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} gets a rush from hurting people, and never minds the sight of blood or death. {PAWN_pronoun} is four times as likely to start a social fight as others.",
       "name": "bloodlust",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -565,11 +569,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} believes the human body is limited for a reason. To {PAWN_objective}, artificial body parts are unethical and disgusting.",
       "name": "bodypurist",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -578,11 +582,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} justs keeps talking in one long incredibly unbroken sentence moving from topic to topic so that no-one has a chance to interrupt; it is really quite hypnotic.",
       "name": "boring",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -594,11 +598,11 @@
       "degree": 0,
       "description": "[PAWN_nameDef] excels at combat arts and is able to execute combat maneuvers 40% more frequently, however, [PAWN_possessive] talent has fostered an arrogant attitude that reduces [PAWN_possessive] experience gain by 25% and causes other fighters to dislike [PAWN_objective].",
       "name": "boundless",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -611,13 +615,13 @@
       "degree": 0,
       "description": "{PAWN_nameDef} likes to fight up close and personal. {PAWN_possessive} accuracy is greatly increased in melee combat, but {PAWN_pronoun}'ll be very unhappy if asked to carry a ranged weapon.",
       "name": "brawler",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+4.0 Melee hit chance"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -719,7 +723,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a brightmage, able to harness the powers of light to purge evil. [PAWN_pronoun] approaches any task with an unrivaled fervor that usually places [PAWN_objective] at the forefront. Being a Brightmage introduces a dependency on the sun and light, because of this, [PAWN_nameDef] has developed an intense hatred for shadowy and dark caricatures.",
       "name": "brightmage",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+15% Psychic sensitivity",
         "+0.20 Move speed",
@@ -734,7 +738,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -743,11 +747,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} was taught that eating human meat is wrong and horrible. But one time, long ago, {PAWN_pronoun} tried it... and {PAWN_pronoun} liked it.",
       "name": "cannibal",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -756,11 +760,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has a natural talent for logistics. {PAWN_possessive} leadership allows caravans to move 15% faster.",
       "name": "caravaneer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -771,14 +775,14 @@
       "degree": 1,
       "description": "[PAWN_nameDef] takes more time to aim when shooting. [PAWN_pronoun] shoots less often than others, but with more accuracy.",
       "name": "carefulshooter",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+25% Aiming time",
         "+5.0 Shooting accuracy (people)"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -837,7 +841,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] has rejected all predefined magic paths and refuses to attribute objective reality in [PAWN_possessive] search for power; there are no truths, all magic is permitted. This tradition has enabled [PAWN_nameDef] to learn any type of magic, although [PAWN_pronoun] will never master any.",
       "name": "chaosmage",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+25% Global learning factor",
         "-20% Research speed",
@@ -847,7 +851,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -856,11 +860,11 @@
       "degree": 2,
       "description": "[PAWN_nameDef] is utterly fascinated with chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possibly drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "name": "chemicalfascination",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -869,11 +873,11 @@
       "degree": 1,
       "description": "[PAWN_nameDef] has an unusual interest in chemical sources of enjoyment. Consuming recreational drugs will create a good mood, while abstaining will lead to increasing frustration over time and possible drug binges. [PAWN_pronoun] will ignore directives to not use recreational drugs, and will consume more than a normal person.",
       "name": "chemicalinterest",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -932,7 +936,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a chronomancer. Through arcane sight, [PAWN_pronoun] is able to view reality as it once was and as it could be, and can manipulate objects between those realities.",
       "name": "chronomancer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+25% Global learning factor",
         "+40% Research speed",
@@ -942,7 +946,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -1001,7 +1005,7 @@
       "degree": 4,
       "description": "As a Commander, [PAWN_nameDef] exhibits a charismatic personality and stalwart presence that makes other pawns want to follow [PAWN_possessive] lead. Commander's utilize the weight of their presence to inspire nearby pawns, and when that's not enough, they can issue orders that drive their followers to victory. Because [PAWN_nameDef] is used to everyone doing [PAWN_possessive] bidding, [PAWN_pronoun] considers menial tasks beneath [PAWN_possessive] status, and is generally a lackluster worker.",
       "name": "commander",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+40.00% Social impact",
         "+30.00% Negotiation ability",
@@ -1011,7 +1015,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1020,11 +1024,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} breathes heavily all the time, and sweats constantly. People find it creepy.",
       "name": "creepybreathing",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -1081,7 +1085,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a Death Knight - harbinger of doom and a representative of the ever approaching inevitability of death and decay. [PAWN_possessive] solemn attitude makes most pawns uneasy and even fewer approve of [PAWN_possessive] methods.",
       "name": "deathknight",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-25.00% Social impact",
         "-25.00% Negotiation ability",
@@ -1091,7 +1095,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1100,11 +1104,14 @@
       "degree": -2,
       "description": "[PAWN_nameDef] is perenially unhappy. [PAWN_pronoun] has trouble sustaining a good mood even when everything is fine.",
       "name": "depressive",
-      "removePrice": 3000,
-      "stats": []
+      "removePrice": 3500,
+      "stats": [
+        "x110% Tame animal chance",
+        "x115% Train animal chance"
+      ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -1163,7 +1170,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is attuned with the forces of nature.",
       "name": "druid",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+15% Immunity gain speed",
         "-20% Toxic sensitivity",
@@ -1176,7 +1183,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1189,11 +1196,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is a master of Zuì Quán: drunken boxing. Or at least, it seems that way when {PAWN_pronoun}'s wasted. The more {PAWN_pronoun} drinks, the better {PAWN_pronoun} fights.",
       "name": "drunkenmaster",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -1252,7 +1259,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is an enchanter, attuned to the composition of matter and materials. [PAWN_pronoun] can manipulate matter to [PAWN_possessive] will, frequently in unnatural ways, and [PAWN_possessive] powers of transmutation can be permanent when sufficient effort is applied.",
       "name": "enchanter",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-15.00% Tame animal chance",
         "-15.00% Train animal chance",
@@ -1266,7 +1273,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -1322,7 +1329,7 @@
       "degree": 0,
       "description": "[PAWN_nameDef] is a natural entertainer, able to lighten the mood and lift the spirits of everyone around [PAWN_objective].",
       "name": "entertainer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+10.00% Social impact",
         "+20.00% Negotiation ability",
@@ -1333,7 +1340,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -1392,7 +1399,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a master of disguise and imitation; able to manipulate and capture the muscle and mental actions of another and release it as their own.",
       "name": "faceless",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.15 Move speed",
         "+10% Global work speed",
@@ -1407,7 +1414,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1416,13 +1423,13 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has a knack for learning. {PAWN_pronoun} picks things up much faster than others.",
       "name": "fastlearner",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+75% Global learning factor"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1431,13 +1438,13 @@
       "degree": 1,
       "description": "[PAWN_nameDef] likes to be where [PAWN_pronoun]'s going. [PAWN_pronoun] walks quicker than most people.",
       "name": "fastwalker",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -1496,7 +1503,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is attuned with the elements of fire.",
       "name": "firemage",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed",
         "+10% Global work speed",
@@ -1509,7 +1516,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": true,
       "canAdd": true,
       "canRemove": true,
@@ -1518,11 +1525,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is romantically attracted to people of {PAWN_possessive} own gender.",
       "name": "gay",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -1581,7 +1588,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is attuned with the earth and natural order, drawing power from the physical realm and intertwining it with arcane energy. [PAWN_pronoun] is capable of reinforcing physical elements, and bending them, as [PAWN_pronoun] needs.",
       "name": "geomancer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-0.10 Move speed",
         "-30% Toxic sensitivity",
@@ -1597,10 +1604,10 @@
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "wimp",
         "shoottokill"
@@ -1609,14 +1616,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has spent far too much time fighting to stay alive up close and personal. [PAWN_pronoun] knows how to make hits connect, and  how to avoid them.",
       "name": "gladiator",
-      "removePrice": 5500,
+      "removePrice": 3500,
       "stats": [
         "+2.0 Melee hit chance",
         "+10.0 Melee dodge chance"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -1675,7 +1682,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] has learned how to train the Gladiator combat style.",
       "name": "gladiator",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed",
         "+20% Global work speed",
@@ -1693,7 +1700,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1704,24 +1711,28 @@
       "degree": 0,
       "description": "{PAWN_nameDef}'s life revolves around food. {PAWN_pronoun} gets hungry quickly, and will occasionally be overcome with the urge to eat ravenously, even when not hungry.",
       "name": "gourmand",
-      "removePrice": 3000,
-      "stats": []
+      "removePrice": 3500,
+      "stats": [
+        "x75% Eating speed"
+      ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "GreatMemory",
       "degree": 0,
-      "description": "{PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will lose unused skills at half the rate of other people.",
+      "description": "{PAWN_nameDef} has a fantastic memory for detail. {PAWN_pronoun} will learn new skills slightly faster than other people.",
       "name": "greatmemory",
-      "removePrice": 3000,
-      "stats": []
+      "removePrice": 3500,
+      "stats": [
+        "+25% Global learning factor"
+      ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1733,11 +1744,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef} needs a really impressive bedroom. {PAWN_pronoun} gets a mood loss if {PAWN_pronoun} doesn't get what {PAWN_pronoun} wants.",
       "name": "greedy",
-      "removePrice": 3000,
-      "stats": []
+      "removePrice": 3500,
+      "stats": [
+        "x133% Eating speed",
+        "x150% Carrying capacity"
+      ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1746,16 +1760,16 @@
       "degree": 1,
       "description": "[PAWN_nameDef] is a natural hard worker and will finish tasks faster than most.",
       "name": "hardworker",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+20% Global work speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -1808,7 +1822,7 @@
       "degree": 1,
       "description": "[PAWN_nameDef] is a hunter; [PAWN_pronoun] employs field-craft, cunning, and skill with a bow to defend [PAWN_possessive] land from invaders.",
       "name": "hunter",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed",
         "+25% Immunity gain speed",
@@ -1824,7 +1838,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -1883,7 +1897,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is attuned with the elements of water.",
       "name": "icemage",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-10% Mental break threshold",
         "+20% Research speed",
@@ -1895,7 +1909,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1904,13 +1918,13 @@
       "degree": 2,
       "description": "[PAWN_nameDef] has an easy time staying on-task and focused, and gets things done much faster than the average person.",
       "name": "industrious",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+35% Global work speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1919,13 +1933,13 @@
       "degree": 2,
       "description": "[PAWN_nameDef]'s will is an iron shield. [PAWN_pronoun] keeps going through thick and thin, when others broke down long before.",
       "name": "iron-willed",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-18% Mental break threshold"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1937,11 +1951,14 @@
       "degree": 0,
       "description": "For {PAWN_nameDef}, it's degrading to have a less impressive bedroom than someone else. {PAWN_pronoun} gets a mood loss if any colonist has a more impressive bedroom.",
       "name": "jealous",
-      "removePrice": 3000,
-      "stats": []
+      "removePrice": 3500,
+      "stats": [
+        "x115% Negotiation ability",
+        "x115% Trade price improvement"
+      ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1950,13 +1967,13 @@
       "degree": 2,
       "description": "[PAWN_nameDef] always moves with a sense of urgency - so much so that others often fail to keep up.",
       "name": "jogger",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.40 Move speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1967,11 +1984,11 @@
       "degree": 0,
       "description": "Whether due to strength, agility, or stupidity, {PAWN_nameDef} cannot be stopped. {PAWN_pronoun} cannot be stunned, and will not be staggered by attacks.",
       "name": "juggernaut",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1983,11 +2000,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is exceptionally kind. {PAWN_pronoun} has a special way of using kind words to brighten someone's day. {PAWN_pronoun} never insults others, and never judges people by their appearance.",
       "name": "kind",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -1996,13 +2013,14 @@
       "degree": -1,
       "description": "[PAWN_nameDef] is a little bit lazy.",
       "name": "lazy",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
-        "-20% Global work speed"
+        "-20% Global work speed",
+        "x90% Mental break threshold"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -2058,7 +2076,7 @@
       "degree": 3,
       "description": "[PAWN_nameDef] has become a legend, [PAWN_possessive] skill in melee combat is is known across the world. [PAWN_possessive] skill in combat makes it look as if each movement, each strike, is merely a stitch in a tapestry that depicts [PAWN_possessive] victory.",
       "name": "legendarybladedancer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.40 Move speed",
         "-10% Mental break threshold",
@@ -2070,7 +2088,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -2126,7 +2144,7 @@
       "degree": 3,
       "description": "[PAWN_nameDef] is a legendary sniper, skilled in the economy and accuracy of long range, small arms combat.  Other colonists avoid eye contact and whisper in corners about how dangerous [PAWN_pronoun] is and that suits [PAWN_objective] just fine.",
       "name": "legendarysniper",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.25 Move speed",
         "-30% Aiming time",
@@ -2138,7 +2156,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -2197,7 +2215,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] has transformed into a lich, forsaking life in exchange for an power and an immortal existence, choosing to employ undead for menial tasks.",
       "name": "lich",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-2.00 Move speed",
         "-42.0C Minimum comfortable temperature",
@@ -2212,7 +2230,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -2271,7 +2289,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is attuned with the elements of lightning.",
       "name": "lightningmage",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed",
         "+10% Global work speed",
@@ -2281,7 +2299,7 @@
       ]
     },
     {
-      "addPrice": 8000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2340,7 +2358,7 @@
       "degree": 2,
       "description": "[PAWN_nameDef] has a magical gift. [PAWN_pronoun] can harness this gift to become a mage by studying the mysterious secrets within an arcane script.",
       "name": "magicallygifted",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.10 Move speed",
         "+10% Medical tend speed",
@@ -2350,7 +2368,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2362,11 +2380,11 @@
       "degree": 0,
       "description": "[PAWN_nameDef] has an increased resistance to the ebb and flow of mana which allows [PAWN_objective] to hold an additional 40 mana, but reduces [PAWN_possessive] mana regeneration by 20%.",
       "name": "manawell",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2375,11 +2393,11 @@
       "degree": 0,
       "description": "For {PAWN_nameDef}, there's something exciting about getting hurt. {PAWN_pronoun} doesn't know why, {PAWN_pronoun}'s just wired differently.",
       "name": "masochist",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -2435,7 +2453,7 @@
       "degree": 2,
       "description": "[PAWN_nameDef] is a master sniper, skilled in the economy and accuracy of long range, small arms combat. Being a sniper has made [PAWN_objective] avoid other colonists, not that they care.",
       "name": "mastersniper",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed",
         "-22% Aiming time",
@@ -2447,7 +2465,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -2503,7 +2521,7 @@
       "degree": 2,
       "description": "Everyone loves being around [PAWN_nameDef]. [PAWN_pronoun] has talent, wit and skill in many forms of entertainment and is able to make a personal connection with almost everyone.",
       "name": "minstrel",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+30.00% Social impact",
         "+35.00% Negotiation ability",
@@ -2514,7 +2532,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2523,11 +2541,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} really dislikes and distrusts men.",
       "name": "misandrist",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2536,11 +2554,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} really dislikes and distrusts women.",
       "name": "misogynist",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -2599,7 +2617,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a Monk, dedicated to mastering Chi - the energy that connects all life in the universe. [PAWN_pronoun] harnesses Chi to create magical effects and exceed [PAWN_possessive] physical capabilities. [PAWN_nameDef] is also able to disrupt the Chi in others, affecting their command over spells and abilities.",
       "name": "monk",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+5.0 Melee dodge chance",
         "+5.0 Melee hit chance",
@@ -2612,7 +2630,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -2671,7 +2689,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is attuned with the forces of death.",
       "name": "necromancer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-0.30 Move speed",
         "-20.0C Minimum comfortable temperature",
@@ -2684,7 +2702,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2693,13 +2711,14 @@
       "degree": -1,
       "description": "[PAWN_nameDef] tends to crack under pressure.",
       "name": "nervous",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
-        "+8% Mental break threshold"
+        "+8% Mental break threshold",
+        "x110% Global learning factor"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2708,14 +2727,14 @@
       "degree": 1,
       "description": "[PAWN_nameDef] likes to have things squared away. [PAWN_pronoun] will work harder than most to attain this state of affairs, but [PAWN_possessive] nerves can get the better of [PAWN_objective].",
       "name": "neurotic",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+20% Global work speed",
         "+8% Mental break threshold"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2724,11 +2743,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} likes to be up during the night, and sleep during the day.\n\n{PAWN_pronoun} gets a mood bonus if awake at night (23h-6h) and mood loss if awake during the day (11h-18h).\n\n{PAWN_pronoun} doesn't get a mood penalty for being in the dark.",
       "name": "nightowl",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2737,14 +2756,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has remarkable kinesthetic intelligence. {PAWN_pronoun} seems to dance around danger with preternatural grace.",
       "name": "nimble",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+15.0 Melee dodge chance",
         "x10% Trap spring chance"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2753,11 +2772,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} enjoys the feeling of freedom that comes from being nude. {PAWN_pronoun} can handle clothing, but will be happier without it.",
       "name": "nudist",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2766,11 +2785,11 @@
       "degree": 1,
       "description": "[PAWN_nameDef] is naturally optimistic about life. It's hard to get [PAWN_objective] down.",
       "name": "optimist",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -2829,7 +2848,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] has been bestowed with divine might and has sworn to uphold justice wherever [PAWN_pronoun] stands.",
       "name": "paladin",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.10 Move speed",
         "+20% Immunity gain speed",
@@ -2840,10 +2859,10 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -2896,7 +2915,7 @@
       "degree": 1,
       "description": "[PAWN_nameDef] is a performer; expanding on natural talent, [PAWN_pronoun] has begun to take an conscious role to improve the mood of other colonists.",
       "name": "performer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+20.00% Social impact",
         "+30.00% Negotiation ability",
@@ -2907,7 +2926,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2916,11 +2935,14 @@
       "degree": -1,
       "description": "[PAWN_nameDef] tends to look on the bad side of life.",
       "name": "pessimist",
-      "removePrice": 3000,
-      "stats": []
+      "removePrice": 3500,
+      "stats": [
+        "x105% Tame animal chance",
+        "x110% Train animal chance"
+      ]
     },
     {
-      "addPrice": 8000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -2979,7 +3001,7 @@
       "degree": 2,
       "description": "[PAWN_nameDef] is physically adept and has potential to learn special combat forms.",
       "name": "physicallyadept",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed",
         "+20% Global work speed",
@@ -2989,22 +3011,22 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "conflicts": [],
       "defName": "Beauty",
       "degree": 1,
       "description": "[PAWN_nameDef] has a pretty face, which predisposes people to like [PAWN_objective].",
       "name": "pretty",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+1.0 Beauty"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -3065,7 +3087,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is attuned with the forces of life and healing and has taken a vow against harming others.",
       "name": "priest",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.15 Move speed",
         "+20% Immunity gain speed",
@@ -3077,7 +3099,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -3136,7 +3158,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a Psionic - able to manifest mental willpower into raw energy without the use of a psychic amplifier. [PAWN_pronoun] is able to project psionic energy but finds it easier and more efficient to apply it as an extension and augmentation of [PAWN_possessive] body. For this reason, [PAWN_pronoun] prefers to be free of encumbering weapons.\n\n[PAWN_nameDef] has become less social since developing psionic powers since [PAWN_objective] can perform any task on [PAWN_possessive] own and can do without the jealousy of others.\n\n*The regeneration rate of psionic energy is based on psychic sensitivity - reducing sensitivity to 0 will prevent psionic energy from regenerating.",
       "name": "psionic",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-25.00% Social impact",
         "-20.00% Negotiation ability",
@@ -3149,7 +3171,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3158,13 +3180,13 @@
       "degree": -2,
       "description": "[PAWN_nameDef]'s mind works on a psychic frequency different from everyone else. [PAWN_pronoun] just isn't affected by psychic phenomena.",
       "name": "psychicallydeaf",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-100% Psychic sensitivity"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3173,13 +3195,13 @@
       "degree": -1,
       "description": "[PAWN_nameDef]'s mind is psychically out of tune with others. [PAWN_pronoun] isn't as affected by psychic phenomena.",
       "name": "psychicallydull",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-50% Psychic sensitivity"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3188,13 +3210,13 @@
       "degree": 2,
       "description": "[PAWN_nameDef]'s mind is like a psychic tuning fork. [PAWN_pronoun] is extremely sensitive to psychic phenomena.",
       "name": "psychicallyhypersensitive",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+80% Psychic sensitivity"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3203,13 +3225,13 @@
       "degree": 1,
       "description": "[PAWN_nameDef]'s mind is unusually sensitive to psychic phenomena.",
       "name": "psychicallysensitive",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+40% Psychic sensitivity"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3218,11 +3240,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has no empathy. The suffering of others doesn't bother {PAWN_objective} at all. {PAWN_pronoun} doesn't mind if others are butchered, left unburied, imprisoned, or sold to slavery - unless it affects {PAWN_objective}. {PAWN_pronoun} also feels no mood boost from socializing.",
       "name": "psychopath",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3231,11 +3253,13 @@
       "degree": 0,
       "description": "{PAWN_nameDef} loves fire. {PAWN_pronoun} will never extinguish fires. To relieve stress, {PAWN_pronoun} will occasionally go on random fire starting sprees. This happens more often if {PAWN_possessive} mood is low.",
       "name": "pyromaniac",
-      "removePrice": 3000,
-      "stats": []
+      "removePrice": 3500,
+      "stats": [
+        "x115% Maximum comfortable temperature"
+      ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3244,13 +3268,13 @@
       "degree": 0,
       "description": "{PAWN_nameDef} doesn't need as much sleep as the average person. Whether {PAWN_pronoun}'s sleeping on a bed or on the ground, {PAWN_pronoun} will be fully rested in about two thirds the usual time.",
       "name": "quicksleeper",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+50% Rest rate multiplier"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -3306,7 +3330,7 @@
       "degree": 3,
       "description": "[PAWN_nameDef] is a ranger; master of the wilds.  [PAWN_pronoun] is a master of [PAWN_possessive] craft and defender of [PAWN_possessive] land.",
       "name": "ranger",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.30 Move speed",
         "+35% Immunity gain speed",
@@ -3322,16 +3346,16 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "conflicts": [],
       "defName": "AIRobot_BaseTrait",
       "degree": 1,
       "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
       "name": "robot",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.10 Move speed",
         "+20% Global work speed",
@@ -3341,7 +3365,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3350,14 +3374,14 @@
       "degree": 2,
       "description": "[PAWN_nameDef] is just naturally upbeat about [PAWN_possessive] situation, pretty much all the time, no matter what it is.",
       "name": "sanguine",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -3410,7 +3434,7 @@
       "degree": 2,
       "description": "[PAWN_nameDef] is a scout; comfortable in the wilds, and relied upon to be the eyes and ears of a colony. [PAWN_pronoun] employs expertise in field-craft, cunning, and the bow to defend [PAWN_possessive] land from invaders.",
       "name": "scout",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.25 Move speed",
         "+30% Immunity gain speed",
@@ -3426,7 +3450,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -3528,7 +3552,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a half-breed demon with an affinity for shadow magic. [PAWN_pronoun] has developed [PAWN_possessive] unique talents through combat training and physical conditioning making [PAWN_objective] the perfect assassin.",
       "name": "shadow",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+25% Psychic sensitivity",
         "+10% Global learning factor",
@@ -3542,7 +3566,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -3599,14 +3623,14 @@
       "degree": 4,
       "description": "*not implemented, do not use* Shamans take a more harmonious approach to arcane powers than most mages, choosing to pursue a path that works with the ebb and flow of magic to offset or enhance the natural order. [PAWN_nameDef] is kin to the spirit realm and more attuned to nature.",
       "name": "shaman",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "physicallyadept",
         "firemage",
@@ -3659,7 +3683,7 @@
       "degree": 0,
       "description": "[PAWN_nameDef] has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Training to become a sniper has caused some colonists to be uncomfortable around [PAWN_objective], not that [PAWN_pronoun] cares.",
       "name": "sharpshooter",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.10 Move speed",
         "-10% Aiming time",
@@ -3671,7 +3695,7 @@
       ]
     },
     {
-      "addPrice": 3500,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3683,13 +3707,13 @@
       "degree": 0,
       "description": "[PAWN_nameDef] came from an especially dangerous world and is conditioned to kill before [PAWN_pronoun]'s killed. {PAWN_possessive} accuracy is increased.",
       "name": "shoottokill",
-      "removePrice": 5500,
+      "removePrice": 3500,
       "stats": [
         "+3.0 Shooting accuracy (people)"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3698,11 +3722,11 @@
       "degree": -1,
       "description": "[PAWN_nameDef] has an awful immune system. [PAWN_pronoun] gets sick more often than usual, frequently with illnesses that nobody in the colony has been afflicted by.",
       "name": "sickly",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3711,11 +3735,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is a complete slob. {PAWN_pronoun} tracks in dirt, tosses trash everywhere, and refuses to clean up.",
       "name": "slob",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3724,13 +3748,14 @@
       "degree": -2,
       "description": "[PAWN_nameDef] loves idleness and hates anything productive. [PAWN_pronoun] moves slowly and rarely stays focused on a task.",
       "name": "slothful",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
-        "-35% Global work speed"
+        "-35% Global work speed",
+        "x80% Mental break threshold"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3741,13 +3766,15 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is slow on the uptake. {PAWN_pronoun} learns much slower than others.",
       "name": "slowlearner",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
-        "-75% Global learning factor"
+        "-75% Global learning factor",
+        "x110% Global work speed",
+        "x125% General labor speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3756,13 +3783,13 @@
       "degree": -1,
       "description": "[PAWN_nameDef] is always falling behind the group whenever [PAWN_pronoun] goes anywhere.",
       "name": "slowpoke",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-0.20 Move speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3771,13 +3798,13 @@
       "degree": 0,
       "description": "[PAWN_nameDef] has a passion for gardening and smokeleaf. [PAWN_pronoun] gets a mood bonus for every plant [PAWN_pronoun] sows.",
       "name": "smokeleaffarmer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+15% Global work speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -3833,7 +3860,7 @@
       "degree": 1,
       "description": "[PAWN_nameDef] has trained to become a sniper, skilled in the economy and accuracy of long range, small arms combat. Becoming a sniper has caused [PAWN_objective] to become distanced from other colonists and somewhat unapproachable, not that [PAWN_pronoun] cares.",
       "name": "sniper",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.15 Move speed",
         "-15% Aiming time",
@@ -3845,20 +3872,20 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [],
       "defName": "GMT_Satan_Spawn",
       "degree": 0,
       "description": "{PAWN_nameDef} bears the mark of the Prince of Darkness, the King of Hell, the Father of Lies: Lucifer himself. None know for what reason {PAWN_pronoun} has come to this world, or what dark plan {PAWN_pronoun} aims to enact, only that in {PAWN_possessive} wake, death and destruction follow. Be afraid.",
       "name": "spawnofsatan",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3867,13 +3894,14 @@
       "degree": -2,
       "description": "[PAWN_nameDef] is staggeringly ugly. [PAWN_possessive] face looks like a cross between a drawing by an untalented child, a malformed fetus in a jar of formaldehyde, and a piece of modern art. Others must exert conscious effort to look at [PAWN_objective] while conversing.",
       "name": "staggeringlyugly",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
-        "-2.0 Beauty"
+        "-2.0 Beauty",
+        "x115% Global work speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3882,13 +3910,13 @@
       "degree": 1,
       "description": "[PAWN_nameDef] is mentally tough and won't break down under stresses that would crack most people.",
       "name": "steadfast",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-9% Mental break threshold"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -3897,13 +3925,13 @@
       "degree": 0,
       "description": "[PAWN_nameDef] has a high tolerance for smokeleaf. [PAWN_pronoun] rarely suffers any withdrawal effects.",
       "name": "stoner",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-10% Mental break threshold"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -3962,7 +3990,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] has a strange genetic strain that grants her enhanced physical attributes. She is also extremely attractive with an exotic facial structure that captures the eye. A succubus is more likely to exploit her physical advantages and have others do her work for her. [PAWN_possessive] succubus charm has its disadvantages and can cause some to become jealous and even despise [PAWN_objective].",
       "name": "succubus",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed",
         "-20% Global work speed",
@@ -3980,7 +4008,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -4039,7 +4067,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is able to summon beings and materialize objects from other planes of existence.",
       "name": "summoner",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.10 Move speed",
         "+10% Toxic sensitivity",
@@ -4049,7 +4077,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -4108,7 +4136,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a highly trained Soldier, specializing in pistol, shotgun, or rifle weapons. [PAWN_possessive] weapon specialization is augmented by a standard set of combat training. Super Soldiers are trained to be aggressive and consider violence the natural solution to any argument.",
       "name": "supersoldier",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+5% Immunity gain speed",
         "+0.10 Move speed",
@@ -4122,7 +4150,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4131,13 +4159,13 @@
       "degree": 1,
       "description": "[PAWN_nameDef] has a naturally powerful immune system. [PAWN_pronoun] will gain immunity much faster than a normal person would, and can survive illnesses that would kill others.",
       "name": "super-immune",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+30% Immunity gain speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4146,11 +4174,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} loves to help people learn. {PAWN_pronoun} will teach a little something to everybody {PAWN_pronoun} talks to.",
       "name": "teacher",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -4209,7 +4237,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] has learned to see magic and science as two parts of the same force and is able to use arcane power to interface directly with components of technology. [PAWN_pronoun] is capable of manipulating objects with advanced mechanics, electronics, or computing it to achieve [PAWN_possessive] goals, but has difficulty interacting with biological systems.",
       "name": "technomancer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-30.00% Social impact",
         "-20.00% Negotiation ability",
@@ -4227,7 +4255,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4236,11 +4264,11 @@
       "degree": -1,
       "description": "[PAWN_nameDef] abhors the idea of gaining pleasure from chemicals. [PAWN_pronoun] strictly avoids alcohol and recreational drugs.",
       "name": "teetotaler",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4255,14 +4283,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is too smart for {PAWN_possessive} own good. {PAWN_pronoun} learns everything much faster than everyone, but can be quite eccentric.",
       "name": "toosmart",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+75% Global learning factor",
         "+12% Mental break threshold"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4271,11 +4299,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} feels alienated and misunderstood by other human beings. {PAWN_pronoun} will have a constant mood debuff, but gain a chance (50%) to get a creativity inspiration after a mental break.",
       "name": "torturedartist",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4284,13 +4312,13 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has thick skin, dense flesh, and durable bones. {PAWN_pronoun} takes much less damage than other people from the same blows. {PAWN_pronoun} is extremely hard to kill.",
       "name": "tough",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "x50% Incoming damage multiplier"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4301,11 +4329,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} feels limited in {PAWN_possessive} feeble human body. {PAWN_pronoun} often dreams of being enhanced by artificial body parts.",
       "name": "transhumanist",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4316,14 +4344,14 @@
       "degree": -1,
       "description": "Pew! Pew! Pew! [PAWN_nameDef] just likes pulling the trigger. [PAWN_pronoun] shoots faster than others, but less accurately.",
       "name": "trigger-happy",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-50% Aiming time",
         "-5.0 Shooting accuracy (people)"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4332,13 +4360,14 @@
       "degree": -1,
       "description": "[PAWN_nameDef] is somewhat ugly. This subtly repels others during social interactions.",
       "name": "ugly",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
-        "-1.0 Beauty"
+        "-1.0 Beauty",
+        "x110% Global work speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4347,11 +4376,11 @@
       "degree": 0,
       "description": "[PAWN_nameDef] has accepted that death is another part of life and doesn't get upset when learning about a dead ally or seeing one of the undead.",
       "name": "unaffectedbydeath",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -4405,7 +4434,7 @@
       "degree": 0,
       "description": "[PAWN_nameDef] has been reanimated as an undead.",
       "name": "undead",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-2.00 Move speed",
         "-66.0C Minimum comfortable temperature",
@@ -4418,7 +4447,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4427,11 +4456,11 @@
       "degree": 0,
       "description": "{PAWN_nameDef} has no need to experience the outdoors or light. {PAWN_pronoun} will never feel cooped up or get cabin fever, no matter how long {PAWN_pronoun} stays inside, and is not bothered by darkness.",
       "name": "undergrounder",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4440,14 +4469,14 @@
       "degree": 2,
       "description": "[PAWN_nameDef] feels constantly nervous about everything that has to get done. [PAWN_pronoun] will work extremely hard to attain this state of affairs, but [PAWN_possessive] nerves can easily get the better of [PAWN_objective].",
       "name": "veryneurotic",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+40% Global work speed",
         "+14% Mental break threshold"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4456,16 +4485,17 @@
       "degree": -2,
       "description": "[PAWN_nameDef] is on a hair-trigger all the time. [PAWN_pronoun] is the first to break in any tough situation.",
       "name": "volatile",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
-        "+15% Mental break threshold"
+        "+15% Mental break threshold",
+        "x115% Global learning factor"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
-      "canAdd": true,
-      "canRemove": true,
+      "canAdd": false,
+      "canRemove": false,
       "conflicts": [
         "icemage",
         "arcanemage",
@@ -4521,7 +4551,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a wanderer; an outcast, half-breed mage class frequently dubbed a hedge-mage. [PAWN_possessive] carefree personality has kept [PAWN_possessive] from developing class abilities. Instead, [PAWN_pronoun] has learned to improve on a vast number of utility abilities that allow [PAWN_objective] to adapt to any situation.\n\t\t\nWanderers prefer the open road and gain a mood boost for being in a caravan. Caravans with a wanderer will ignore the movement penalties of any world tile. However, their wanderlust will cause them to suffer a mood penalty for remaining at a colony for too long.",
       "name": "wanderer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed",
         "-10% Global work speed",
@@ -4533,7 +4563,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -4592,7 +4622,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a Warlock - able to manifest physical and demonic forces using his unique access to arcane power. The warlock shares the same genetic mixture as a succubus, but as a male, [PAWN_pronoun] is affected with mental enhancements that include clairvoyance and telekineses. The warlock can occasionally affect the outcome of a social interaction using their mental capabilities, regardless of how the interaction actually occurred.",
       "name": "warlock",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "-0.10 Move speed",
         "-20% Global work speed",
@@ -4610,7 +4640,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -4669,7 +4699,7 @@
       "degree": 4,
       "description": "[PAWN_nameDef] is a wayfarer; an self-disciplined fighter that excels at tricks and dirty fighting. [PAWN_possessive] carefree personality has kept [PAWN_objective] from developing class abilities. Instead, [PAWN_pronoun] has learned to improve a vast number of utility abilities that allow [PAWN_objective] to adapt to any situation.\n\nWayfarers prefer the open road and will gain a mood boost for being in a caravan, and any caravan with a wayfarer will travel 25% faster. However, wayfarers will suffer a mood penalty if they remain at colony for too long.",
       "name": "wayfarer",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.20 Move speed",
         "-10% Global work speed",
@@ -4681,7 +4711,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4692,13 +4722,14 @@
       "degree": 0,
       "description": "{PAWN_nameDef} is weak and cowardly. Even a little pain will immobilize {PAWN_objective}.",
       "name": "wimp",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
-        "-60% Pain shock threshold"
+        "-60% Pain shock threshold",
+        "x120% Move speed"
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": false,
       "canRemove": false,
@@ -4754,7 +4785,7 @@
       "degree": 0,
       "description": "[PAWN_nameDef] is a trained woodsman; preferring the silence and lethality of a bow and armed with field-craft and cunning, [PAWN_pronoun] is prepared to defend [PAWN_possessive] land from invaders.",
       "name": "woodsman",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": [
         "+0.15 Move speed",
         "+20% Immunity gain speed",
@@ -4770,7 +4801,7 @@
       ]
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4779,11 +4810,11 @@
       "degree": -1,
       "description": "[PAWN_nameDef] thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "name": "xenophile",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
     },
     {
-      "addPrice": 6000,
+      "addPrice": 5500,
       "bypassLimit": false,
       "canAdd": true,
       "canRemove": true,
@@ -4792,8 +4823,11 @@
       "degree": 1,
       "description": "[PAWN_nameDef] hates and distrusts xenos. They see them as little more than animals.",
       "name": "xenophobe",
-      "removePrice": 3000,
+      "removePrice": 3500,
       "stats": []
+
+
+
     }
   ],
   "total": 134 
