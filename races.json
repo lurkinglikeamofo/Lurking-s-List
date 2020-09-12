@@ -1,8 +1,7 @@
 {
-  "races" : [
+"races": [
     {
-      
-         "defName": "MorrowRim_AltmerRace",
+      "defName": "MorrowRim_AltmerRace",
       "enabled": true,
       "name": "altmer",
       "price": 1500
@@ -14,7 +13,7 @@
       "price": 1500
     },
     {
-      "defName": "Alien_Asari_Green",
+      "defName": "Alien_Asari_Blue",
       "enabled": true,
       "name": "asari",
       "price": 1500
@@ -32,9 +31,15 @@
       "price": 1500
     },
     {
-      "defName": "Alien_Drow_Otto",
+      "defName": "ChjDroid",
       "enabled": true,
-      "name": "drow",
+      "name": "droid",
+      "price": 1500
+    },
+    {
+      "defName": "Alien_Engi",
+      "enabled": true,
+      "name": "engi",
       "price": 1500
     },
     {
@@ -90,7 +95,6 @@
       "enabled": true,
       "name": "treeperson",
       "price": 1500
-
     }
   ],
   "total": 22 
