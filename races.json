@@ -1,13 +1,13 @@
 {
 "races": [
     {
-     "price": 2000,
+      "price": 2000,
       "defName": "MorrowRim_AltmerRace",
       "enabled": true,
       "name": "Altmer",
       "data": {
         "customName": false
-      
+      }
     },
     {
       "price": 2000,
@@ -16,7 +16,25 @@
       "name": "Android",
       "data": {
         "customName": false
-      
+      }
+    },
+    {
+      "price": 29167,
+      "defName": "AstarteSpaceMarine",
+      "enabled": false,
+      "name": "Astarte Space Marine",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 3167,
+      "defName": "ChjBattleDroid",
+      "enabled": false,
+      "name": "Battle droid",
+      "data": {
+        "customName": false
+      }
     },
     {
       "price": 2000,
@@ -25,7 +43,16 @@
       "name": "Bosmer",
       "data": {
         "customName": false
-      
+      }
+    },
+    {
+      "price": 1500,
+      "defName": "ChjDroid",
+      "enabled": false,
+      "name": "Droid",
+      "data": {
+        "customName": false
+      }
     },
     {
       "price": 2000,
@@ -34,7 +61,7 @@
       "name": "Drow",
       "data": {
         "customName": false
-      
+      }
     },
     {
       "price": 1500,
@@ -43,7 +70,7 @@
       "name": "human",
       "data": {
         "customName": false
-      
+      }
     },
     {
       "price": 2000,
@@ -52,7 +79,7 @@
       "name": "neko",
       "data": {
         "customName": false
-      
+      }
     },
     {
       "price": 2000,
@@ -61,7 +88,7 @@
       "name": "orassan",
       "data": {
         "customName": false
-      
+      }
     },
     {
       "price": 2000,
