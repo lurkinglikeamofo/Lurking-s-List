@@ -1,4 +1,5 @@
 {
+ 
  "races": [
     {
       "price": 1500,
@@ -70,8 +71,7 @@
       "name": "neko",
       "data": {
         "customName": false
-    }
-   
+    } 
   ],
   "total": 8 
 }
