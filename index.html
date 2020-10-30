@@ -373,8 +373,8 @@
 	let traitList = null;
         $.getJSON(traitListURL, function(data) {
 	var options = {
-	valueNames: ['name', 'description', 'stats', 'addPrice', 'removePrice'],
-	item: '<tr><td class="name" scope="row"></td><td class="description"></td> <td class="stats"></td><td class="addPrice"></td><td class="removePrice"></td></tr>'
+	valueNames: ['name', 'description', 'addPrice', 'removePrice'],
+	item: '<tr><td class="name" scope="row"></td><td class="description"></td><td class="addPrice"></td><td class="removePrice"></td></tr>'
 	 };
 	var traitData = [];
 	 $.each(data.traits, function(index, value) {
