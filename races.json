@@ -7,7 +7,6 @@
       "name": "Altmer",
       "data": {
         "customName": false
-      }
     },
     {
       "price": 2000,
@@ -99,6 +98,6 @@
         "customName": false
     }
     },
-  ]
+  ],
   "total": 8 
 }
