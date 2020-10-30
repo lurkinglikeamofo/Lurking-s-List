@@ -8,7 +8,7 @@
       "name": "Android",
       "data": {
         "customName": false
-      }
+    
     },
     {
       "price": 1500,
@@ -17,7 +17,7 @@
       "name": "human",
       "data": {
         "customName": false
-      }
+     
     },
     {
       "price": 3833,
@@ -26,7 +26,7 @@
       "name": "Drow",
       "data": {
         "customName": false
-      }
+      
     },
     {
       "price": 5000,
@@ -35,7 +35,7 @@
       "name": "thrumboian",
       "data": {
         "customName": false
-      }
+      
     },
     {
       "price": 3167,
@@ -44,7 +44,7 @@
       "name": "Altmer",
       "data": {
         "customName": false
-      }
+      
     },
     {
       "price": 3167,
@@ -53,7 +53,7 @@
       "name": "Bosmer",
       "data": {
         "customName": false
-      }
+      
     },
     {
       "price": 3167,
@@ -62,7 +62,7 @@
       "name": "orassan",
       "data": {
         "customName": false
-      }
+      
     },
     {
       "price": 3167,
@@ -71,8 +71,8 @@
       "name": "neko",
       "data": {
         "customName": false
-    } 
-    },
+    
+    }
   ],
   "total":8 
 }
