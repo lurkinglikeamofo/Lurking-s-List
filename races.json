@@ -5,10 +5,8 @@
       "defName": "MorrowRim_AltmerRace",
       "enabled": true,
       "name": "Altmer",
-      "data": {
-        "customName": false
-    },
-    },
+    
+    }
   ],
   "total": 1 
 }
