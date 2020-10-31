@@ -11,12 +11,36 @@
       "enabled": true,
       "name": "android",
       "price": 1500
+     },
+    {
+      "price": 2000,
+      "defName": "Alien_Drow_Otto",
+      "enabled": true,
+      "name": "Drow",
+      },
+    {
+      "price": 2000,
+      "defName": "MorrowRim_BosmerRace",
+      "enabled": true,
+      "name": "Bosmer",
     },
     {
       "defName": "Human",
       "enabled": true,
       "name": "human",
       "price": 1500
+   },
+    {
+      "price": 2000,
+      "defName": "Alien_OrassanHumanHybrid",
+      "enabled": true,
+      "name": "neko",
+          },
+    {
+      "price": 2000,
+      "defName": "Alien_Orassan",
+      "enabled": true,
+      "name": "orassan",
     },
     {
       "defName": "Alien_Thrumboian",
@@ -25,5 +49,5 @@
       "price": 1500
     }
   ],
-  "total": 4 
+  "total": 8 
 }
