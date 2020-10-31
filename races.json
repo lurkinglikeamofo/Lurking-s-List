@@ -4,13 +4,13 @@
       "defName": "MorrowRim_AltmerRace",
       "enabled": true,
       "name": "altmer",
-      "price": 1500
+      "price": 1500,
     },
     {
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "android",
-      "price": 1500
+      "price": 1500,
      },
     {
       "price": 2000,
@@ -28,7 +28,7 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 1500
+      "price": 1500,
    },
     {
       "price": 2000,
@@ -46,7 +46,7 @@
       "defName": "Alien_Thrumboian",
       "enabled": true,
       "name": "thrumboian",
-      "price": 1500
+      "price": 1500,
     }
   ],
   "total": 8 
