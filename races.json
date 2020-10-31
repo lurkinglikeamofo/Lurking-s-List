@@ -4,50 +4,98 @@
       "defName": "MorrowRim_AltmerRace",
       "enabled": true,
       "name": "altmer",
-      "price": 1500,
+      "price": 1500
     },
     {
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "android",
-      "price": 1500,
-     },
+      "price": 1500
+    },
     {
-     "defName": "Alien_Drow_Otto",
-       "price": 2000,
+      "defName": "Alien_Asari_Blue",
       "enabled": true,
-      "name": "Drow",
-      },
+      "name": "asari",
+      "price": 1500
+    },
     {
-     "defName": "MorrowRim_BosmerRace",
-     "price": 2000,
+      "defName": "Alien_Beetle",
       "enabled": true,
-      "name": "Bosmer",
+      "name": "beetleperson",
+      "price": 1500
+    },
+    {
+      "defName": "MorrowRim_BosmerRace",
+      "enabled": true,
+      "name": "bosmer",
+      "price": 1500
+    },
+    {
+      "defName": "ChjDroid",
+      "enabled": true,
+      "name": "droid",
+      "price": 1500
+    },
+    {
+      "defName": "Alien_Engi",
+      "enabled": true,
+      "name": "engi",
+      "price": 1500
+    },
+    {
+      "defName": "GerzeeRace",
+      "enabled": true,
+      "name": "gerzee",
+      "price": 1500
     },
     {
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 1500,
-   },
+      "price": 1500
+    },
     {
-       "defName": "Alien_OrassanHumanHybrid",
-        "price": 2000,
+      "defName": "IkquanRace",
       "enabled": true,
-      "name": "neko",
-          },
+      "name": "ikquan",
+      "price": 1500
+    },
     {
-     "defName": "Alien_Orassan",
-        "price": 2000,
+      "defName": "KlickmalaRace",
       "enabled": true,
-      "name": "orassan",
+      "name": "klickmala",
+      "price": 1500
+    },
+    {
+      "defName": "Alien_Mantis",
+      "enabled": true,
+      "name": "mantis",
+      "price": 1500
+    },
+    {
+      "defName": "FP_OgreRace",
+      "enabled": true,
+      "name": "ogre",
+      "price": 1500
+    },
+    {
+      "defName": "SlitherRace",
+      "enabled": true,
+      "name": "slither",
+      "price": 1500
     },
     {
       "defName": "Alien_Thrumboian",
       "enabled": true,
       "name": "thrumboian",
-      "price": 1500,
+      "price": 1500
+    },
+    {
+      "defName": "Alien_Tree",
+      "enabled": true,
+      "name": "treeperson",
+      "price": 1500
     }
   ],
-  "total": 8 
+  "total": 16 
 }
