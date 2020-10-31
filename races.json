@@ -10,13 +10,13 @@
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "android",
-      "price": 1500
+      "price": 2000
     },
     {
       "defName": "MorrowRim_BosmerRace",
       "enabled": true,
       "name": "bosmer",
-      "price": 1500
+      "price": 2000
     },
     {
       "defName": "Human",
@@ -28,13 +28,13 @@
       "defName": "Alien_Thrumboian",
       "enabled": true,
       "name": "thrumboian",
-      "price": 1500
+      "price": 2000
     },
     {
       "defName": "Alien_Tree",
       "enabled": true,
-      "name": "treeperson",
-      "price": 1500
+      "name": "Drow",
+      "price": 2000
     }
   ],
   "total": 6 
