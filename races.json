@@ -35,7 +35,19 @@
       "enabled": true,
       "name": "Drow",
       "price": 2000
+    },
+    {
+      "defName": "Alien_OrassanHumanHybrid",
+      "enabled": true,
+      "name": "neko",
+      "price": 2000
+     },
+    {
+      "defName": "Alien_Orassan",
+      "enabled": true,
+      "name": "orassan",
+      "price": 2000
     }
   ],
-  "total": 6 
+  "total": 8 
 }
