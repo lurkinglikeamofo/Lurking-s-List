@@ -17,12 +17,6 @@
       "enabled": true,
       "name": "bosmer",
       "price": 1500
-     },
-    {
-      "defName": "Alien_Drow_Otto",
-      "enabled": true,
-      "name": "Drow",
-       "price": 2000
     },
     {
       "defName": "Human",
@@ -43,5 +37,5 @@
       "price": 1500
     }
   ],
-  "total": 7 
+  "total": 6 
 }
