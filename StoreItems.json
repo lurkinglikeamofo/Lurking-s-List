@@ -58,19 +58,19 @@
       "abr": "archotecharm",
       "category": "Archotech",
       "defname": "ArchotechArm",
-      "price": 6500
+      "price": 7500
     },
     {
       "abr": "archotecheye",
       "category": "Archotech",
       "defname": "ArchotechEye",
-      "price": 5000
+      "price": 7500
     },
     {
       "abr": "archotechleg",
       "category": "Archotech",
       "defname": "ArchotechLeg",
-      "price": 4667
+      "price": 7500
     },
     {
       "abr": "arcticfox",
@@ -112,7 +112,7 @@
       "abr": "battery",
       "category": "Power",
       "defname": "Battery",
-      "price": 333
+      "price": 500
     },
     {
       "abr": "bearskin",
@@ -160,43 +160,43 @@
       "abr": "bionicarm",
       "category": "Bionic",
       "defname": "BionicArm",
-      "price": 1725
+      "price": 2000
     },
     {
       "abr": "bionicear",
       "category": "Bionic",
       "defname": "BionicEar",
-      "price": 1017
+      "price": 1500
     },
     {
       "abr": "bioniceye",
       "category": "Bionic",
       "defname": "BionicEye",
-      "price": 1092
+      "price": 2000
     },
     {
       "abr": "bionicheart",
       "category": "Bionic",
       "defname": "BionicHeart",
-      "price": 1467
+      "price": 4000
     },
     {
       "abr": "bionicleg",
       "category": "Bionic",
       "defname": "BionicLeg",
-      "price": 1725
+      "price": 2000
     },
     {
       "abr": "bionicspine",
       "category": "Bionic",
       "defname": "BionicSpine",
-      "price": 1675
+      "price": 2500
     },
     {
       "abr": "bionicstomach",
       "category": "Bionic",
       "defname": "BionicStomach",
-      "price": 1183
+      "price": 4000
     },
     {
       "abr": "birdskin",
@@ -226,7 +226,7 @@
       "abr": "bolt-actionrifle",
       "category": "Ranged weapons",
       "defname": "Gun_BoltActionRifle",
-      "price": 425
+      "price": 500
     },
     {
       "abr": "boomalope",
@@ -286,7 +286,7 @@
       "abr": "cassowary",
       "category": "Animal",
       "defname": "Cassowary",
-      "price": 333
+      "price": 350
     },
     {
       "abr": "cassowaryegg(fert.)",
@@ -304,7 +304,7 @@
       "abr": "chainshotgun",
       "category": "Ranged weapons",
       "defname": "Gun_ChainShotgun",
-      "price": 12500
+      "price": 1250
     },
     {
       "abr": "chargerifle",
@@ -328,7 +328,7 @@
       "abr": "chicken",
       "category": "Animal",
       "defname": "Chicken",
-      "price": 283
+      "price": 350
     },
     {
       "abr": "chickenegg(fert.)",
@@ -502,7 +502,7 @@
       "abr": "duck",
       "category": "Animal",
       "defname": "Duck",
-      "price": 300
+      "price": 350
     },
     {
       "abr": "duckegg(fert.)",
@@ -586,7 +586,7 @@
       "abr": "emu",
       "category": "Animal",
       "defname": "Emu",
-      "price": 343
+      "price": 350
     },
     {
       "abr": "emuegg(fert.)",
@@ -640,7 +640,7 @@
       "abr": "flakjacket",
       "category": "Armor",
       "defname": "Apparel_FlakJacket",
-      "price": 483
+      "price": 750
     },
     {
       "abr": "flakpants",
@@ -652,7 +652,7 @@
       "abr": "flakvest",
       "category": "Armor",
       "defname": "Apparel_FlakVest",
-      "price": 375
+      "price": 500
     },
     {
       "abr": "flake",
@@ -676,7 +676,7 @@
       "abr": "fraggrenades",
       "category": "Grenades",
       "defname": "Weapon_GrenadeFrag",
-      "price": 442
+      "price": 600
     },
     {
       "abr": "fueledsmithy",
@@ -952,7 +952,7 @@
       "abr": "iguana",
       "category": "Animal",
       "defname": "Iguana",
-      "price": 267
+      "price": 350
     },
     {
       "abr": "iguanaegg(fert.)",
@@ -1132,7 +1132,7 @@
       "abr": "marinearmor",
       "category": "Armor",
       "defname": "Apparel_PowerArmor",
-      "price": 3392
+      "price": 5000
     },
     {
       "abr": "marinehelmet",
@@ -1150,7 +1150,7 @@
       "abr": "megascarab",
       "category": "Animal",
       "defname": "Megascarab",
-      "price": 267
+      "price": 350
     },
     {
       "abr": "megascreentelevision",
@@ -1192,7 +1192,7 @@
       "abr": "molotovcocktails",
       "category": "Grenades",
       "defname": "Weapon_GrenadeMolotov",
-      "price": 408
+      "price": 500
     },
     {
       "abr": "monkey",
@@ -1438,7 +1438,7 @@
       "abr": "platearmor",
       "category": "Armor",
       "defname": "Apparel_PlateArmor",
-      "price": 792
+      "price": 800
     },
     {
       "abr": "pokertable",
@@ -1528,7 +1528,7 @@
       "abr": "raccoon",
       "category": "Animal",
       "defname": "Raccoon",
-      "price": 300
+      "price": 350
     },
     {
       "abr": "rat",
@@ -1546,7 +1546,7 @@
       "abr": "reconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorRecon",
-      "price": 2567
+      "price": 4000
     },
     {
       "abr": "reconhelmet",
@@ -1564,7 +1564,7 @@
       "abr": "redfox",
       "category": "Animal",
       "defname": "Fox_Red",
-      "price": 333
+      "price": 350
     },
     {
       "abr": "resurrectormechserum",
@@ -1828,7 +1828,7 @@
       "abr": "thrumbo",
       "category": "Animal",
       "defname": "Thrumbo",
-      "price": 6687
+      "price": 7500
     },
     {
       "abr": "thrumbohorn",
@@ -1972,7 +1972,7 @@
       "abr": "wildboar",
       "category": "Animal",
       "defname": "WildBoar",
-      "price": 333
+      "price": 350
     },
     {
       "abr": "wolfskin",
@@ -2026,31 +2026,31 @@
       "abr": "advancedbionicear",
       "category": "Ultratech",
       "defname": "AdvancedBionicEar",
-      "price": 3500
+      "price": 5000
     },
     {
       "abr": "advancedbioniceye",
       "category": "Ultratech",
       "defname": "AdvancedBionicEye",
-      "price": 3500
+      "price": 5000
     },
     {
       "abr": "advancedbionicfoot",
       "category": "Ultratech",
       "defname": "AdvancedBionicFoot",
-      "price": 3500
+      "price": 4000
     },
     {
       "abr": "advancedbionichand",
       "category": "Ultratech",
       "defname": "AdvancedBionicHand",
-      "price": 3500
+      "price": 4000
     },
     {
       "abr": "advancedbionicjaw",
       "category": "Ultratech",
       "defname": "AdvancedBionicJaw",
-      "price": 3500
+      "price": 4000
     },
     {
       "abr": "advancedbionicleg",
@@ -2062,7 +2062,7 @@
       "abr": "advancedbionicspine",
       "category": "Ultratech",
       "defname": "AdvancedBionicSpine",
-      "price": 5000
+      "price": 7500
     },
     {
       "abr": "advancedpowerarm",
@@ -2152,19 +2152,19 @@
       "abr": "bionicfoot",
       "category": "Bionic",
       "defname": "BionicFoot",
-      "price": 983
+      "price": 1500
     },
     {
       "abr": "bionichand",
       "category": "Bionic",
       "defname": "BionicHand",
-      "price": 983
+      "price": 1500
     },
     {
       "abr": "bionicjaw",
       "category": "Bionic",
       "defname": "BionicJaw",
-      "price": 908
+      "price": 2000
     },
     {
       "abr": "brainstimulator",
@@ -2926,7 +2926,7 @@
       "abr": "archotechshieldbelt",
       "category": "Artifacts",
       "defname": "VFEI_Apparel_ArchotechShieldBelt",
-      "price": 3500
+      "price": 4500
     },
     {
       "abr": "archotechteleporter",
@@ -3076,7 +3076,7 @@
       "abr": "insectoidqueen",
       "category": "Animal",
       "defname": "VFEI_Insectoid_Queen",
-      "price": 2500
+      "price": 3500
     },
     {
       "abr": "jellysac",
@@ -3190,7 +3190,7 @@
       "abr": "riotarmor",
       "category": "Armor",
       "defname": "VFE_Apparel_RiotArmor",
-      "price": 667
+      "price": 1250
     },
     {
       "abr": "riothelmet",
@@ -3250,7 +3250,7 @@
       "abr": "vat-grownboomtick",
       "category": "Animal",
       "defname": "VFEI_VatgrownBoomtick",
-      "price": 367
+      "price": -10
     },
     {
       "abr": "vat-growncuterpillar",
@@ -3280,7 +3280,7 @@
       "abr": "vat-grownmegacricket",
       "category": "Animal",
       "defname": "VFEI_VatGrownMegacricket",
-      "price": 292
+      "price": 350
     },
     {
       "abr": "vat-grownmegapede",
@@ -3292,7 +3292,7 @@
       "abr": "vat-grownmegascarab",
       "category": "Animal",
       "defname": "VFEI_VatGrownMegascarab",
-      "price": 300
+      "price": 350
     },
     {
       "abr": "vat-grownmegaspider",
@@ -3322,25 +3322,25 @@
       "abr": "vat-grownroyallarva",
       "category": "Animal",
       "defname": "VFEI_VatgrownRoyalLarva",
-      "price": 183
+      "price": 350
     },
     {
       "abr": "vat-grownroyalmaggot",
       "category": "Animal",
       "defname": "VFEI_VatGrownRoyalMaggot",
-      "price": 333
+      "price": 350
     },
     {
       "abr": "vat-grownspelopede",
       "category": "Animal",
       "defname": "VFEI_VatGrownSpelopede",
-      "price": 333
+      "price": 350
     },
     {
       "abr": "vat-grownspiderweaver",
       "category": "Animal",
       "defname": "VFEI_VatGrownSpiderweaver",
-      "price": 333
+      "price": 350
     },
     {
       "abr": "vat-growntitanbeetle",
@@ -3412,7 +3412,7 @@
       "abr": "railgun",
       "category": "Ranged weapons",
       "defname": "Gun_RailgunMKI",
-      "price": 2967
+      "price": 4400
     },
     {
       "abr": "repairkit",
@@ -4504,7 +4504,7 @@
       "abr": "cataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphract",
-      "price": 5750
+      "price": 8000
     },
     {
       "abr": "cataphracthelmet",
@@ -4678,7 +4678,7 @@
       "abr": "grenadierarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarineGrenadier",
-      "price": 4300
+      "price": 4500
     },
     {
       "abr": "gunlink",
@@ -4786,7 +4786,7 @@
       "abr": "locustarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorLocust",
-      "price": 4083
+      "price": 8000
     },
     {
       "abr": "loveenhancer",
@@ -4834,7 +4834,7 @@
       "abr": "monosword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_MonoSword",
-      "price": 4458
+      "price": 7500
     },
     {
       "abr": "neurocalculator",
@@ -4876,7 +4876,7 @@
       "abr": "phoenixarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPhoenix",
-      "price": 6350
+      "price": 8000
     },
     {
       "abr": "piano",
@@ -4888,7 +4888,7 @@
       "abr": "plasmasword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_PlasmaSword",
-      "price": 4500
+      "price": 5500
     },
     {
       "abr": "portablepowerunit",
@@ -4906,7 +4906,7 @@
       "abr": "prestigecataphractarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorCataphractPrestige",
-      "price": 7100
+      "price": 10000
     },
     {
       "abr": "prestigecataphracthelmet",
@@ -4918,7 +4918,7 @@
       "abr": "prestigemarinearmor",
       "category": "Armor",
       "defname": "Apparel_ArmorMarinePrestige",
-      "price": 4675
+      "price": 8000
     },
     {
       "abr": "prestigemarinehelmet",
@@ -4930,7 +4930,7 @@
       "abr": "prestigereconarmor",
       "category": "Armor",
       "defname": "Apparel_ArmorReconPrestige",
-      "price": 3658
+      "price": 6000
     },
     {
       "abr": "prestigereconhelmet",
@@ -4954,7 +4954,7 @@
       "abr": "psychicharmonizer",
       "category": "Archotech",
       "defname": "PsychicHarmonizer",
-      "price": 1333
+      "price": 2500
     },
     {
       "abr": "psychicinsanitylance",
@@ -4966,13 +4966,13 @@
       "abr": "psychicreader",
       "category": "Archotech",
       "defname": "PsychicReader",
-      "price": 1667
+      "price": 3000
     },
     {
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": 1667
+      "price": 2500
     },
     {
       "abr": "psychicshocklance",
@@ -5410,7 +5410,7 @@
       "abr": "aerofleet",
       "category": "Animal",
       "defname": "AA_Aerofleet",
-      "price": 200
+      "price": 350
     },
     {
       "abr": "aerofleetfur",
@@ -5434,7 +5434,7 @@
       "abr": "agaripawn",
       "category": "Animal",
       "defname": "AA_Agaripawn",
-      "price": 333
+      "price": 350
     },
     {
       "abr": "agaripawnsporeclump(fert.)",
@@ -5608,7 +5608,7 @@
       "abr": "arcturanskyeel",
       "category": "Animal",
       "defname": "AA_Skyeel",
-      "price": 250
+      "price": 350
     },
     {
       "abr": "armorpiercingmissile",
@@ -5632,13 +5632,13 @@
       "abr": "assaultcharger",
       "category": "Ranged weapons",
       "defname": "Gun_AssaultCharger",
-      "price": 2900
+      "price": 3000
     },
     {
       "abr": "assaulthammer",
       "category": "Melee weapons",
       "defname": "JI_Ormbane",
-      "price": 2575
+      "price": 3000
     },
     {
       "abr": "assaulthelmet",
@@ -5764,7 +5764,7 @@
       "abr": "bedbug",
       "category": "Animal",
       "defname": "AA_BedBug",
-      "price": 167
+      "price": -10
     },
     {
       "abr": "bedbugegg(fert.)",
@@ -5800,7 +5800,7 @@
       "abr": "blackscarab",
       "category": "Animal",
       "defname": "AA_BlackScarab",
-      "price": 250
+      "price": 350
     },
     {
       "abr": "blackspelopede",
@@ -5902,7 +5902,7 @@
       "abr": "brontosaurus",
       "category": "Animal",
       "defname": "Brontosaurus",
-      "price": 5833
+      "price": 6000
     },
     {
       "abr": "brontosaurusegg(fert.)",
@@ -5956,7 +5956,7 @@
       "abr": "cactipine",
       "category": "Animal",
       "defname": "AA_Cactipine",
-      "price": 167
+      "price": 350
     },
     {
       "abr": "carbine",
@@ -6178,7 +6178,7 @@
       "abr": "combatblade",
       "category": "Melee weapons",
       "defname": "GD_Sabertooth",
-      "price": 467
+      "price": 600
     },
     {
       "abr": "combathandgun",
@@ -6448,7 +6448,7 @@
       "abr": "dryosaurus",
       "category": "Animal",
       "defname": "Dryosaurus",
-      "price": 167
+      "price": 350
     },
     {
       "abr": "dryosaurusegg(fert.)",
@@ -6628,7 +6628,7 @@
       "abr": "feralscattergun",
       "category": "Ranged weapons",
       "defname": "Gun_ScatterStick",
-      "price": 233
+      "price": 250
     },
     {
       "abr": "feralsubmachineguns",
@@ -6736,7 +6736,7 @@
       "abr": "flashgrenades",
       "category": "Grenades",
       "defname": "VWE_FlashGrenade",
-      "price": 525
+      "price": 600
     },
     {
       "abr": "flintlock",
@@ -6784,7 +6784,7 @@
       "abr": "frostmite",
       "category": "Animal",
       "defname": "AA_Frostmite",
-      "price": 200
+      "price": 350
     },
     {
       "abr": "fuelbarrel",
@@ -6796,7 +6796,7 @@
       "abr": "gallatross",
       "category": "Animal",
       "defname": "AA_Gallatross",
-      "price": 6667
+      "price": 7500
     },
     {
       "abr": "gallatrosshorn",
@@ -6832,7 +6832,7 @@
       "abr": "gdbuckshotlauncher",
       "category": "GD weapons",
       "defname": "GD_BSLauncher",
-      "price": 992
+      "price": 1000
     },
     {
       "abr": "gdhvsmg",
@@ -6844,13 +6844,13 @@
       "abr": "gdincendiarylauncher",
       "category": "GD weapons",
       "defname": "GD_INGrenadeLauncher",
-      "price": 992
+      "price": 1250
     },
     {
       "abr": "gdmultilauncher",
       "category": "GD weapons",
       "defname": "GD_GrenadeLauncher",
-      "price": 992
+      "price": 2500
     },
     {
       "abr": "gdsmokelauncher",
@@ -6934,7 +6934,7 @@
       "abr": "greengoo",
       "category": "Animal",
       "defname": "AA_GreenGoo",
-      "price": 208
+      "price": 350
     },
     {
       "abr": "grenadelauncher",
@@ -6970,7 +6970,7 @@
       "abr": "harvester",
       "category": "Animal",
       "defname": "Harvester",
-      "price": 13333
+      "price": 1500
     },
     {
       "abr": "hatchet",
@@ -7060,7 +7060,7 @@
       "abr": "infectedaerofleet",
       "category": "Animal",
       "defname": "AA_InfectedAerofleet",
-      "price": 300
+      "price": 350
     },
     {
       "abr": "infernocannon",
@@ -7216,7 +7216,7 @@
       "abr": "lasersword",
       "category": "Melee weapons",
       "defname": "VWEL_LaserSword",
-      "price": 4503
+      "price": 9500
     },
     {
       "abr": "lever-actionrifle",
@@ -7228,7 +7228,7 @@
       "abr": "lightaltmerarmor",
       "category": "Armor",
       "defname": "MorrowRim_Apparel_LightElvenArmor",
-      "price": 708
+      "price": 500
     },
     {
       "abr": "lightplatearmor",
@@ -7240,7 +7240,7 @@
       "abr": "lightsmg",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_LightSMG",
-      "price": 383
+      "price": 350
     },
     {
       "abr": "lockjaw",
@@ -7282,7 +7282,7 @@
       "abr": "makeshiftcruciblerifle",
       "category": "Ranged weapons",
       "defname": "Gun_MCrucibleRifle",
-      "price": 408
+      "price": 1250
     },
     {
       "abr": "mako",
@@ -7390,7 +7390,7 @@
       "abr": "metallovore",
       "category": "Animal",
       "defname": "AA_Metallovore",
-      "price": 250
+      "price": 350
     },
     {
       "abr": "meteoritesteel",
@@ -7414,7 +7414,7 @@
       "abr": "minigrenades",
       "category": "Grenades",
       "defname": "GD_Bobcat",
-      "price": 575
+      "price": 600
     },
     {
       "abr": "minigun",
@@ -7450,43 +7450,43 @@
       "abr": "modularcarbine",
       "category": "GD weapons",
       "defname": "GD_ModularCarbine",
-      "price": 675
+      "price": 1250
     },
     {
       "abr": "modulardmr",
       "category": "GD weapons",
       "defname": "GD_ModularDMR",
-      "price": 1017
+      "price": 1400
     },
     {
       "abr": "modularflakker",
       "category": "GD weapons",
       "defname": "GD_MSSF",
-      "price": 608
+      "price": 1000
     },
     {
       "abr": "modularhybridpistol",
       "category": "GD weapons",
       "defname": "GD_MSSH",
-      "price": 1467
+      "price": 1250
     },
     {
       "abr": "modularhybridrifle",
       "category": "GD weapons",
       "defname": "GD_HybridRifle",
-      "price": 1533
+      "price": 2500
     },
     {
       "abr": "modularlmg",
       "category": "GD weapons",
       "defname": "GD_ModularLMG",
-      "price": 1017
+      "price": 1500
     },
     {
       "abr": "modularrifle",
       "category": "GD weapons",
       "defname": "GD_ModularRifle",
-      "price": 900
+      "price": 1250
     },
     {
       "abr": "modularsidearmsystemkit",
@@ -7498,13 +7498,13 @@
       "abr": "modularspitfire",
       "category": "GD weapons",
       "defname": "GD_MSSS",
-      "price": 608
+      "price": 1250
     },
     {
       "abr": "modulartriple-shot",
       "category": "GD weapons",
       "defname": "GD_MSST",
-      "price": 608
+      "price": 1000
     },
     {
       "abr": "moltenshell",
@@ -7756,7 +7756,7 @@
       "abr": "plasmorph",
       "category": "Animal",
       "defname": "AA_Plasmorph",
-      "price": 250
+      "price": 350
     },
     {
       "abr": "plateboots",
@@ -7888,7 +7888,7 @@
       "abr": "ravager",
       "category": "Animal",
       "defname": "AA_Ravager",
-      "price": 250
+      "price": 350
     },
     {
       "abr": "rawredslime",
@@ -7912,7 +7912,7 @@
       "abr": "redgoo",
       "category": "Animal",
       "defname": "AA_RedGoo",
-      "price": 250
+      "price": 350
     },
     {
       "abr": "redspore",
@@ -7978,7 +7978,7 @@
       "abr": "rocketlauncher",
       "category": "Ranged weapons",
       "defname": "VWE_Gun_RocketLauncher",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "rough-platedmonitor",
@@ -8212,7 +8212,7 @@
       "abr": "smokegrenades",
       "category": "Grenades",
       "defname": "VWE_SmokeGrenade",
-      "price": 215
+      "price": 250
     },
     {
       "abr": "smokegrenades",
@@ -8362,7 +8362,7 @@
       "abr": "survivalknife",
       "category": "Melee weapons",
       "defname": "TE_Eris",
-      "price": 342
+      "price": 400
     },
     {
       "abr": "swarmling",
@@ -8398,7 +8398,7 @@
       "abr": "targuzzler",
       "category": "Animal",
       "defname": "AA_TarGuzzler",
-      "price": 250
+      "price": 350
     },
     {
       "abr": "tekineticlance",
@@ -8452,7 +8452,7 @@
       "abr": "tetraslug",
       "category": "Animal",
       "defname": "AA_TetraSlug",
-      "price": 6667
+      "price": 7500
     },
     {
       "abr": "autoclave",
@@ -8626,13 +8626,13 @@
       "abr": "torchsword",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_TorchSword",
-      "price": 1242
+      "price": 1500
     },
     {
       "abr": "toxicgrenades",
       "category": "Grenades",
       "defname": "VWE_ToxicGrenade",
-      "price": 1417
+      "price": 1500
     },
     {
       "abr": "triceratops",
@@ -8764,7 +8764,7 @@
       "abr": "wildpawn",
       "category": "Animal",
       "defname": "AA_Wildpawn",
-      "price": 333
+      "price": 350
     },
     {
       "abr": "wildpawnsporeclump(fert.)",
@@ -8860,7 +8860,7 @@
       "abr": "ak-47",
       "category": "Ranged weapons",
       "defname": "Gun_AKFortySeven",
-      "price": 667
+      "price": 750
     },
     {
       "abr": "alligatorman",
@@ -8902,13 +8902,13 @@
       "abr": "archotechshieldgenerator",
       "category": "Special",
       "defname": "VFES_ShieldGenerator_Archotech",
-      "price": 4667
+      "price": 4500
     },
     {
       "abr": "armadillo",
       "category": "Animal",
       "defname": "Armadillo",
-      "price": 250
+      "price": 350
     },
     {
       "abr": "armadilloskin",
@@ -8926,25 +8926,25 @@
       "abr": "ballisticcombatgun",
       "category": "Cyborg weaponry",
       "defname": "CW_BallisticCombatGun",
-      "price": 1667
+      "price": 2000
     },
     {
       "abr": "ballisticenforcer",
       "category": "Cyborg weaponry",
       "defname": "CW_BallisticEnforcer",
-      "price": 1667
+      "price": 2500
     },
     {
       "abr": "ballisticshredder",
       "category": "Cyborg weaponry",
       "defname": "CW_BallisticShredder",
-      "price": 1667
+      "price": 2000
     },
     {
       "abr": "bardelot",
       "category": "Animal",
       "defname": "Bardelot",
-      "price": 250
+      "price": 350
     },
     {
       "abr": "bardelothide",
@@ -8962,7 +8962,7 @@
       "abr": "bionicorassantail",
       "category": "Bionic",
       "defname": "OBionicTail",
-      "price": 2500
+      "price": 3000
     },
     {
       "abr": "blackbear",
@@ -9076,7 +9076,7 @@
       "abr": "coilgun",
       "category": "Cyborg weaponry",
       "defname": "CW_CoilGun",
-      "price": 2917
+      "price": 3500
     },
     {
       "abr": "decoy",
@@ -9094,7 +9094,7 @@
       "abr": "desiri",
       "category": "Animal",
       "defname": "Animal_Desiri",
-      "price": 333
+      "price": 350
     },
     {
       "abr": "desirifur",
@@ -9106,13 +9106,13 @@
       "abr": "disruptor",
       "category": "Cyborg weaponry",
       "defname": "CW_Disruptor",
-      "price": 3083
+      "price": 4500
     },
     {
       "abr": "dualeraser",
       "category": "Cyborg weaponry",
       "defname": "CW_DualEraser",
-      "price": 2000
+      "price": 3000
     },
     {
       "abr": "emprecoillessrifleshell",
@@ -9142,7 +9142,7 @@
       "abr": "fnfal",
       "category": "Ranged weapons",
       "defname": "Gun_FAL",
-      "price": 667
+      "price": 886
     },
     {
       "abr": "giantala",
@@ -9196,7 +9196,7 @@
       "abr": "havoclauncher",
       "category": "Cyborg weaponry",
       "defname": "CW_HavocLauncher",
-      "price": 2225
+      "price": 3500
     },
     {
       "abr": "herecoillessrifleshell",
@@ -9268,13 +9268,13 @@
       "abr": "m60",
       "category": "Ranged weapons",
       "defname": "Gun_MSixty",
-      "price": 808
+      "price": 1250
     },
     {
       "abr": "m72law",
       "category": "Ranged weapons",
       "defname": "Gun_M72LAW",
-      "price": 667
+      "price": 1250
     },
     {
       "abr": "mandrill",
@@ -9328,13 +9328,13 @@
       "abr": "milkormgl",
       "category": "Ranged weapons",
       "defname": "Gun_MGL",
-      "price": 558
+      "price": 3500
     },
     {
       "abr": "napalmblaster",
       "category": "Cyborg weaponry",
       "defname": "CW_NapalmBlaster",
-      "price": 1667
+      "price": 2000
     },
     {
       "abr": "neanderthal",
@@ -9442,13 +9442,13 @@
       "abr": "plasmagun",
       "category": "Cyborg weaponry",
       "defname": "CW_PlasmaGun",
-      "price": 2917
+      "price": 4000
     },
     {
       "abr": "powerfist",
       "category": "Cyborg weaponry",
       "defname": "CW_PowerFist",
-      "price": 2000
+      "price": 4000
     },
     {
       "abr": "prowler",
@@ -9484,19 +9484,19 @@
       "abr": "railpistol",
       "category": "Ranged weapons",
       "defname": "rail_pistol",
-      "price": 279
+      "price": 1250
     },
     {
       "abr": "railrifle",
       "category": "Ranged weapons",
       "defname": "rail_rifle",
-      "price": 942
+      "price": 2000
     },
     {
       "abr": "railsniper",
       "category": "Ranged weapons",
       "defname": "rail_sniper",
-      "price": 1008
+      "price": 2000
     },
     {
       "abr": "recoillessrifle",
@@ -9508,19 +9508,19 @@
       "abr": "reconbolter",
       "category": "Cyborg weaponry",
       "defname": "CW_ReconBolter",
-      "price": 3333
+      "price": 4500
     },
     {
       "abr": "riotbreaker",
       "category": "Cyborg weaponry",
       "defname": "CW_RiotBreaker",
-      "price": 1667
+      "price": 2000
     },
     {
       "abr": "rpd",
       "category": "Ranged weapons",
       "defname": "Gun_RPD",
-      "price": 783
+      "price": 850
     },
     {
       "abr": "searchlight",
@@ -9550,7 +9550,7 @@
       "abr": "sks",
       "category": "Ranged weapons",
       "defname": "Gun_SKS",
-      "price": 383
+      "price": 500
     },
     {
       "abr": "smallshieldgenerator",
@@ -9670,7 +9670,7 @@
       "abr": "zebra",
       "category": "Animal",
       "defname": "Zebra",
-      "price": 333
+      "price": 350
     },
     {
       "abr": "zebraleather",
