@@ -982,7 +982,7 @@
       "abr": "infinitechemreactor",
       "category": "Special",
       "defname": "InfiniteChemreactor",
-      "price": 2500
+      "price": 3500
     },
     {
       "abr": "insectjelly",
@@ -1228,73 +1228,73 @@
       "abr": "neurotrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neurotrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": 2000
+      "price": 2500
     },
     {
       "abr": "neutroamine",
@@ -1492,7 +1492,7 @@
       "abr": "psychicemanator",
       "category": "Special",
       "defname": "PsychicEmanator",
-      "price": 2500
+      "price": 3000
     },
     {
       "abr": "psychicfoilhelmet",
@@ -2626,13 +2626,13 @@
       "abr": "resourcescratechemfuel",
       "category": "Resource Crate",
       "defname": "ResourcesCrateChemfuel",
-      "price": 1083
+      "price": 1500
     },
     {
       "abr": "resourcescratecloth",
       "category": "Resource Crate",
       "defname": "ResourcesCrateCloth",
-      "price": 408
+      "price": 1250
     },
     {
       "abr": "resourcescratecomponents",
@@ -2644,7 +2644,7 @@
       "abr": "resourcescratedevilstrand",
       "category": "Resource Crate",
       "defname": "ResourcesCrateDevilstrandCloth",
-      "price": 1492
+      "price": 2500
     },
     {
       "abr": "resourcescrateglitterworldmedicine",
@@ -2656,13 +2656,13 @@
       "abr": "resourcescrategold",
       "category": "Resource Crate",
       "defname": "ResourcesCrateGold",
-      "price": 2708
+      "price": 3500
     },
     {
       "abr": "resourcescrateheavyfur",
       "category": "Resource Crate",
       "defname": "ResourcesCrateLeatherHeavy",
-      "price": 892
+      "price": 1000
     },
     {
       "abr": "resourcescratehumanleather",
@@ -2674,7 +2674,7 @@
       "abr": "resourcescratehyperweave",
       "category": "Resource Crate",
       "defname": "ResourcesCrateHyperweave",
-      "price": 2433
+      "price": 3000
     },
     {
       "abr": "resourcescratejade",
@@ -2686,19 +2686,19 @@
       "abr": "resourcescratelightleather",
       "category": "Resource Crate",
       "defname": "ResourcesCrateLeatherLight",
-      "price": 517
+      "price": 1000
     },
     {
       "abr": "resourcescratemedicine",
       "category": "Resource Crate",
       "defname": "ResourcesCrateMedicineIndustrial",
-      "price": 4875
+      "price": 5000
     },
     {
       "abr": "resourcescratemedicineherbal",
       "category": "Resource Crate",
       "defname": "ResourcesCrateMedicineHerbal",
-      "price": 3250
+      "price": 3500
     },
     {
       "abr": "resourcescrateplainleather",
@@ -2710,7 +2710,7 @@
       "abr": "resourcescrateplasteel",
       "category": "Resource Crate",
       "defname": "ResourcesCratePlasteel",
-      "price": 2433
+      "price": 3500
     },
     {
       "abr": "resourcescratesilver",
@@ -2722,7 +2722,7 @@
       "abr": "resourcescratesteel",
       "category": "Resource Crate",
       "defname": "ResourcesCrateSteel",
-      "price": 517
+      "price": 650
     },
     {
       "abr": "resourcescratesynthread",
@@ -2734,13 +2734,13 @@
       "abr": "resourcescrateuranium",
       "category": "Resource Crate",
       "defname": "ResourcesCrateUranium",
-      "price": 1625
+      "price": 2500
     },
     {
       "abr": "resourcescratewoodlog",
       "category": "Resource Crate",
       "defname": "ResourcesCrateWoodLog",
-      "price": 270
+      "price": 450
     },
     {
       "abr": "scarf",
@@ -3430,7 +3430,7 @@
       "abr": "alc",
       "category": "Rimatomics Product",
       "defname": "ALC",
-      "price": 67
+      "price": 250
     },
     {
       "abr": "atom",
@@ -3442,7 +3442,7 @@
       "abr": "beamsplitter",
       "category": "Rimatomics Product",
       "defname": "BeamSplitter",
-      "price": 67
+      "price": 250
     },
     {
       "abr": "clothingrack",
@@ -3454,19 +3454,19 @@
       "abr": "controlrodactuator",
       "category": "Rimatomics Product",
       "defname": "ControlRodActuator",
-      "price": 67
+      "price": 250
     },
     {
       "abr": "depleteduranium",
       "category": "Rimatomics Product",
       "defname": "DepletedUraniumPellets",
-      "price": 13
+      "price": 25
     },
     {
       "abr": "driveactuator",
       "category": "Rimatomics Product",
       "defname": "DriveActuator",
-      "price": 67
+      "price": 250
     },
     {
       "abr": "dusabotround",
@@ -3478,7 +3478,7 @@
       "abr": "ers",
       "category": "Rimatomics Product",
       "defname": "ERS",
-      "price": 67
+      "price": 200
     },
     {
       "abr": "fabrichamper",
@@ -3514,7 +3514,7 @@
       "abr": "lensmodule",
       "category": "Rimatomics Product",
       "defname": "LenseModule",
-      "price": 67
+      "price": 250
     },
     {
       "abr": "medicinecabinet",
@@ -3526,13 +3526,13 @@
       "abr": "meps",
       "category": "Rimatomics Product",
       "defname": "MEPS",
-      "price": 67
+      "price": 250
     },
     {
       "abr": "missilefuselage",
       "category": "Rimatomics Product",
       "defname": "MissileFuselage",
-      "price": 67
+      "price": 250
     },
     {
       "abr": "moppmask(desert)",
@@ -3622,7 +3622,7 @@
       "abr": "plutonium",
       "category": "Rimatomics Product",
       "defname": "Plutonium",
-      "price": 250
+      "price": 400
     },
     {
       "abr": "potassiumiodide",
@@ -3868,7 +3868,7 @@
       "abr": "rocketengine",
       "category": "Rimatomics Product",
       "defname": "RocketEngine",
-      "price": 67
+      "price": 250
     },
     {
       "abr": "andrewsarchus",
@@ -4174,7 +4174,7 @@
       "abr": "scad",
       "category": "Rimatomics Product",
       "defname": "SCAD",
-      "price": 67
+      "price": 250
     },
     {
       "abr": "scarecrow",
@@ -4360,7 +4360,7 @@
       "abr": "targetingchip",
       "category": "Rimatomics Product",
       "defname": "TargetingChip",
-      "price": 67
+      "price": 250
     },
     {
       "abr": "titanis",
@@ -4444,7 +4444,7 @@
       "abr": "uraniumpellets",
       "category": "Rimatomics Product",
       "defname": "UraniumPellets",
-      "price": 3
+      "price": 5
     },
     {
       "abr": "aestheticnose",
@@ -5248,73 +5248,73 @@
       "abr": "techprint(artificialmetabolism)",
       "category": "Techprints",
       "defname": "Techprint_ArtificialMetabolism",
-      "price": 3333
+      "price": 5000
     },
     {
       "abr": "techprint(cataphractarmor)",
       "category": "Techprints",
       "defname": "Techprint_CataphractArmor",
-      "price": 5000
+      "price": 7500
     },
     {
       "abr": "techprint(circadianinfluence)",
       "category": "Techprints",
       "defname": "Techprint_CircadianInfluence",
-      "price": 3333
+      "price": 5000
     },
     {
       "abr": "techprint(compactweaponry)",
       "category": "Techprints",
       "defname": "Techprint_CompactWeaponry",
-      "price": 1667
+      "price": 3000
     },
     {
       "abr": "techprint(fleshshaping)",
       "category": "Techprints",
       "defname": "Techprint_FleshShaping",
-      "price": 3333
+      "price": 5000
     },
     {
       "abr": "techprint(healingfactors)",
       "category": "Techprints",
       "defname": "Techprint_HealingFactors",
-      "price": 3333
+      "price": 5000
     },
     {
       "abr": "techprint(jumppacks)",
       "category": "Techprints",
       "defname": "Techprint_JumpPack",
-      "price": 3333
+      "price": 5000
     },
     {
       "abr": "techprint(molecularanalysis)",
       "category": "Techprints",
       "defname": "Techprint_MolecularAnalysis",
-      "price": 3333
+      "price": 5000
     },
     {
       "abr": "techprint(neuralcomputation)",
       "category": "Techprints",
       "defname": "Techprint_NeuralComputation",
-      "price": 3333
+      "price": 5000
     },
     {
       "abr": "techprint(poisonsynthesis)",
       "category": "Techprints",
       "defname": "Techprint_VenomSynthesis",
-      "price": 1667
+      "price": 3000
     },
     {
       "abr": "techprint(skinhardening)",
       "category": "Techprints",
       "defname": "Techprint_SkinHardening",
-      "price": 3333
+      "price": 5000
     },
     {
       "abr": "techprint(specializedlimbs)",
       "category": "Techprints",
       "defname": "Techprint_SpecializedLimbs",
-      "price": 1667
+      "price": 3000
     },
     {
       "abr": "tophat",
@@ -9460,7 +9460,7 @@
       "abr": "psychicpylon",
       "category": "Special",
       "defname": "VFES_PsychicPylon",
-      "price": 2167
+      "price": 2500
     },
     {
       "abr": "ptrs-41",
@@ -9679,6 +9679,552 @@
       "price": 3
     },
     {
+      "abr": "antigraintorpedo",
+      "category": "Torpedoes",
+      "defname": "ShipTorpedo_Antimatter",
+      "price": 2500
+    },
+    {
+      "abr": "astromite",
+      "category": "Animal",
+      "defname": "Astromite",
+      "price": 167
+    },
+    {
+      "abr": "cargoshuttle",
+      "category": "Furniture",
+      "defname": "CargoShuttle",
+      "price": 3925
+    },
+    {
+      "abr": "cargoshuttle(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttleCargoRace",
+      "price": 7500
+    },
+    {
+      "abr": "cosmopillar",
+      "category": "Animal",
+      "defname": "Cosmopillar",
+      "price": 833
+    },
+    {
+      "abr": "emptorpedo",
+      "category": "Torpedoes",
+      "defname": "ShipTorpedo_EMP",
+      "price": 433
+    },
+    {
+      "abr": "entanglementmanifold",
+      "category": "Items",
+      "defname": "SoSEntanglementManifold",
+      "price": 6667
+    },
+    {
+      "abr": "evahelmet",
+      "category": "Headgear",
+      "defname": "Apparel_SpaceSuitHelmet",
+      "price": 675
+    },
+    {
+      "abr": "evasuit",
+      "category": "Apparel",
+      "defname": "Apparel_SpaceSuitBody",
+      "price": 1150
+    },
+    {
+      "abr": "heavycargoshuttle",
+      "category": "Furniture",
+      "defname": "HeavyShuttle",
+      "price": 6292
+    },
+    {
+      "abr": "heavycargoshuttle(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttleHeavyRace",
+      "price": 16667
+    },
+    {
+      "abr": "heavyevahelmet",
+      "category": "Headgear",
+      "defname": "Apparel_SpaceSuitHelmetHeavy",
+      "price": 1500
+    },
+    {
+      "abr": "heavyevasuit",
+      "category": "Apparel",
+      "defname": "Apparel_SpaceSuitBodyHeavy",
+      "price": 4117
+    },
+    {
+      "abr": "high-explosivetorpedo",
+      "category": "Torpedoes",
+      "defname": "ShipTorpedo_HighExplosive",
+      "price": 433
+    },
+    {
+      "abr": "hullfoamcanister",
+      "category": "Items",
+      "defname": "HullFoam",
+      "price": 33
+    },
+    {
+      "abr": "bioship,bottom",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkBottom",
+      "price": 4000
+    },
+    {
+      "abr": "bioship,bottomalternate",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkBottomPointy",
+      "price": 4000
+    },
+    {
+      "abr": "bioship,sideleft",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkSideLeft",
+      "price": 4000
+    },
+    {
+      "abr": "bioship,sideright",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkSideRight",
+      "price": 4000
+    },
+    {
+      "abr": "bioship,top",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkTop",
+      "price": 4000
+    },
+    {
+      "abr": "bioship,topleft",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkTopLeft",
+      "price": 4000
+    },
+    {
+      "abr": "bioship,topright",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkTopRight",
+      "price": 4000
+    },
+    {
+      "abr": "bioship,wingleft",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkWingLeft",
+      "price": 4000
+    },
+    {
+      "abr": "bioship,wingright",
+      "category": "Ship parts",
+      "defname": "AS_PurpleShipChunkWingRight",
+      "price": 4000
+    },
+    {
+      "abr": "hugecapturedasteroid,bottom",
+      "category": "Ship parts",
+      "defname": "AS_HugeAsteroidBottom",
+      "price": 6000
+    },
+    {
+      "abr": "hugecapturedasteroid,left",
+      "category": "Ship parts",
+      "defname": "AS_HugeAsteroidLeft",
+      "price": 6000
+    },
+    {
+      "abr": "hugecapturedasteroid,right",
+      "category": "Ship parts",
+      "defname": "AS_HugeAsteroidRight",
+      "price": 6000
+    },
+    {
+      "abr": "hugecapturedasteroid,top",
+      "category": "Ship parts",
+      "defname": "AS_HugeAsteroidTop",
+      "price": 6000
+    },
+    {
+      "abr": "imperialescortship,bottom",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkBottom",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,leftside",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSideLeft",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,rightside",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSideRight",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,roundcore",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkRound",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,roundsideleft",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkRoundSideLeft",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,roundsideright",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkRoundSideRight",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,smallleftside",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSmallSideLeft",
+      "price": 2000
+    },
+    {
+      "abr": "imperialescortship,smallrightside",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSmallSideRight",
+      "price": 2000
+    },
+    {
+      "abr": "imperialescortship,smallwingleft",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSmallWingLeft",
+      "price": 2000
+    },
+    {
+      "abr": "imperialescortship,smallwingright",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkSmallWingRight",
+      "price": 2000
+    },
+    {
+      "abr": "imperialescortship,top",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkTop",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,topalternate",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkTopAlternate",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,toplarge",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkTopPointy",
+      "price": 6000
+    },
+    {
+      "abr": "imperialescortship,topnarrowantennas",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkTopAntennasNarrow",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,topwithantennas",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkTopAntennas",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,widebottom",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkBottomAlternate",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,wingleft",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkWingLeft",
+      "price": 4000
+    },
+    {
+      "abr": "imperialescortship,wingright",
+      "category": "Ship parts",
+      "defname": "AS_BlueShipChunkWingRight",
+      "price": 4000
+    },
+    {
+      "abr": "mechanoidship,bottom",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidShipBottom",
+      "price": 4000
+    },
+    {
+      "abr": "mechanoidship,bottomalternate",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidShipBottomLong",
+      "price": 4000
+    },
+    {
+      "abr": "mechanoidship,sideleft",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidSideLeft",
+      "price": 4000
+    },
+    {
+      "abr": "mechanoidship,sideright",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidSideRight",
+      "price": 4000
+    },
+    {
+      "abr": "mechanoidship,tankleft",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidTankLeft",
+      "price": 4000
+    },
+    {
+      "abr": "mechanoidship,tankright",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidTankRight",
+      "price": 4000
+    },
+    {
+      "abr": "mechanoidship,top",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidShipTop",
+      "price": 4000
+    },
+    {
+      "abr": "mechanoidship,wingleft",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidWingLeft",
+      "price": 4000
+    },
+    {
+      "abr": "mechanoidship,wingright",
+      "category": "Ship parts",
+      "defname": "AS_MechanoidWingRight",
+      "price": 4000
+    },
+    {
+      "abr": "mediumcapturedasteroid,bottom",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkBigBottom",
+      "price": 4000
+    },
+    {
+      "abr": "mediumcapturedasteroid,left",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkBigSide",
+      "price": 4000
+    },
+    {
+      "abr": "mediumcapturedasteroid,right",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkBigReactors",
+      "price": 4000
+    },
+    {
+      "abr": "mediumcapturedasteroid,top",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkBigTop",
+      "price": 4000
+    },
+    {
+      "abr": "minimalshipbridge",
+      "category": "Furniture",
+      "defname": "ShipPilotSeatMini",
+      "price": 425
+    },
+    {
+      "abr": "personalshuttle",
+      "category": "Furniture",
+      "defname": "PersonalShuttle",
+      "price": 1792
+    },
+    {
+      "abr": "personalshuttle(hovermode)",
+      "category": "Animal",
+      "defname": "ShuttlePersonalRace",
+      "price": 2500
+    },
+    {
+      "abr": "pirateship,bottom",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChunkBottom",
+      "price": 4000
+    },
+    {
+      "abr": "pirateship,largewingleft",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChukWingAlternateLeft",
+      "price": 6000
+    },
+    {
+      "abr": "pirateship,largewingright",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChukWingAlternateRight",
+      "price": 6000
+    },
+    {
+      "abr": "pirateship,sideleft",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChunkSideLeft",
+      "price": 4000
+    },
+    {
+      "abr": "pirateship,sideright",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChunkSideRight",
+      "price": 4000
+    },
+    {
+      "abr": "pirateship,top",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChunkTop",
+      "price": 4000
+    },
+    {
+      "abr": "pirateship,toplarge",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChunkTopPointy",
+      "price": 6000
+    },
+    {
+      "abr": "pirateship,wingleft",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChukWingLeft",
+      "price": 4000
+    },
+    {
+      "abr": "pirateship,wingright",
+      "category": "Ship parts",
+      "defname": "AS_GreyShipChukWingRight",
+      "price": 4000
+    },
+    {
+      "abr": "shipbridge",
+      "category": "Furniture",
+      "defname": "ShipPilotSeat",
+      "price": 1200
+    },
+    {
+      "abr": "shipcapacitor",
+      "category": "Furniture",
+      "defname": "ShipCapacitorSmall",
+      "price": 908
+    },
+    {
+      "abr": "shipsalvage",
+      "category": "Special",
+      "defname": "ShipChunkSalvage",
+      "price": -10
+    },
+    {
+      "abr": "smallcapturedasteroid,bottom",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkDown",
+      "price": 2000
+    },
+    {
+      "abr": "smallcapturedasteroid,left",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkLeft",
+      "price": 2000
+    },
+    {
+      "abr": "smallcapturedasteroid,right",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkReactor",
+      "price": 2000
+    },
+    {
+      "abr": "smallcapturedasteroid,top",
+      "category": "Ship parts",
+      "defname": "AS_AsteroidChunkTop",
+      "price": 2000
+    },
+    {
+      "abr": "stellapede",
+      "category": "Animal",
+      "defname": "Stellapede",
+      "price": 333
+    },
+    {
+      "abr": "survivalbelt",
+      "category": "Armor",
+      "defname": "Apparel_SpaceSurvivalBelt",
+      "price": 178
+    },
+    {
+      "abr": "tradeship,bottom",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipBottom",
+      "price": 4000
+    },
+    {
+      "abr": "tradeship,bottomalternate",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipBottomAlternate",
+      "price": 4000
+    },
+    {
+      "abr": "tradeship,sideleft",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipLeft",
+      "price": 4000
+    },
+    {
+      "abr": "tradeship,sideright",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipRight",
+      "price": 4000
+    },
+    {
+      "abr": "tradeship,tanksleft",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipTanksLeft",
+      "price": 4000
+    },
+    {
+      "abr": "tradeship,tanksright",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipTanksRight",
+      "price": 4000
+    },
+    {
+      "abr": "tradeship,top",
+      "category": "Ship parts",
+      "defname": "AS_OrangeShipTop",
+      "price": 4000
+    },
+    {
+      "abr": "uraniumfuelpod",
+      "category": "Manufactured",
+      "defname": "ShuttleFuelPods",
+      "price": 5
+    },
+    {
+      "abr": "vanometricfoodprocessor",
+      "category": "Special",
+      "defname": "AS_VanometricFoodProcessor",
+      "price": 5000
+    },
+    {
+      "abr": "vanometricheatsink",
+      "category": "Misc",
+      "defname": "AS_ArchotechHeatsink",
+      "price": 1483
+    },
+    {
+      "abr": "weathernormalizationdevice",
+      "category": "Artifacts",
+      "defname": "WeatherCancelDevice",
+      "price": 2000
+    },
+    {
       "abr": "guestbed",
       "category": "Furniture",
       "defname": "BedGuest",
@@ -9715,5 +10261,5 @@
       "price": 1467
     }
   ],
-  "total": 1619
+  "total": 1710
 }
