@@ -18,7 +18,7 @@
 	{
 		"abr": "rain",
 		"price": 350,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "vomitrain",
@@ -28,7 +28,7 @@
 	{
 		"abr": "foggyrain",
 		"price": 300,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "rainythunderstorm",
