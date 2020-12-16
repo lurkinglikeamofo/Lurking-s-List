@@ -271,11 +271,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "reviveanypawn",
-		"price": 5000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -321,21 +316,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "reviveall",
-		"price": 30000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "reviveme",
-		"price": 7000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "healall",
-		"price": 25000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "surgery",
 		"price": 1,
 		"karmatype": "Good"
@@ -374,7 +354,32 @@
 		"abr": "backpack",
 		"price": 1,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "earthquake",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "drought",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 1000,
+		"karmatype": "Neutral"
 	}
 	],
-	"total": 75
+	"total": 76
 }
