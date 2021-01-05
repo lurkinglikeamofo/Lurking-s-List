@@ -217,18 +217,6 @@
 		"defname": "Shell_AntigrainWarhead"
 	},
 	{
-		"abr": "aprecoillessrifleshell",
-		"price": 17,
-		"category": "Recoilless rifle shells",
-		"defname": "RecoillessRifle_Shell_AP"
-	},
-	{
-		"abr": "apdsrecoillessrifleshell",
-		"price": 17,
-		"category": "Recoilless rifle shells",
-		"defname": "RecoillessRifle_Shell_APDS"
-	},
-	{
 		"abr": "archerytarget",
 		"price": 248,
 		"category": "Recreation",
@@ -727,12 +715,6 @@
 		"defname": "Leather_Camel"
 	},
 	{
-		"abr": "canisterrecoillessrifleshell",
-		"price": 17,
-		"category": "Recoilless rifle shells",
-		"defname": "RecoillessRifle_Shell_Canister"
-	},
-	{
 		"abr": "capybara",
 		"price": 250,
 		"category": "Animal",
@@ -931,12 +913,6 @@
 		"defname": "AA_CinderSilk"
 	},
 	{
-		"abr": "climatecontrolunit",
-		"price": 800,
-		"category": "Climate",
-		"defname": "AirThermal"
-	},
-	{
 		"abr": "cloth",
 		"price": 2,
 		"category": "Textiles",
@@ -953,12 +929,6 @@
 		"price": 141,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Club"
-	},
-	{
-		"abr": "clusterrecoillessrifleshell",
-		"price": 17,
-		"category": "Recoilless rifle shells",
-		"defname": "RecoillessRifle_Shell_Cluster"
 	},
 	{
 		"abr": "cobra",
@@ -1001,12 +971,6 @@
 		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCompsognathusFertilized"
-	},
-	{
-		"abr": "concertinawire",
-		"price": 5,
-		"category": "Raw resources",
-		"defname": "RazorWire"
 	},
 	{
 		"abr": "constructionbook",
@@ -1085,12 +1049,6 @@
 		"price": 25,
 		"category": "Torture",
 		"defname": "WCE2_CrudeTortureTools"
-	},
-	{
-		"abr": "crushedcharcoal",
-		"price": 3,
-		"category": "Explosives",
-		"defname": "rxCharcoal"
 	},
 	{
 		"abr": "crystalmit",
@@ -1381,12 +1339,6 @@
 		"defname": "EggDryosaurusUnfertilized"
 	},
 	{
-		"abr": "dualrefrigerator",
-		"price": 186,
-		"category": "Furniture",
-		"defname": "RimFridge_Refrigerator"
-	},
-	{
 		"abr": "duck",
 		"price": 100,
 		"category": "Animal",
@@ -1543,18 +1495,6 @@
 		"defname": "Gun_EmpLauncher"
 	},
 	{
-		"abr": "emprecoillessrifleshell",
-		"price": -10,
-		"category": "Recoilless rifle shells",
-		"defname": "RecoillessRifle_Shell_EMP"
-	},
-	{
-		"abr": "empremoteexplosive",
-		"price": 600,
-		"category": "Explosives",
-		"defname": "rxRemoteEmpBomb"
-	},
-	{
 		"abr": "empshell",
 		"price": 92,
 		"category": "Mortar shells",
@@ -1583,12 +1523,6 @@
 		"price": 2167,
 		"category": "Animal",
 		"defname": "Enhydriodon"
-	},
-	{
-		"abr": "explosivesworkshop",
-		"price": 717,
-		"category": "Buildings",
-		"defname": "rxBench"
 	},
 	{
 		"abr": "eyeball",
@@ -1849,12 +1783,6 @@
 		"defname": "GameOfUrBoard"
 	},
 	{
-		"abr": "gasmask",
-		"price": 267,
-		"category": "Headgear",
-		"defname": "rxApparel_GasMask"
-	},
-	{
 		"abr": "gazelle",
 		"price": 250,
 		"category": "Animal",
@@ -2113,22 +2041,10 @@
 		"defname": "Storage_HazMatContainer"
 	},
 	{
-		"abr": "herecoillessrifleshell",
-		"price": 17,
-		"category": "Recoilless rifle shells",
-		"defname": "RecoillessRifle_Shell_HighExplosive"
-	},
-	{
 		"abr": "heart",
 		"price": -10,
 		"category": "Natural",
 		"defname": "Heart"
-	},
-	{
-		"abr": "heatrecoillessrifleshell",
-		"price": 17,
-		"category": "Recoilless rifle shells",
-		"defname": "RecoillessRifle_Shell_HEAT"
 	},
 	{
 		"abr": "heater",
@@ -2323,18 +2239,6 @@
 		"defname": "Gun_IncendiaryLauncher"
 	},
 	{
-		"abr": "incendiaryrecoillessrifleshell",
-		"price": 17,
-		"category": "Recoilless rifle shells",
-		"defname": "RecoillessRifle_Shell_Incendiary"
-	},
-	{
-		"abr": "incendiaryremoteexplosive",
-		"price": 133,
-		"category": "Explosives",
-		"defname": "rxRemoteFireBomb"
-	},
-	{
 		"abr": "incendiaryshell",
 		"price": 92,
 		"category": "Mortar shells",
@@ -2369,12 +2273,6 @@
 		"price": 1,
 		"category": "Meat",
 		"defname": "Meat_Megaspider"
-	},
-	{
-		"abr": "intakefan",
-		"price": 383,
-		"category": "Climate",
-		"defname": "IntakeFan"
 	},
 	{
 		"abr": "intellectualbook",
@@ -2509,18 +2407,6 @@
 		"defname": "LabradorRetriever"
 	},
 	{
-		"abr": "largeclimatecontrolunit",
-		"price": 2408,
-		"category": "Climate",
-		"defname": "LargeAirThermal"
-	},
-	{
-		"abr": "largeintakefan",
-		"price": 1142,
-		"category": "Climate",
-		"defname": "LargeIntakeFan"
-	},
-	{
 		"abr": "largerug",
 		"price": 492,
 		"category": "Art",
@@ -2537,12 +2423,6 @@
 		"price": 583,
 		"category": "Art",
 		"defname": "VFE_StatueLarge"
-	},
-	{
-		"abr": "largesurroundairvent",
-		"price": 1342,
-		"category": "Climate",
-		"defname": "SurroundAirVentWide"
 	},
 	{
 		"abr": "larvalatispec",
@@ -2729,12 +2609,6 @@
 		"price": 750,
 		"category": "Animal",
 		"defname": "AA_Mantrap"
-	},
-	{
-		"abr": "manualdetonator",
-		"price": 131,
-		"category": "Buildings",
-		"defname": "rxDetonatorManual"
 	},
 	{
 		"abr": "map",
@@ -2963,12 +2837,6 @@
 		"price": 2258,
 		"category": "Books",
 		"defname": "VBE_BookMining"
-	},
-	{
-		"abr": "miningexplosive",
-		"price": 108,
-		"category": "Explosives",
-		"defname": "rxMiningExplosiveComponent"
 	},
 	{
 		"abr": "mini-turret",
@@ -3451,18 +3319,6 @@
 		"defname": "Bear_Polar"
 	},
 	{
-		"abr": "portablepowerunit",
-		"price": 600,
-		"category": "Power",
-		"defname": "rxPowerUnit"
-	},
-	{
-		"abr": "portableremotedetonator",
-		"price": 500,
-		"category": "Apparel",
-		"defname": "rxApparel_PortableDetonator"
-	},
-	{
 		"abr": "potatoes",
 		"price": 2,
 		"category": "Vegetarian",
@@ -3515,12 +3371,6 @@
 		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggProtoceratopsFertilized"
-	},
-	{
-		"abr": "proximitysensor",
-		"price": 307,
-		"category": "Buildings",
-		"defname": "rxProximitySensor"
 	},
 	{
 		"abr": "psychicemanator",
@@ -3593,12 +3443,6 @@
 		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPurussaurusFertilized"
-	},
-	{
-		"abr": "quadrefrigerator",
-		"price": 307,
-		"category": "Furniture",
-		"defname": "RimFridge_QuadRefrigerator"
 	},
 	{
 		"abr": "quetzalcoatlus",
@@ -3709,12 +3553,6 @@
 		"defname": "AA_Razorjack"
 	},
 	{
-		"abr": "recoillessrifle",
-		"price": 658,
-		"category": "Security",
-		"defname": "RR_Turret_RecoillessRifle"
-	},
-	{
 		"abr": "recurvebow",
 		"price": 110,
 		"category": "Ranged weapons",
@@ -3751,28 +3589,10 @@
 		"defname": "Leather_Redhide"
 	},
 	{
-		"abr": "refinedsleepinggascanister",
-		"price": 500,
-		"category": "Explosives",
-		"defname": "rxRemoteRefinedSleepingGasCan"
-	},
-	{
 		"abr": "relief",
 		"price": 1983,
 		"category": "Art",
 		"defname": "VFE_Relief"
-	},
-	{
-		"abr": "remotedetonator",
-		"price": 202,
-		"category": "Buildings",
-		"defname": "rxTableDetonator"
-	},
-	{
-		"abr": "remoteexplosive",
-		"price": 133,
-		"category": "Explosives",
-		"defname": "rxRemoteBomb"
 	},
 	{
 		"abr": "repairkit",
@@ -4009,12 +3829,6 @@
 		"defname": "Leather_Sauropod"
 	},
 	{
-		"abr": "sealingfoamcanister",
-		"price": 250,
-		"category": "Explosives",
-		"defname": "rxRemoteFoamCan"
-	},
-	{
 		"abr": "searchlight",
 		"price": 475,
 		"category": "Security",
@@ -4031,12 +3845,6 @@
 		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_SentryGun"
-	},
-	{
-		"abr": "shapedcharge",
-		"price": 525,
-		"category": "Buildings",
-		"defname": "rxMiningChargeShaped"
 	},
 	{
 		"abr": "sheep",
@@ -4093,12 +3901,6 @@
 		"defname": "ShortfacedBear"
 	},
 	{
-		"abr": "shrapnelrecoillessrifleshell",
-		"price": 17,
-		"category": "Recoilless rifle shells",
-		"defname": "RecoillessRifle_Shell_Shrapnel"
-	},
-	{
 		"abr": "silver",
 		"price": 2,
 		"category": "Raw resources",
@@ -4121,12 +3923,6 @@
 		"price": 350,
 		"category": "Production",
 		"defname": "SimpleResearchBench"
-	},
-	{
-		"abr": "singlerefrigerator",
-		"price": 121,
-		"category": "Furniture",
-		"defname": "RimFridge_SingleRefrigerator"
 	},
 	{
 		"abr": "sivatherium",
@@ -4165,12 +3961,6 @@
 		"defname": "WCE2_SlaveBrand"
 	},
 	{
-		"abr": "sleepinggascanister",
-		"price": 250,
-		"category": "Explosives",
-		"defname": "rxRemoteSleepingGasCan"
-	},
-	{
 		"abr": "slurrypede",
 		"price": 1083,
 		"category": "Animal",
@@ -4193,12 +3983,6 @@
 		"price": 275,
 		"category": "Art",
 		"defname": "VFE_StatueSmall"
-	},
-	{
-		"abr": "smallwallairvent",
-		"price": 112,
-		"category": "Climate",
-		"defname": "WallAirVentSmall"
 	},
 	{
 		"abr": "smilodon",
@@ -4409,12 +4193,6 @@
 		"price": 129,
 		"category": "Furniture",
 		"defname": "SunLamp"
-	},
-	{
-		"abr": "surroundairvent",
-		"price": 675,
-		"category": "Climate",
-		"defname": "SurroundAirVent"
 	},
 	{
 		"abr": "swarmling",
@@ -4657,36 +4435,6 @@
 		"defname": "EggTurkeyFertilized"
 	},
 	{
-		"abr": "turretbasea",
-		"price": 500,
-		"category": "Security",
-		"defname": "TurretWeaponBaseAutomatic_Buildable"
-	},
-	{
-		"abr": "turretbasea",
-		"price": 583,
-		"category": "Security",
-		"defname": "TurretWeaponBaseAutomatic"
-	},
-	{
-		"abr": "turretbaseamk-ii",
-		"price": 1250,
-		"category": "Security",
-		"defname": "TurretWeaponBaseAutomaticPlasteel"
-	},
-	{
-		"abr": "turretbaseamk-iii",
-		"price": 1500,
-		"category": "Security",
-		"defname": "TurretWeaponBaseAutomaticHighTechTargeting_Buildable"
-	},
-	{
-		"abr": "turretbaseamk-iii",
-		"price": 2083,
-		"category": "Security",
-		"defname": "TurretWeaponBaseAutomaticHighTechTargeting"
-	},
-	{
 		"abr": "typewritertable",
 		"price": 342,
 		"category": "Production",
@@ -4783,24 +4531,6 @@
 		"defname": "WakeUp"
 	},
 	{
-		"abr": "wallairvent",
-		"price": 224,
-		"category": "Climate",
-		"defname": "WallAirVent"
-	},
-	{
-		"abr": "walldualrefrigerator",
-		"price": 186,
-		"category": "Furniture",
-		"defname": "RimFridge_WallRefrigerator"
-	},
-	{
-		"abr": "wallsinglerefrigerator",
-		"price": 121,
-		"category": "Furniture",
-		"defname": "RimFridge_SingleWallRefrigerator"
-	},
-	{
 		"abr": "warmask",
 		"price": 101,
 		"category": "Headgear",
@@ -4889,12 +4619,6 @@
 		"price": 4,
 		"category": "Manufactured",
 		"defname": "Wort"
-	},
-	{
-		"abr": "wpsmokerecoillessrifleshell",
-		"price": 17,
-		"category": "Recoilless rifle shells",
-		"defname": "RecoillessRifle_Shell_WP"
 	},
 	{
 		"abr": "writerstable",
@@ -4999,100 +4723,22 @@
 		"defname": "VFE_Sprinkler"
 	},
 	{
-		"abr": "10,5cmlefh16",
-		"price": 3217,
-		"category": "Security",
-		"defname": "Turret_leFH_16_KA"
-	},
-	{
-		"abr": "15cmnebelwerfer41",
-		"price": 1567,
-		"category": "Security",
-		"defname": "Turret_Nebelwerfer_41_KA"
-	},
-	{
 		"abr": "1849/55kammerlader",
-		"price": 417,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Kammerlader_FA"
 	},
 	{
 		"abr": "1858/67podewils-lindner",
-		"price": 417,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Podewils_FA"
-	},
-	{
-		"abr": "2cmflak38camouflagepaint",
-		"price": 1300,
-		"category": "Security",
-		"defname": "Turret_Flak_38_Camo_RA"
-	},
-	{
-		"abr": "2cmflak38dunkelgelbpaint",
-		"price": 1300,
-		"category": "Security",
-		"defname": "Turret_Flak_38_Dunkelgelb_RA"
-	},
-	{
-		"abr": "2cmflak38panzergraupaint",
-		"price": 1300,
-		"category": "Security",
-		"defname": "Turret_Flak_38_Panzergrau_RA"
-	},
-	{
-		"abr": "3,7cmpak36",
-		"price": 1467,
-		"category": "Security",
-		"defname": "Turret_PaK_36_RA"
-	},
-	{
-		"abr": "7,5cmle.ig18",
-		"price": 1083,
-		"category": "Security",
-		"defname": "Turret_leIG_18_RA"
-	},
-	{
-		"abr": "7,5cmpak40camouflagepaint",
-		"price": 3050,
-		"category": "Security",
-		"defname": "Turret_PaK_40_Camo_RA"
-	},
-	{
-		"abr": "7,5cmpak40dunkelgelbpaint",
-		"price": 3050,
-		"category": "Security",
-		"defname": "Turret_PaK_40_Dunkelgelb_RA"
-	},
-	{
-		"abr": "7,5cmpak40panzergraupaint",
-		"price": 3050,
-		"category": "Security",
-		"defname": "Turret_PaK_40_Panzergrau_RA"
-	},
-	{
-		"abr": "7,7cmfk96n.a.",
-		"price": 2033,
-		"category": "Security",
-		"defname": "Turret_FK_96_KA"
-	},
-	{
-		"abr": "7,92mmhighqualityammobox",
-		"price": 200,
-		"category": "Misc",
-		"defname": "Kar98K_Ammo_RA"
 	},
 	{
 		"abr": "ak-45korovin",
 		"price": 842,
 		"category": "Ranged weapons",
 		"defname": "Gun_AK45Korov_FA"
-	},
-	{
-		"abr": "armyuniform(ig)",
-		"price": 247,
-		"category": "Imperial German suits",
-		"defname": "Apparel_IGArmyUniform"
 	},
 	{
 		"abr": "automatkarabiner53",
@@ -5137,12 +4783,6 @@
 		"defname": "Gun_Breda_PG_FA"
 	},
 	{
-		"abr": "brengun",
-		"price": 783,
-		"category": "Ranged weapons",
-		"defname": "BWS_Bren"
-	},
-	{
 		"abr": "brixiam1930",
 		"price": 1075,
 		"category": "Ranged weapons",
@@ -5185,12 +4825,6 @@
 		"defname": "Gun_DreyseM1907_FA"
 	},
 	{
-		"abr": "em-2",
-		"price": 933,
-		"category": "Ranged weapons",
-		"defname": "BWP_EM"
-	},
-	{
 		"abr": "epkpyrkalm1939",
 		"price": 1250,
 		"category": "Ranged weapons",
@@ -5213,24 +4847,6 @@
 		"price": 700,
 		"category": "Ranged weapons",
 		"defname": "Gun_Feg35M_FA"
-	},
-	{
-		"abr": "feldmutze(ig)",
-		"price": 89,
-		"category": "Headgear",
-		"defname": "Apparel_IGFeldmutze"
-	},
-	{
-		"abr": "feldmutzegasmask(ig)",
-		"price": 145,
-		"category": "Headgear",
-		"defname": "Apparel_IGFeldmutzeGasmask"
-	},
-	{
-		"abr": "flamethrower",
-		"price": 1767,
-		"category": "Ranged weapons",
-		"defname": "Gun_FlameThrower"
 	},
 	{
 		"abr": "fm24/29chatellerault",
@@ -5281,22 +4897,10 @@
 		"defname": "Gun_ChauchatM1915_FA"
 	},
 	{
-		"abr": "gasmask",
-		"price": 517,
-		"category": "Headgear",
-		"defname": "Apparel_GasMask"
-	},
-	{
 		"abr": "generalliu",
 		"price": 1108,
 		"category": "Ranged weapons",
 		"defname": "Gun_GeneralLiuSemi_FA"
-	},
-	{
-		"abr": "generaluniform(ig)",
-		"price": 280,
-		"category": "Imperial German suits",
-		"defname": "Apparel_IGGeneralUniform"
 	},
 	{
 		"abr": "griffiths-woodgate",
@@ -5309,12 +4913,6 @@
 		"price": 1050,
 		"category": "Ranged weapons",
 		"defname": "Gun_Hagen_FA"
-	},
-	{
-		"abr": "hmg-turret",
-		"price": -10,
-		"category": "Security",
-		"defname": "Turret_HMGTurret"
 	},
 	{
 		"abr": "holublightrifle",
@@ -5335,22 +4933,10 @@
 		"defname": "Gun_Huot_Ross_FA"
 	},
 	{
-		"abr": "iedmustardgastrap",
-		"price": 192,
-		"category": "Security",
-		"defname": "TrapIED_MustardGas"
-	},
-	{
 		"abr": "k31",
 		"price": 733,
 		"category": "Ranged weapons",
 		"defname": "Gun_K31_FA"
-	},
-	{
-		"abr": "kaisermachiningtable",
-		"price": 608,
-		"category": "Production",
-		"defname": "TableKA"
 	},
 	{
 		"abr": "kbspwz.38m",
@@ -5383,18 +4969,6 @@
 		"defname": "Gun_KragJorgensenM1912_FA"
 	},
 	{
-		"abr": "l1a1",
-		"price": 900,
-		"category": "Ranged weapons",
-		"defname": "BWP_FAL"
-	},
-	{
-		"abr": "l9a1",
-		"price": 216,
-		"category": "Ranged weapons",
-		"defname": "BWP_Browning"
-	},
-	{
 		"abr": "lebelmle.1886m27",
 		"price": 642,
 		"category": "Ranged weapons",
@@ -5405,24 +4979,6 @@
 		"price": 825,
 		"category": "Ranged weapons",
 		"defname": "Gun_LeeNavy_FA"
-	},
-	{
-		"abr": "lee-enfieldno.3",
-		"price": 458,
-		"category": "Ranged weapons",
-		"defname": "BWS_LeeA"
-	},
-	{
-		"abr": "lee-enfieldno.4",
-		"price": 467,
-		"category": "Ranged weapons",
-		"defname": "BWS_LeeB"
-	},
-	{
-		"abr": "lewisgun",
-		"price": 783,
-		"category": "Ranged weapons",
-		"defname": "BWS_LewisGun"
 	},
 	{
 		"abr": "liégeoisem1888",
@@ -5443,48 +4999,6 @@
 		"defname": "Gun_LugerRifle_FA"
 	},
 	{
-		"abr": "m16camoflaugedstahlhelm(ig)",
-		"price": 158,
-		"category": "Headgear",
-		"defname": "Apparel_IGStahlhelmCamo"
-	},
-	{
-		"abr": "m16camoflaugedstahlhelmgasmask(ig)",
-		"price": 197,
-		"category": "Headgear",
-		"defname": "Apparel_IGStahlhelmCamoGasmask"
-	},
-	{
-		"abr": "m16platedstahlhelm(ig)",
-		"price": 192,
-		"category": "Headgear",
-		"defname": "Apparel_IGStahlhelmPlate"
-	},
-	{
-		"abr": "m16platedstahlhelmgasmask(ig)",
-		"price": 231,
-		"category": "Headgear",
-		"defname": "Apparel_IGStahlhelmPlateGasmask"
-	},
-	{
-		"abr": "m16stahlhelmgasmask(ig)",
-		"price": 197,
-		"category": "Headgear",
-		"defname": "Apparel_IGStahlhelmGasmask"
-	},
-	{
-		"abr": "m16stahlhelm(ig)",
-		"price": 158,
-		"category": "Headgear",
-		"defname": "Apparel_IGStahlhelm"
-	},
-	{
-		"abr": "m17gasmask(ig)",
-		"price": 73,
-		"category": "Headgear",
-		"defname": "Apparel_IGGasmask"
-	},
-	{
 		"abr": "m1841dreyseneedle-gun",
 		"price": 417,
 		"category": "Ranged weapons",
@@ -5501,12 +5015,6 @@
 		"price": 808,
 		"category": "Ranged weapons",
 		"defname": "Gun_M1893Mondragon_FA"
-	},
-	{
-		"abr": "m1928a1",
-		"price": 875,
-		"category": "Ranged weapons",
-		"defname": "BWP_TommyB"
 	},
 	{
 		"abr": "madsenlar",
@@ -5545,12 +5053,6 @@
 		"defname": "Gun_MannlicherSchoenauer_FA"
 	},
 	{
-		"abr": "martinihenry",
-		"price": 400,
-		"category": "Ranged weapons",
-		"defname": "BWP_MartiniHenry"
-	},
-	{
 		"abr": "mas1918/21",
 		"price": 1008,
 		"category": "Ranged weapons",
@@ -5573,12 +5075,6 @@
 		"price": 1383,
 		"category": "Ranged weapons",
 		"defname": "Gun_MAS55_FA"
-	},
-	{
-		"abr": "mask",
-		"price": 148,
-		"category": "Headgear",
-		"defname": "Apparel_Mask"
 	},
 	{
 		"abr": "mauserc98selbstladegewehr",
@@ -5605,12 +5101,6 @@
 		"defname": "Gun_Meunier_FA"
 	},
 	{
-		"abr": "mg08",
-		"price": 792,
-		"category": "Security",
-		"defname": "Turret_MG_08_KA"
-	},
-	{
 		"abr": "mg08/15",
 		"price": 1450,
 		"category": "Ranged weapons",
@@ -5629,58 +5119,10 @@
 		"defname": "Gun_Mondragon_FA"
 	},
 	{
-		"abr": "mountedmg42",
-		"price": 1083,
-		"category": "Security",
-		"defname": "Turret_MG_42_RA"
-	},
-	{
-		"abr": "mustardgasgrenades",
-		"price": 625,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadeMustardGas"
-	},
-	{
-		"abr": "mustardgaslauncher",
-		"price": 975,
-		"category": "Ranged weapons",
-		"defname": "Gun_MustardGasLauncher"
-	},
-	{
-		"abr": "mustardgasshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Shell_MustardGas"
-	},
-	{
 		"abr": "netschlmg",
 		"price": 1333,
 		"category": "Ranged weapons",
 		"defname": "Gun_NetschLMG_FA"
-	},
-	{
-		"abr": "nuclearmortarshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "Shell_Nuclear"
-	},
-	{
-		"abr": "pickelhaube(ig)",
-		"price": 84,
-		"category": "Headgear",
-		"defname": "Apparel_IGPickelhaube"
-	},
-	{
-		"abr": "pickelhaubecovered(ig)",
-		"price": 84,
-		"category": "Headgear",
-		"defname": "Apparel_IGPickelhaubeCovered"
-	},
-	{
-		"abr": "pickelhaubecoveredgasmask(ig)",
-		"price": 123,
-		"category": "Headgear",
-		"defname": "Apparel_IGPickelhaubeCoveredGasmask"
 	},
 	{
 		"abr": "piepermodel1893revolvingcarbine",
@@ -5689,64 +5131,10 @@
 		"defname": "Gun_PieperCarbine_FA"
 	},
 	{
-		"abr": "plaguegrenades",
-		"price": 408,
-		"category": "Grenades",
-		"defname": "Weapon_GrenadePlague"
-	},
-	{
-		"abr": "plaguegun",
-		"price": 575,
-		"category": "Ranged weapons",
-		"defname": "Gun_PlagueGun"
-	},
-	{
-		"abr": "plaguelauncher",
-		"price": 633,
-		"category": "Ranged weapons",
-		"defname": "Gun_PlagueLauncher"
-	},
-	{
-		"abr": "platearmor(ig)",
-		"price": 184,
-		"category": "Imperial German Armor",
-		"defname": "Apparel_IGPlateArmor"
-	},
-	{
-		"abr": "pm1910",
-		"price": 792,
-		"category": "Security",
-		"defname": "Turret_PM1910_TA"
-	},
-	{
-		"abr": "pm1910ammobox",
-		"price": 200,
-		"category": "Manufactured",
-		"defname": "PM1910_Ammo_TA"
-	},
-	{
-		"abr": "poisonedshortbow",
-		"price": 74,
-		"category": "Ranged weapons",
-		"defname": "Bow_PoisonedShort"
-	},
-	{
-		"abr": "reichmachiningtable",
-		"price": 608,
-		"category": "Production",
-		"defname": "TableRA"
-	},
-	{
 		"abr": "rheinmetallrh-70",
 		"price": 1500,
 		"category": "Ranged weapons",
 		"defname": "Gun_RH70_FA"
-	},
-	{
-		"abr": "riflemanharness(ig)",
-		"price": 57,
-		"category": "Imperial German Armor",
-		"defname": "Apparel_IGHarness"
 	},
 	{
 		"abr": "rossriflemk.3",
@@ -5765,18 +5153,6 @@
 		"price": 925,
 		"category": "Ranged weapons",
 		"defname": "Gun_RSC1918_FA"
-	},
-	{
-		"abr": "rustyrevolver",
-		"price": 333,
-		"category": "Ranged weapons",
-		"defname": "Gun_RustyRevolver"
-	},
-	{
-		"abr": "schiessbecher",
-		"price": 200,
-		"category": "Misc",
-		"defname": "Schiessbecher_RA"
 	},
 	{
 		"abr": "schlegelmilchm1896",
@@ -5815,18 +5191,6 @@
 		"defname": "Gun_SjogrenKarabinerM1909_FA"
 	},
 	{
-		"abr": "stairsdown",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "ZL_StairsDown"
-	},
-	{
-		"abr": "stairsup",
-		"price": -10,
-		"category": "Furniture",
-		"defname": "ZL_StairsUp"
-	},
-	{
 		"abr": "stamm-saurerlmg",
 		"price": 1292,
 		"category": "Ranged weapons",
@@ -5839,22 +5203,10 @@
 		"defname": "Gun_StammSaurer_FA"
 	},
 	{
-		"abr": "stengun",
-		"price": 272,
-		"category": "Ranged weapons",
-		"defname": "BWS_Sten"
-	},
-	{
 		"abr": "stendebachm1936",
 		"price": 1208,
 		"category": "Ranged weapons",
 		"defname": "Gun_Stendebach_FA"
-	},
-	{
-		"abr": "sterling",
-		"price": 392,
-		"category": "Ranged weapons",
-		"defname": "BWS_Sterling"
 	},
 	{
 		"abr": "steyrm1911self-loader",
@@ -5867,18 +5219,6 @@
 		"price": 1075,
 		"category": "Ranged weapons",
 		"defname": "Gun_SOLOTHURN_FA"
-	},
-	{
-		"abr": "stormtrooperharness(ig)",
-		"price": 74,
-		"category": "Imperial German Armor",
-		"defname": "Apparel_IGStormtrooperHarness"
-	},
-	{
-		"abr": "stormtrooperuniform(ig)",
-		"price": 281,
-		"category": "Imperial German suits",
-		"defname": "Apparel_IGStormtrooperUniform"
 	},
 	{
 		"abr": "thorneycroft",
@@ -5947,178 +5287,16 @@
 		"defname": "Gun_WaltherCarbine_FA"
 	},
 	{
-		"abr": "webleyrevolver",
-		"price": 210,
-		"category": "Ranged weapons",
-		"defname": "BWS_Webley"
-	},
-	{
 		"abr": "weibelm1932",
 		"price": 1200,
 		"category": "Ranged weapons",
 		"defname": "Gun_WeibelM1932_FA"
 	},
 	{
-		"abr": "zf39",
-		"price": 200,
-		"category": "Misc",
-		"defname": "ZF39_RA"
-	},
-	{
-		"abr": "zf4",
-		"price": 150,
-		"category": "Misc",
-		"defname": "ZF4_RA"
-	},
-	{
 		"abr": "zh-29",
 		"price": 1075,
 		"category": "Ranged weapons",
 		"defname": "Gun_ZH29_FA"
-	},
-	{
-		"abr": "zombieextract",
-		"price": 17,
-		"category": "Serum",
-		"defname": "ZombieExtract"
-	},
-	{
-		"abr": "zombiemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Zombie"
-	},
-	{
-		"abr": "zombieserum10%",
-		"price": 200,
-		"category": "Serum",
-		"defname": "Zombie10Serum"
-	},
-	{
-		"abr": "zombieserum100%",
-		"price": 2000,
-		"category": "Serum",
-		"defname": "Zombie100Serum"
-	},
-	{
-		"abr": "zombieserum20%",
-		"price": 400,
-		"category": "Serum",
-		"defname": "Zombie20Serum"
-	},
-	{
-		"abr": "zombieserum30%",
-		"price": 600,
-		"category": "Serum",
-		"defname": "Zombie30Serum"
-	},
-	{
-		"abr": "zombieserum40%",
-		"price": 800,
-		"category": "Serum",
-		"defname": "Zombie40Serum"
-	},
-	{
-		"abr": "zombieserum50%",
-		"price": 1000,
-		"category": "Serum",
-		"defname": "Zombie50Serum"
-	},
-	{
-		"abr": "zombieserum60%",
-		"price": 1200,
-		"category": "Serum",
-		"defname": "Zombie60Serum"
-	},
-	{
-		"abr": "zombieserum70%",
-		"price": 1400,
-		"category": "Serum",
-		"defname": "Zombie70Serum"
-	},
-	{
-		"abr": "zombieserum80%",
-		"price": 1600,
-		"category": "Serum",
-		"defname": "Zombie80Serum"
-	},
-	{
-		"abr": "zombieserum90%",
-		"price": 1800,
-		"category": "Serum",
-		"defname": "Zombie90Serum"
-	},
-	{
-		"abr": "10,5cmheshell",
-		"price": 167,
-		"category": "10,5cm leFH 16 ammo",
-		"defname": "Shell_105cm_HE_KA"
-	},
-	{
-		"abr": "15cmherocket",
-		"price": 167,
-		"category": "15cm Nebelwerfer 41 ammo",
-		"defname": "Shell_Nebelwerfer_41_HE_RA"
-	},
-	{
-		"abr": "2cmhefi-tbelt",
-		"price": 167,
-		"category": "2cm Flak 38 ammo",
-		"defname": "Belt_Flak_38_HEFIT_RA"
-	},
-	{
-		"abr": "3,7cmapcrshell",
-		"price": 167,
-		"category": "3,7cm PaK 36 ammo",
-		"defname": "Shell_PaK_36_APCR_RA"
-	},
-	{
-		"abr": "3,7cmheshell",
-		"price": 167,
-		"category": "3,7cm PaK 36 ammo",
-		"defname": "Shell_PaK_36_HE_RA"
-	},
-	{
-		"abr": "7,5cmapcrshell",
-		"price": 167,
-		"category": "7,5cm PaK 40 ammo",
-		"defname": "Shell_PaK_40_APCR_RA"
-	},
-	{
-		"abr": "7,5cmaphecbcshell",
-		"price": 167,
-		"category": "7,5cm PaK 40 ammo",
-		"defname": "Shell_PaK_40_APHECBC_RA"
-	},
-	{
-		"abr": "7,5cmheshell",
-		"price": 167,
-		"category": "7,5cm PaK 40 ammo",
-		"defname": "Shell_PaK_40_HE_RA"
-	},
-	{
-		"abr": "7,5cmle.ig18heshell",
-		"price": 167,
-		"category": "7,5cm le.IG 18 ammo",
-		"defname": "Shell_leIG_18_HE_RA"
-	},
-	{
-		"abr": "7,5cmle.ig18heatshell",
-		"price": 167,
-		"category": "7,5cm le.IG 18 ammo",
-		"defname": "Shell_leIG_18_HEAT_RA"
-	},
-	{
-		"abr": "7,7cmapshell",
-		"price": 167,
-		"category": "7,7cm FK 96 n.A. ammo",
-		"defname": "Shell_77cm_AP_KA"
-	},
-	{
-		"abr": "7,7cmheshell",
-		"price": 167,
-		"category": "7,7cm FK 96 n.A. ammo",
-		"defname": "Shell_77cm_HE_KA"
 	},
 	{
 		"abr": "aimanager",
@@ -6187,12 +5365,6 @@
 		"defname": "BionicArm"
 	},
 	{
-		"abr": "bionicbrainpal",
-		"price": 5000,
-		"category": "Bionic",
-		"defname": "BionicTacticalImplant"
-	},
-	{
 		"abr": "bionicear",
 		"price": 1308,
 		"category": "Bionic",
@@ -6247,22 +5419,10 @@
 		"defname": "Gun_Borchardt_FA"
 	},
 	{
-		"abr": "c96",
-		"price": 313,
-		"category": "Weapon",
-		"defname": "Gun_C96_KA"
-	},
-	{
 		"abr": "c96schnellfeuer",
 		"price": 900,
 		"category": "Ranged weapons",
 		"defname": "Gun_C96Schnellfeuer_FA"
-	},
-	{
-		"abr": "cbrnsuit",
-		"price": 1817,
-		"category": "Headgear",
-		"defname": "Apparel_CBRNSuit"
 	},
 	{
 		"abr": "chargelance",
@@ -6319,30 +5479,6 @@
 		"defname": "Gun_DreyseM1852_FA"
 	},
 	{
-		"abr": "eintossflammenwerfer46",
-		"price": 342,
-		"category": "Weapon",
-		"defname": "Gun_Eintossflammenwerfer_46_RA"
-	},
-	{
-		"abr": "electronicbrainpal",
-		"price": 3250,
-		"category": "Bionic",
-		"defname": "ElectronicTacticalImplant"
-	},
-	{
-		"abr": "fedorovavtomat",
-		"price": 592,
-		"category": "Ranged weapons",
-		"defname": "Gun_Fedorov_TA"
-	},
-	{
-		"abr": "fg42",
-		"price": 917,
-		"category": "Weapon",
-		"defname": "Gun_FG_42_RA"
-	},
-	{
 		"abr": "fosberypump-actionshotgun",
 		"price": 892,
 		"category": "Ranged weapons",
@@ -6353,30 +5489,6 @@
 		"price": 517,
 		"category": "Ranged weapons",
 		"defname": "Gun_FrommerStop_FA"
-	},
-	{
-		"abr": "gew43",
-		"price": 633,
-		"category": "Weapon",
-		"defname": "Gun_Gew_43_RA"
-	},
-	{
-		"abr": "gew43withscope",
-		"price": 783,
-		"category": "Weapon",
-		"defname": "Gun_Gew_Scope_43_RA"
-	},
-	{
-		"abr": "gewehr98",
-		"price": 433,
-		"category": "Weapon",
-		"defname": "Gun_Gew_98_KA"
-	},
-	{
-		"abr": "gewehr98withbayonet",
-		"price": 533,
-		"category": "Weapon",
-		"defname": "Gun_Gew_98_Bayonet_KA"
 	},
 	{
 		"abr": "glisentim1910",
@@ -6409,30 +5521,6 @@
 		"defname": "Gun_InfernoCannon"
 	},
 	{
-		"abr": "kar98k",
-		"price": 433,
-		"category": "Weapon",
-		"defname": "Gun_Kar98K_RA"
-	},
-	{
-		"abr": "kar98kwithschiessbecher",
-		"price": 633,
-		"category": "Weapon",
-		"defname": "Gun_Kar98K_Schiessbecher_RA"
-	},
-	{
-		"abr": "kar98ksniper",
-		"price": 833,
-		"category": "Weapon",
-		"defname": "Gun_Kar98K_Sniper_RA"
-	},
-	{
-		"abr": "kar98kwithbayonet",
-		"price": 517,
-		"category": "Weapon",
-		"defname": "Gun_Kar98K_Bayonet_RA"
-	},
-	{
 		"abr": "laborafontbernat",
 		"price": 775,
 		"category": "Ranged weapons",
@@ -6463,46 +5551,10 @@
 		"defname": "Luciferium"
 	},
 	{
-		"abr": "m1873säbel",
-		"price": 292,
-		"category": "Weapon",
-		"defname": "MeleeWeapon_Sabel"
-	},
-	{
-		"abr": "m1914granade",
-		"price": 358,
-		"category": "Grenades",
-		"defname": "Weapon_M1914_TA"
-	},
-	{
-		"abr": "m1915stielhandgranate",
-		"price": 375,
-		"category": "Weapon",
-		"defname": "Weapon_M1915_KA"
-	},
-	{
-		"abr": "m1916selbstlader",
-		"price": 733,
-		"category": "Weapon",
-		"defname": "Gun_M1916_Selbstlader_KA"
-	},
-	{
 		"abr": "m2hyde",
 		"price": 842,
 		"category": "Ranged weapons",
 		"defname": "Gun_Hyde_SMG_FA"
-	},
-	{
-		"abr": "m24stielhandgranate",
-		"price": 358,
-		"category": "Weapon",
-		"defname": "Weapon_M24_RA"
-	},
-	{
-		"abr": "m31feldspaten",
-		"price": 113,
-		"category": "Weapon",
-		"defname": "MeleeWeapon_Feldspaten"
 	},
 	{
 		"abr": "macm1925",
@@ -6535,66 +5587,6 @@
 		"defname": "Gun_MAS38_FA"
 	},
 	{
-		"abr": "mg15n.a.",
-		"price": 908,
-		"category": "Weapon",
-		"defname": "Gun_MG_15_KA"
-	},
-	{
-		"abr": "mg34",
-		"price": 983,
-		"category": "Weapon",
-		"defname": "Gun_MG_34_RA"
-	},
-	{
-		"abr": "mg42",
-		"price": 875,
-		"category": "Weapon",
-		"defname": "Gun_MG_42_RA"
-	},
-	{
-		"abr": "microturretlauncher",
-		"price": 1442,
-		"category": "Ranged weapons",
-		"defname": "Gun_MicroTurretLauncher"
-	},
-	{
-		"abr": "mosinm1891",
-		"price": 325,
-		"category": "Ranged weapons",
-		"defname": "Gun_Mosin_TA"
-	},
-	{
-		"abr": "mp18",
-		"price": 567,
-		"category": "Weapon",
-		"defname": "Gun_MP_18_KA"
-	},
-	{
-		"abr": "mp3008",
-		"price": 281,
-		"category": "Weapon",
-		"defname": "Gun_MP_3008_RA"
-	},
-	{
-		"abr": "mp35",
-		"price": 533,
-		"category": "Weapon",
-		"defname": "Gun_MP_35_RA"
-	},
-	{
-		"abr": "mp40",
-		"price": 517,
-		"category": "Weapon",
-		"defname": "Gun_MP_40_RA"
-	},
-	{
-		"abr": "mp507",
-		"price": 358,
-		"category": "Weapon",
-		"defname": "Gun_MP_507_RA"
-	},
-	{
 		"abr": "mp41/44",
 		"price": 950,
 		"category": "Ranged weapons",
@@ -6607,34 +5599,10 @@
 		"defname": "Gun_Muller1902_FA"
 	},
 	{
-		"abr": "nagantm1895",
-		"price": 266,
-		"category": "Ranged weapons",
-		"defname": "Gun_Nagant_TA"
-	},
-	{
-		"abr": "nanoprinter",
-		"price": 758,
-		"category": "Production",
-		"defname": "NanoPrinter"
-	},
-	{
-		"abr": "nanoscanner",
-		"price": 160,
-		"category": "Production",
-		"defname": "NanoScanner"
-	},
-	{
 		"abr": "netschm1919smg",
 		"price": 758,
 		"category": "Ranged weapons",
 		"defname": "Gun_NetschSMG_FA"
-	},
-	{
-		"abr": "nuclearrocketlauncher",
-		"price": 8333,
-		"category": "Ranged weapons",
-		"defname": "Gun_NuclearLauncher"
 	},
 	{
 		"abr": "orbitalbombardmenttargeter",
@@ -6649,46 +5617,10 @@
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
-		"abr": "p08",
-		"price": 425,
-		"category": "Weapon",
-		"defname": "Gun_P08_KA"
-	},
-	{
-		"abr": "p08",
-		"price": 425,
-		"category": "Weapon",
-		"defname": "Gun_P08_RA"
-	},
-	{
-		"abr": "p08artillerie",
-		"price": 475,
-		"category": "Weapon",
-		"defname": "Gun_P08_Artillerie_KA"
-	},
-	{
-		"abr": "p38",
-		"price": 315,
-		"category": "Weapon",
-		"defname": "Gun_P38_RA"
-	},
-	{
-		"abr": "panzerfaust60",
-		"price": 367,
-		"category": "Weapon",
-		"defname": "Gun_Panzerfaust_60_RA"
-	},
-	{
 		"abr": "personacore",
 		"price": 6667,
 		"category": "Items",
 		"defname": "AIPersonaCore"
-	},
-	{
-		"abr": "ppk",
-		"price": 400,
-		"category": "Weapon",
-		"defname": "Gun_PPK_RA"
 	},
 	{
 		"abr": "psychicanimalpulser",
@@ -6721,18 +5653,6 @@
 		"defname": "PsychicSoothePulser"
 	},
 	{
-		"abr": "pzb39",
-		"price": 808,
-		"category": "Weapon",
-		"defname": "Gun_PzB_39_RA"
-	},
-	{
-		"abr": "railgun",
-		"price": 2667,
-		"category": "Ranged weapons",
-		"defname": "Gun_RailgunMKI"
-	},
-	{
 		"abr": "reconarmor",
 		"price": 2567,
 		"category": "Armor",
@@ -6761,18 +5681,6 @@
 		"price": 875,
 		"category": "Ranged weapons",
 		"defname": "Gun_RibeyChauchat_FA"
-	},
-	{
-		"abr": "s84/98iiibayonet",
-		"price": 82,
-		"category": "Weapon",
-		"defname": "MeleeWeapon_S84_98_III_RA"
-	},
-	{
-		"abr": "s98/05bayonet",
-		"price": 97,
-		"category": "Weapon",
-		"defname": "MeleeWeapon_S98_05_KA"
 	},
 	{
 		"abr": "salvador-dormusm1891",
@@ -6931,18 +5839,6 @@
 		"defname": "Gun_SteyrSMG_FA"
 	},
 	{
-		"abr": "stg44",
-		"price": 683,
-		"category": "Weapon",
-		"defname": "Gun_StG_44_RA"
-	},
-	{
-		"abr": "stg44withscope",
-		"price": 833,
-		"category": "Weapon",
-		"defname": "Gun_StG_44_Scope_RA"
-	},
-	{
 		"abr": "suomim/31",
 		"price": 950,
 		"category": "Ranged weapons",
@@ -6955,23 +5851,53 @@
 		"defname": "TechprofSubpersonaCore"
 	},
 	{
-		"abr": "tornadogenerator",
-		"price": 1333,
-		"category": "Utility",
-		"defname": "TornadoGenerator"
+		"abr": "chemfuelpoweredgenerator",
+		"price": 492,
+		"category": "",
+		"defname": "ChemfuelPoweredGenerator"
 	},
 	{
-		"abr": "triplerocketlauncher",
-		"price": 1667,
-		"category": "Ranged weapons",
-		"defname": "Gun_TripleRocket"
+		"abr": "cooler",
+		"price": 458,
+		"category": "",
+		"defname": "Cooler"
 	},
 	{
-		"abr": "type1nambu",
-		"price": 1033,
-		"category": "Ranged weapons",
-		"defname": "Gun_Type1Nambu_FA"
+		"abr": "electriccrematorium",
+		"price": 700,
+		"category": "",
+		"defname": "ElectricCrematorium"
+	},
+	{
+		"abr": "granitechunk",
+		"price": 18,
+		"category": "Stone chunks",
+		"defname": "ChunkGranite"
+	},
+	{
+		"abr": "hopper",
+		"price": 49,
+		"category": "",
+		"defname": "Hopper"
+	},
+	{
+		"abr": "hydroponicsbasin",
+		"price": 383,
+		"category": "",
+		"defname": "HydroponicsBasin"
+	},
+	{
+		"abr": "limestonechunk",
+		"price": 16,
+		"category": "Stone chunks",
+		"defname": "ChunkLimestone"
+	},
+	{
+		"abr": "marblechunk",
+		"price": 13,
+		"category": "Stone chunks",
+		"defname": "ChunkMarble"
 	}
 	],
-	"total": 1173
+	"total": 1589
 }
