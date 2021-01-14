@@ -1,53 +1,83 @@
 {
 "races": [
-    {
-      "defName": "MorrowRim_AltmerRace",
-      "enabled": true,
-      "name": "altmer",
-      "price": 2000
-    },
-    {
+       {
+      "price": 2000,
       "defName": "ChjAndroid",
       "enabled": true,
-      "name": "android",
-      "price": 2000
+      "name": "Android",
+
+      
     },
     {
-      "defName": "MorrowRim_BosmerRace",
+      "price": 2500,
+      "defName": "B-1_Droid_Specialist",
       "enabled": true,
-      "name": "bosmer",
-      "price": 2000
+      "name": "B-1 Droid Specialist",
+
+      
     },
     {
+      "price": 2500,
+      "defName": "B-1_Commander_Droid",
+      "enabled": true,
+      "name": "B-1_Commander_Droid",
+      
+    },
+    {
+      "price": 2500,
+      "defName": "Super_Battle_Droid",
+      "enabled": true,
+      "name": "B-2 Super Battle Droid",
+ 
+      
+    },
+    {
+      "price": 3000,
+      "defName": "BX_Droid_Commando",
+      "enabled": true,
+      "name": "BX Droid Commando",
+      
+    },
+    {
+      "price": 1417,
+      "defName": "ChjDroid",
+      "enabled": false,
+      "name": "Droid",
+      
+    },
+    {
+      "price": 3000,
+      "defName": "Droidekas",
+      "enabled": true,
+      "name": "Droidekas",
+      
+    },
+    {
+      "price": 1500,
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 1500
+      
     },
     {
-      "defName": "Alien_Thrumboian",
+      "price": 3000,
+      "defName": "IG-100_Magnaguard",
       "enabled": true,
-      "name": "thrumboian",
-      "price": 2000
+      "name": "IG-100 Magnaguard",
+   
     },
     {
-      "defName": "Alien_Drow_Otto",
+      "price": 3000,
+      "defName": "Super_Tactical_Droid",
       "enabled": true,
-      "name": "Drow",
-      "price": 2000
+      "name": "Super Tactical Droid",
     },
     {
-      "defName": "Alien_OrassanHumanHybrid",
+      "price": 3000,
+      "defName": "T-Series_Tactical_Droid",
       "enabled": true,
-      "name": "neko",
-      "price": 2000
-     },
-    {
-      "defName": "Alien_Orassan",
-      "enabled": true,
-      "name": "orassan",
-      "price": 2000
+      "name": "T-Series Tactical Droid",
     }
   ],
-  "total": 8 
+  "total": 12
 }
