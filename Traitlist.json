@@ -5,7 +5,7 @@
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10000,
-      "removePrice": 000,
+      "removePrice": 5500,
       "defName": "PJ_ForceSensitive",
       "degree": 1,
       "name": "forcesensitive",
