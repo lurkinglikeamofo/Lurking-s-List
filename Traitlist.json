@@ -1,7 +1,7 @@
 {
  
   "traits": [
-   {
+     {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 10000,
@@ -20,6 +20,7 @@
       "conflicts": [],
       "bypassLimit": false
     },
+   
    {
       "canAdd": true,
       "canRemove": true,
