@@ -1,7 +1,26 @@
 {
  
   "traits": [
-    {
+   {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "PJ_ForceSensitive",
+      "degree": 1,
+      "name": "forcesensitive",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy has the ability to feel the force that surrounds us.\n\n(Star Wars - The Force)",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false
+    },
+   {
       "canAdd": true,
       "canRemove": true,
       "addPrice": 5500,
@@ -4263,5 +4282,5 @@
       "bypassLimit": false
     }
   ],
-  "total": 121
+  "total": 122
 }
