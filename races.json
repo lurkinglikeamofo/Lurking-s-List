@@ -1,83 +1,85 @@
 {
 "races": [
-       {
-      "price": 2000,
+      {
+      "price": 2500,
       "defName": "ChjAndroid",
       "enabled": true,
       "name": "Android",
-
-      
+      "data": {
+        "customName": false
+      }
     },
     {
       "price": 2500,
-      "defName": "B-1_Droid_Specialist",
+      "defName": "StarWarsRaces_Ewok",
       "enabled": true,
-      "name": "B-1 Droid Specialist",
-
-      
+      "name": "Ewok",
+      "data": {
+        "customName": false
+      }
     },
     {
       "price": 2500,
-      "defName": "B-1_Commander_Droid",
-      "enabled": true,
-      "name": "B-1_Commander_Droid",
-      
-    },
-    {
-      "price": 2500,
-      "defName": "Super_Battle_Droid",
-      "enabled": true,
-      "name": "B-2 Super Battle Droid",
- 
-      
-    },
-    {
-      "price": 3000,
-      "defName": "BX_Droid_Commando",
-      "enabled": true,
-      "name": "BX Droid Commando",
-      
-    },
-    {
-      "price": 1417,
-      "defName": "ChjDroid",
-      "enabled": false,
-      "name": "Droid",
-      
-    },
-    {
-      "price": 3000,
-      "defName": "Droidekas",
-      "enabled": true,
-      "name": "Droidekas",
-      
-    },
-    {
-      "price": 1500,
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      
+      "data": {
+        "customName": false
+      }
     },
     {
-      "price": 3000,
-      "defName": "IG-100_Magnaguard",
+      "price": 2500,
+      "defName": "StarWarsRaces_Rodian",
       "enabled": true,
-      "name": "IG-100 Magnaguard",
-   
+      "name": "Rodian",
+      "data": {
+        "customName": false
+      }
     },
     {
-      "price": 3000,
-      "defName": "Super_Tactical_Droid",
+      "price": 2500,
+      "defName": "StarWarsRaces_Togruta",
       "enabled": true,
-      "name": "Super Tactical Droid",
+      "name": "Togruta",
+      "data": {
+        "customName": false
+      }
     },
     {
-      "price": 3000,
-      "defName": "T-Series_Tactical_Droid",
+      "price": 2500,
+      "defName": "Alien_Twilek",
       "enabled": true,
-      "name": "T-Series Tactical Droid",
+      "name": "Twilek",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "StarWarsRaces_Twilek",
+      "enabled": true,
+      "name": "Twi'lek",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "StarWarsRaces_Wookiee",
+      "enabled": true,
+      "name": "Wookiee",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Alien_Zabrak",
+      "enabled": true,
+      "name": "Zabrak",
+      "data": {
+        "customName": false
     }
   ],
-  "total": 11
+  "total": 9
 }
