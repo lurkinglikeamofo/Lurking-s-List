@@ -4426,31 +4426,31 @@
       "abr": "auxiliaryai(agricultural)",
       "category": "Archotech",
       "defname": "FarmerCore",
-      "price": 5833
+      "price": 7500
     },
     {
       "abr": "auxiliaryai(constructing)",
       "category": "Archotech",
       "defname": "ConstructorCore",
-      "price": 5833
+      "price": 7500
     },
     {
       "abr": "auxiliaryai(diplomatic)",
       "category": "Archotech",
       "defname": "DiplomatCore",
-      "price": 5833
+      "price": 7500
     },
     {
       "abr": "auxiliaryai(medical)",
       "category": "Archotech",
       "defname": "DoctorCore",
-      "price": 5833
+      "price": 7500
     },
     {
       "abr": "auxiliaryai(mining)",
       "category": "Archotech",
       "defname": "MinerCore",
-      "price": 5833
+      "price": 7500
     },
     {
       "abr": "axe",
@@ -6784,7 +6784,7 @@
       "abr": "musclestimulator",
       "category": "Archotech",
       "defname": "MuscleStimulator",
-      "price": 4167
+      "price": 6000
     },
     {
       "abr": "nerf",
@@ -7738,7 +7738,7 @@
       "abr": "psychicharmonizer",
       "category": "Archotech",
       "defname": "PsychicHarmonizer",
-      "price": 1333
+      "price": 3000
     },
     {
       "abr": "psychicpacifier",
@@ -7750,13 +7750,13 @@
       "abr": "psychicreader",
       "category": "Archotech",
       "defname": "PsychicReader",
-      "price": 1667
+      "price": 3000
     },
     {
       "abr": "psychicsensitizer",
       "category": "Archotech",
       "defname": "PsychicSensitizer",
-      "price": 1667
+      "price": 3000
     },
     {
       "abr": "psychicwarhead",
@@ -7768,7 +7768,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": 4333
+      "price": 7500
     },
     {
       "abr": "psytrainer(beckon)",
@@ -8584,7 +8584,7 @@
       "abr": "tacticalcorneaimplant",
       "category": "Archotech",
       "defname": "TacticalCorneaImplant",
-      "price": 4167
+      "price": 7500
     },
     {
       "abr": "tanktop",
