@@ -2,24 +2,6 @@
 "races": [
       {
       "price": 2500,
-      "defName": "ChjAndroid",
-      "enabled": true,
-      "name": "Android",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "StarWarsRaces_Ewok",
-      "enabled": true,
-      "name": "Ewok",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
       "defName": "Human",
       "enabled": true,
       "name": "human",
@@ -27,60 +9,7 @@
         "customName": false
       }
     },
-    {
-      "price": 2500,
-      "defName": "StarWarsRaces_Rodian",
-      "enabled": true,
-      "name": "Rodian",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "StarWarsRaces_Togruta",
-      "enabled": true,
-      "name": "Togruta",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "Alien_Twilek",
-      "enabled": true,
-      "name": "Twilek",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "StarWarsRaces_Twilek",
-      "enabled": true,
-      "name": "Twi'lek",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "StarWarsRaces_Wookiee",
-      "enabled": true,
-      "name": "Wookiee",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "Alien_Zabrak",
-      "enabled": true,
-      "name": "Zabrak",
-      "data": {
-        "customName": false
-      }
-    }
+   
   ],
-  "total": 9
+  "total": 1
 }
