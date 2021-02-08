@@ -8,7 +8,7 @@
 	{
 		"abr": "tornados",
 		"price": 25000,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "clearweather",
@@ -72,7 +72,7 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 850,
 		"karmatype": "Bad"
 	},
 	{
@@ -82,12 +82,12 @@
 	},
 	{
 		"abr": "toxicfallout",
-		"price": 6500,
+		"price": 8500,
 		"karmatype": "Doom"
 	},
 	{
 		"abr": "volcanicwinter",
-		"price": 3200,
+		"price": 4500,
 		"karmatype": "Doom"
 	},
 	{
@@ -127,12 +127,12 @@
 	},
 	{
 		"abr": "orbitaltraderarrival",
-		"price": 350,
+		"price": 550,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 250,
 		"karmatype": "Neutral"
 	},
 	{
@@ -142,12 +142,12 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": 400,
+		"price": 650,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "psychicsoothe",
-		"price": 250,
+		"price": 650,
 		"karmatype": "Good"
 	},
 	{
@@ -226,11 +226,6 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 5000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "sapperraid",
 		"price": 5000,
 		"karmatype": "Bad"
@@ -262,22 +257,17 @@
 	},
 	{
 		"abr": "randomdisease",
-		"price": 1000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "disease",
-		"price": 4000,
+		"price": 7500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
 		"price": 10000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -294,11 +284,6 @@
 		"abr": "removetrait",
 		"price": 1,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "genderswap",
-		"price": 600,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "prisoner",
@@ -324,11 +309,6 @@
 		"abr": "hodlbotvote",
 		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "reviveall",
-		"price": 100000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
@@ -368,8 +348,33 @@
 	{
 		"abr": "backpack",
 		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "hailstorm",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "earthquake",
+		"price": 5000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "cropsprout",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "drought",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "huntingparty",
+		"price": 1000,
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 74
+	"total": 75
 }
