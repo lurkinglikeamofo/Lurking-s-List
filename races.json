@@ -1,7 +1,7 @@
 {
 "races": [
       {
-   "price": 8333,
+        "price": 8333,
       "defName": "RH_TET_Beastmen_Alien_BrayGor",
       "enabled": true,
       "name": "bray shaman",
@@ -108,7 +108,6 @@
         "customName": false
       }
     },
-   
   ],
   "total": 12
 }
