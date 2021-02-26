@@ -276,6 +276,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "pawn",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -321,13 +326,18 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "reviveall",
+		"price": 55000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "reviveme",
 		"price": 10000,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -361,5 +371,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 72
+	"total": 74
 }
