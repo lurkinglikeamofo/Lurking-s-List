@@ -1,115 +1,43 @@
 {
 "races": [
       {
-      "price": 8333,
-      "defName": "RH_TET_Beastmen_Alien_BrayGor",
+            "price": 3500,
+      "defName": "ChjAndroid",
       "enabled": true,
-      "name": "bray shaman",
+      "name": "Android",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 2917,
-      "defName": "RH_TET_Dwarf_Race_Standard",
-      "enabled": true,
-      "name": "dwarf",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "RH_TET_Beastmen_Alien_Gor",
-      "enabled": true,
-      "name": "gor",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1500,
+      "price": 2500,
       "defName": "Human",
       "enabled": true,
       "name": "human",
       "data": {
-        "customName": false
+        "customName": true
+     }
+    },
+    {
+      "price": 4000,
+      "defName": "OG_Abhuman_Ogryn",
+      "enabled": true,
+      "name": "ogryn",
+      "data": {
+        "customName": true
       }
     },
     {
-      "price": 4167,
-      "defName": "RH_TET_Beastmen_Alien_Khornegor",
+      "price": 4000,
+      "defName": "OG_Abhuman_Ratling",
       "enabled": true,
-      "name": "khornegor",
+      "name": "ratling",
       "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 1500,
-      "defName": "Pawnbold_bold",
-      "enabled": true,
-      "name": "kobold",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 4083,
-      "defName": "FP_OgreRace",
-      "enabled": true,
-      "name": "ogre",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "RH_TET_Beastmen_Alien_Pestigor",
-      "enabled": true,
-      "name": "pestigor",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 4167,
-      "defName": "RH_TET_Beastmen_Alien_Slaangor",
-      "enabled": true,
-      "name": "slaangor",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2917,
-      "defName": "RH_TET_Dwarf_Slayer_Race_Standard",
-      "enabled": true,
-      "name": "slayer",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 4167,
-      "defName": "RH_TET_Beastmen_Alien_Tzaangor",
-      "enabled": true,
-      "name": "tzaangor",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2000,
-      "defName": "RH_TET_Beastmen_Alien_Ungor",
-      "enabled": true,
-      "name": "ungor",
-      "data": {
-        "customName": false
+        "customName": true
 
       }
     }
    
   ],
-  "total": 12
+  "total": 4
 }
