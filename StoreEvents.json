@@ -2,13 +2,13 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 15000,
-		"karmatype": "Doom"
+		"price": 12500,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 30000,
-		"karmatype": "Doom"
+		"price": 25000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "clearweather",
@@ -136,11 +136,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "maninblack",
-		"price": 350,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -168,11 +163,6 @@
 	{
 		"abr": "farmanimals",
 		"price": 400,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wildman",
-		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -227,7 +217,7 @@
 	},
 	{
 		"abr": "raid",
-		"price": 5000,
+		"price": 3500,
 		"karmatype": "Bad"
 	},
 	{
@@ -252,7 +242,7 @@
 	},
 	{
 		"abr": "infestation",
-		"price": 5000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -272,17 +262,12 @@
 	},
 	{
 		"abr": "disease",
-		"price": 10000,
-		"karmatype": "Doom"
+		"price": 1000,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveanypawn",
-		"price": 10000,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
+		"price": 1200,
 		"karmatype": "Good"
 	},
 	{
@@ -302,13 +287,8 @@
 	},
 	{
 		"abr": "genderswap",
-		"price": 1,
+		"price": 600,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "prisoner",
-		"price": 800,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "visitcolony",
@@ -323,26 +303,26 @@
 	{
 		"abr": "torytalkervote",
 		"price": 750,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "hodlbotvote",
 		"price": 600,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveall",
-		"price": 100000,
+		"price": 22664,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "reviveme",
-		"price": 10000,
+		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -361,11 +341,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "passion",
 		"price": 7000,
 		"karmatype": "Good"
@@ -381,5 +356,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 76
+	"total": 71
 }
