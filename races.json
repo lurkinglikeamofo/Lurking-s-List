@@ -2,10 +2,10 @@
 "races": [
       {
         
-      "price": 1500,
+      "price": 1,
       "defName": "Human",
       "enabled": true,
-      "name": "human",
+      "name": "No Pawn Available. Join Queue Instead",
       "data": {
         "customName": true
       }
