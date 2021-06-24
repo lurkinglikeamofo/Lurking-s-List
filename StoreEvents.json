@@ -276,11 +276,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "pawn",
-		"price": 1,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "levelskill",
 		"price": 1500,
 		"karmatype": "Good"
@@ -318,7 +313,7 @@
 	{
 		"abr": "hodlbotvote",
 		"price": 600,
-		"karmatype": "Good"
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "reviveall",
@@ -363,8 +358,8 @@
 	{
 		"abr": "backpack",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	}
 	],
-	"total": 73
+	"total": 72
 }
